@@ -1,0 +1,883 @@
+Category,Model,Model Year,Manufacturer,Fuel,Alternative Fuel Economy City,Alternative Fuel Economy Combined,Conventional Fuel Economy City,Conventional Fuel Economy Combined,Drivetrain
+Sedan/Wagon,NSX,2022.0,Acura,Hybrid Electric,,,21.0,21.0,AWD
+Sedan/Wagon,A3 ,2022.0,Audi,Hybrid Electric,,,29.0,32.0,FWD
+Sedan/Wagon,A3 quattro,2022.0,Audi,Hybrid Electric,,,28.0,31.0,AWD
+Sedan/Wagon,A4 allroad quattro,2022.0,Audi,Hybrid Electric,,,24.0,26.0,AWD
+Sedan/Wagon,A4 quattro,2022.0,Audi,Hybrid Electric,,,26.0,29.0,AWD
+Sedan/Wagon,A4 S line quattro,2022.0,Audi,Hybrid Electric,,,24.0,27.0,AWD
+Sedan/Wagon,A5 Cabriolet quattro,2022.0,Audi,Hybrid Electric,,,23.0,26.0,AWD
+Sedan/Wagon,A5 Coupe quattro,2022.0,Audi,Hybrid Electric,,,24.0,27.0,AWD
+Sedan/Wagon,A5 Sportback quattro,2022.0,Audi,Hybrid Electric,,,26.0,29.0,AWD
+Sedan/Wagon,A5 Sportback S line quattro,2022.0,Audi,Hybrid Electric,,,24.0,27.0,AWD
+Sedan/Wagon,A6 Allroad quattro,2022.0,Audi,Hybrid Electric,,,21.0,23.0,AWD
+Sedan/Wagon,A6 quattro,2022.0,Audi,Hybrid Electric,,,21.0,24.0,AWD
+Sedan/Wagon,A6 quattro,2022.0,Audi,Hybrid Electric,,,23.0,26.0,AWD
+Sedan/Wagon,A7 quattro,2022.0,Audi,Hybrid Electric,,,21.0,24.0,AWD
+Sedan/Wagon,A7 TFSI e quattro,2022.0,Audi,Plug-in Hybrid Electric,,70.0,25.0,27.0,AWD
+Sedan/Wagon,A8L quattro,2022.0,Audi,Hybrid Electric,,,19.0,22.0,AWD
+Sedan/Wagon,e-tron GT,2022.0,Audi,Electric,81.0,82.0,,,AWD
+SUV,e-tron quattro,2022.0,Audi,Electric,78.0,78.0,,,AWD
+SUV,"e-tron S (20"" wheels)",2022.0,Audi,Electric,72.0,73.0,,,AWD
+SUV,"e-tron S (21"" or 22"" wheels)",2022.0,Audi,Electric,62.0,63.0,,,AWD
+SUV,e-tron Sportback quattro,2022.0,Audi,Electric,76.0,77.0,,,AWD
+SUV,"e-tron S Sportback (20"" wheels)",2022.0,Audi,Electric,73.0,75.0,,,AWD
+SUV,"e-tron S Sportback (21"" or 22"" wheels)",2022.0,Audi,Electric,64.0,65.0,,,AWD
+SUV,Q4 e-tron quattro,2022.0,Audi,Electric,100.0,95.0,,,AWD
+SUV,Q4 e-tron Sportback quattro,2022.0,Audi,Electric,100.0,95.0,,,AWD
+SUV,Q5 quattro,2022.0,Audi,Hybrid Electric,,,23.0,25.0,AWD
+SUV,Q5 S line quattro,2022.0,Audi,Hybrid Electric,,,23.0,25.0,AWD
+SUV,Q5 Sportback S line quattro,2022.0,Audi,Hybrid Electric,,,23.0,25.0,AWD
+Sedan/Wagon,Q5 TFSI e quattro,2022.0,Audi,Plug-in Hybrid Electric,,61.0,25.0,26.0,AWD
+SUV,Q7 quattro,2022.0,Audi,Hybrid Electric,,,18.0,20.0,AWD
+SUV,Q8 quattro,2022.0,Audi,Hybrid Electric,,,18.0,20.0,AWD
+Sedan/Wagon,RS 6 Avant,2022.0,Audi,Hybrid Electric,,,15.0,17.0,AWD
+Sedan/Wagon,RS7,2022.0,Audi,Hybrid Electric,,,15.0,17.0,AWD
+SUV,RS e-tron GT,2022.0,Audi,Electric,100.0,95.0,,,AWD
+Sedan/Wagon,RS Q8,2022.0,Audi,Hybrid Electric,,,13.0,15.0,AWD
+Sedan/Wagon,S6,2022.0,Audi,Hybrid Electric,,,18.0,22.0,AWD
+Sedan/Wagon,S7,2022.0,Audi,Hybrid Electric,,,18.0,22.0,AWD
+Sedan/Wagon,S8,2022.0,Audi,Hybrid Electric,,,14.0,17.0,AWD
+Sedan/Wagon,Flying Spur Hybrid,2022.0,Bentley Motors,Plug-in Hybrid Electric,,46.0,17.0,19.0,
+Sedan/Wagon,330e Sedan,2022.0,BMW,Plug-in Hybrid Electric,,75.0,25.0,28.0,RWD
+Sedan/Wagon,330e xDrive,2022.0,BMW,Plug-in Hybrid Electric,,67.0,22.0,25.0,AWD
+Sedan/Wagon,530e Sedan,2022.0,BMW,Plug-in Hybrid Electric,,64.0,24.0,26.0,RWD
+Sedan/Wagon,530e xDrive Sedan,2022.0,BMW,Plug-in Hybrid Electric,,62.0,22.0,25.0,AWD
+Sedan/Wagon,540i Sedan,2022.0,BMW,Hybrid Electric,,,25.0,27.0,RWD
+Sedan/Wagon,540i xDrive Sedan,2022.0,BMW,Hybrid Electric,,,22.0,25.0,AWD
+Sedan/Wagon,745e xDrive,2022.0,BMW,Plug-in Hybrid Electric,,56.0,19.0,22.0,AWD
+Sedan/Wagon,"i4 eDrive40 Gran Coupe (18"" Wheels) ",2022.0,BMW,Electric,109.0,109.0,,,RWD
+Sedan/Wagon,"i4 eDrive40 Gran Coupe (19"" Wheels) ",2022.0,BMW,Electric,100.0,99.0,,,RWD
+Sedan/Wagon,"i4 M50 Gran Coupe (19"" Wheels) ",2022.0,BMW,Electric,94.0,96.0,,,AWD
+Sedan/Wagon,"i4 M50 Gran Coupe (20"" Wheels) ",2022.0,BMW,Electric,79.0,80.0,,,AWD
+SUV,"iX xDrive50 (20"" Wheels) ",2022.0,BMW,Electric,86.0,86.0,,,AWD
+SUV,"iX xDrive50 (21"" Wheels) ",2022.0,BMW,Electric,82.0,83.0,,,AWD
+SUV,"iX xDrive50 (22"" Wheels) ",2022.0,BMW,Electric,86.0,86.0,,,AWD
+Sedan/Wagon,M340i Sedan,2022.0,BMW,Hybrid Electric,,,23.0,26.0,RWD
+Sedan/Wagon,M340i xDrive Sedan,2022.0,BMW,Hybrid Electric,,,23.0,26.0,AWD
+Sedan/Wagon,M440i Convertible,2022.0,BMW,Hybrid Electric,,,23.0,26.0,AWD
+Sedan/Wagon,M440i Coupe,2022.0,BMW,Hybrid Electric,,,25.0,28.0,RWD
+Sedan/Wagon,M440i xDrive Convertible,2022.0,BMW,Hybrid Electric,,,23.0,26.0,AWD
+Sedan/Wagon,M440i xDrive Coupe,2022.0,BMW,Hybrid Electric,,,23.0,26.0,AWD
+Sedan/Wagon,M440i xDrive Gran Coupe,2022.0,BMW,Hybrid Electric,,,22.0,25.0,RWD
+SUV,X3 M40i,2022.0,BMW,Hybrid Electric,,,21.0,23.0,AWD
+SUV,X4 M40i,2022.0,BMW,Hybrid Electric,,,21.0,23.0,AWD
+SUV,X5 sDrive40i,2022.0,BMW,Hybrid Electric,,,21.0,23.0,RWD
+SUV,X5 xDrive40i,2022.0,BMW,Hybrid Electric,,,21.0,23.0,AWD
+SUV,X5 xDrive45e,2022.0,BMW,Plug-in Hybrid Electric,,50.0,19.0,20.0,AWD
+SUV,X6 xDrive40i,2022.0,BMW,Hybrid Electric,,,21.0,23.0,AWD
+SUV,X7 xDrive40i,2022.0,BMW,Hybrid Electric,,,19.0,21.0,AWD
+SUV,Escalade 2WD,2022.0,Cadillac,Biodiesel (B20),,,21.0,23.0,RWD
+SUV,Escalade 4WD,2022.0,Cadillac,Biodiesel (B20),,,20.0,22.0,4WD
+Sedan/Wagon,Bolt EUV,2022.0,Chevrolet,Electric,125.0,115.0,,,FWD
+Sedan/Wagon,Bolt EV,2022.0,Chevrolet,Electric,131.0,120.0,,,FWD
+Pickup,Colorado 2WD,2022.0,Chevrolet,Biodiesel (B20),,,20.0,23.0,RWD
+Pickup,Colorado 4WD,2022.0,Chevrolet,Biodiesel (B20),,,19.0,22.0,4WD
+Pickup,Colorado ZR2 4WD,2022.0,Chevrolet,Biodiesel (B20),,,18.0,19.0,4WD
+Pickup,Silverado 2WD,2022.0,Chevrolet,Ethanol (E85),11.0,12.0,15.0,16.0,RWD
+Pickup,Silverado 2WD,2022.0,Chevrolet,Biodiesel (B20),,,23.0,26.0,RWD
+Pickup,Silverado 4WD,2022.0,Chevrolet,Ethanol (E85),11.0,12.0,14.0,15.0,4WD
+Pickup,Silverado 4WD,2022.0,Chevrolet,Biodiesel (B20),,,22.0,23.0,4WD
+Pickup,Silverado 4WD,2022.0,Chevrolet,Biodiesel (B20),,,22.0,24.0,4WD
+Pickup,Silverado 4WD - Mud Terrain Tires,2022.0,Chevrolet,Biodiesel (B20),,,20.0,21.0,4WD
+Pickup,Silverado 4WD - Mud Terrain Tires,2022.0,Chevrolet,Ethanol (E85),10.0,11.0,14.0,15.0,4WD
+SUV,Suburban 2WD,2022.0,Chevrolet,Biodiesel (B20),,,21.0,23.0,RWD
+SUV,Suburban 4WD,2022.0,Chevrolet,Biodiesel (B20),,,20.0,22.0,4WD
+SUV,Tahoe 2WD,2022.0,Chevrolet,Biodiesel (B20),,,21.0,24.0,RWD
+SUV,Tahoe 4WD,2022.0,Chevrolet,Biodiesel (B20),,,20.0,22.0,4WD
+Van,Pacifica Hybrid,2022.0,Chrysler,Plug-in Hybrid Electric,,82.0,29.0,30.0,FWD
+Sedan/Wagon,SF90 Spyder,2022.0,Ferrari,Plug-in Hybrid Electric,,44.0,16.0,17.0,AWD
+Sedan/Wagon,SF90 Stradale ,2022.0,Ferrari,Plug-in Hybrid Electric,,51.0,16.0,18.0,AWD
+Sedan/Wagon,Escape AWD HEV,2022.0,Ford,Hybrid Electric,,,43.0,40.0,AWD
+Sedan/Wagon,Escape FWD HEV,2022.0,Ford,Hybrid Electric,,,44.0,41.0,FWD
+SUV,Escape FWD PHEV,2022.0,Ford,Plug-in Hybrid Electric,,105.0,43.0,41.0,FWD
+SUV,Explorer AWD FFV,2022.0,Ford,Ethanol (E85),11.0,13.0,16.0,19.0,AWD
+SUV,Explorer HEV AWD,2022.0,Ford,Hybrid Electric,,,23.0,25.0,AWD
+SUV,Explorer HEV RWD,2022.0,Ford,Hybrid Electric,,,27.0,27.0,RWD
+SUV,Explorer Platinum HEV ,2022.0,Ford,Hybrid Electric,,,23.0,23.0,Part-Time 4WD
+SUV,Explorer Platinum HEV ,2022.0,Ford,Hybrid Electric,,,25.0,26.0,RWD
+Pickup,F-150 2WD FFV,2022.0,Ford,Ethanol (E85),14.0,16.0,19.0,21.0,RWD
+Pickup,F-150 2WD FFV - Without Start/Stop,2022.0,Ford,Ethanol (E85),12.0,14.0,17.0,19.0,RWD
+Pickup,F-150 2WD FFV - With Start/Stop,2022.0,Ford,Ethanol (E85),11.0,14.0,17.0,20.0,RWD
+Pickup,F-150 4WD FFV,2022.0,Ford,Ethanol (E85),14.0,15.0,19.0,20.0,4WD
+Pickup,F-150 4WD FFV - Without Start/Stop,2022.0,Ford,Ethanol (E85),12.0,14.0,16.0,18.0,4WD
+Pickup,F-150 4WD FFV - With Start/Stop,2022.0,Ford,Ethanol (E85),11.0,13.0,16.0,19.0,4WD
+Pickup,F150 Lightning 4WD,2022.0,Ford,Electric,76.0,68.0,,,AWD
+Pickup,F150 Lightning 4WD Extended Range,2022.0,Ford,Electric,78.0,70.0,,,AWD
+Pickup,F150 Lightning Platinum 4WD,2022.0,Ford,Electric,73.0,66.0,,,AWD
+Pickup,F150 Pickup 2WD HEV,2022.0,Ford,Hybrid Electric,,,25.0,25.0,RWD
+Pickup,F150 Pickup 4WD HEV,2022.0,Ford,Hybrid Electric,,,23.0,23.0,4WD
+Pickup,Maverick Pickup HEV,2022.0,Ford,Hybrid Electric,,,42.0,37.0,FWD
+SUV,Mustang Mach-E AWD,2022.0,Ford,Electric,98.0,93.0,,,AWD
+SUV,Mustang Mach-E AWD California Route 1,2022.0,Ford,Electric,105.0,98.0,,,AWD
+SUV,Mustang Mach-E AWD Extended,2022.0,Ford,Electric,97.0,91.0,,,AWD
+SUV,Mustang Mach-E GT AWD,2022.0,Ford,Electric,90.0,84.0,,,AWD
+SUV,Mustang Mach-E GT Performance,2022.0,Ford,Electric,88.0,82.0,,,AWD
+SUV,Mustang Mach-E RWD,2022.0,Ford,Electric,110.0,103.0,,,RWD
+SUV,Mustang Mach-E RWD California Route 1,2022.0,Ford,Electric,108.0,101.0,,,RWD
+SUV,Mustang Mach-E RWD Extended,2022.0,Ford,Electric,104.0,97.0,,,RWD
+Van,Transit Connect Van FFV,2022.0,Ford,Ethanol (E85),18.0,19.0,24.0,25.0,FWD
+Passenger Van/Shuttle Bus,Transit Connect Wagon LWB FFV,2022.0,Ford,Ethanol (E85),16.0,18.0,24.0,26.0,FWD
+Van,Transit T150 Passenger Van 2WD FFV,2022.0,Ford,Ethanol (E85),11.0,12.0,15.0,17.0,RWD
+Van,Transit T150 Passenger Van 4WD FFV,2022.0,Ford,Ethanol (E85),11.0,12.0,14.0,16.0,4WD
+Pickup,Canyon 2WD,2022.0,GMC,Biodiesel (B20),,,20.0,23.0,RWD
+Pickup,Canyon 4WD,2022.0,GMC,Biodiesel (B20),,,19.0,22.0,4WD
+Pickup,Sierra 2WD,2022.0,GMC,Ethanol (E85),11.0,12.0,15.0,16.0,RWD
+Pickup,Sierra 2WD,2022.0,GMC,Biodiesel (B20),,,23.0,26.0,RWD
+Pickup,Sierra 4WD,2022.0,GMC,Ethanol (E85),11.0,12.0,14.0,16.0,4WD
+Pickup,Sierra 4WD,2022.0,GMC,Biodiesel (B20),,,22.0,24.0,4WD
+Pickup,Sierra 4WD - Mud Terrain Tires,2022.0,GMC,Biodiesel (B20),,,20.0,21.0,4WD
+Pickup,Sierra 4WD - Mud Terrain Tires,2022.0,GMC,Ethanol (E85),11.0,12.0,14.0,15.0,4WD
+SUV,Yukon 2WD,2022.0,GMC,Biodiesel (B20),,,21.0,23.0,RWD
+SUV,Yukon 4WD,2022.0,GMC,Biodiesel (B20),,,20.0,22.0,4WD
+SUV,Yukon XL 2WD,2022.0,GMC,Biodiesel (B20),,,21.0,23.0,RWD
+SUV,Yukon XL 4WD,2022.0,GMC,Biodiesel (B20),,,20.0,22.0,4WD
+Sedan/Wagon,Accord,2022.0,Honda,Hybrid Electric,,,48.0,47.0,FWD
+Sedan/Wagon,Accord Sport/Touring,2022.0,Honda,Hybrid Electric,,,44.0,43.0,FWD
+SUV,CR-V AWD,2022.0,Honda,Hybrid Electric,,,40.0,38.0,AWD
+Sedan/Wagon,Insight,2022.0,Honda,Hybrid Electric,,,55.0,52.0,FWD
+Sedan/Wagon,Insight Touring,2022.0,Honda,Hybrid Electric,,,51.0,48.0,FWD
+Sedan/Wagon,Elantra Hybrid,2022.0,Hyundai,Hybrid Electric,,,49.0,50.0,FWD
+Sedan/Wagon,Elantra Hybrid Blue,2022.0,Hyundai,Hybrid Electric,,,53.0,54.0,FWD
+Sedan/Wagon,Ioniq,2022.0,Hyundai,Hybrid Electric,,,54.0,55.0,FWD
+SUV,Ioniq 5 AWD (Long Range),2022.0,Hyundai,Electric,110.0,98.0,,,AWD
+SUV,Ioniq 5 RWD,2022.0,Hyundai,Electric,127.0,110.0,,,RWD
+SUV,Ioniq 5 RWD (Long Range),2022.0,Hyundai,Electric,132.0,114.0,,,RWD
+Sedan/Wagon,Ioniq Blue,2022.0,Hyundai,Hybrid Electric,,,58.0,59.0,FWD
+Sedan/Wagon,Ioniq Plug-in Hybrid,2022.0,Hyundai,Plug-in Hybrid Electric,,119.0,52.0,52.0,FWD
+SUV,Kona Electric,2022.0,Hyundai,Electric,132.0,120.0,,,FWD
+SUV,Nexo,2022.0,Hyundai,Hydrogen Fuel Cell,59.0,57.0,,,FWD
+SUV,Nexo Blue,2022.0,Hyundai,Hydrogen Fuel Cell,65.0,61.0,,,FWD
+Sedan/Wagon,Santa Fe Hybrid,2022.0,Hyundai,Hybrid Electric,,,33.0,32.0,4WD
+Sedan/Wagon,Santa Fe Hybrid Blue,2022.0,Hyundai,Hybrid Electric,,,36.0,34.0,4WD
+Sedan/Wagon,Santa Fe Plug-in Hybrid,2022.0,Hyundai,Plug-in Hybrid Electric,,76.0,33.0,33.0,AWD
+Sedan/Wagon,Sonata Hybrid,2022.0,Hyundai,Hybrid Electric,,,45.0,47.0,FWD
+Sedan/Wagon,Sonata Hybrid Blue,2022.0,Hyundai,Hybrid Electric,,,50.0,52.0,FWD
+Sedan/Wagon,Tucson Hybrid,2022.0,Hyundai,Hybrid Electric,,,37.0,37.0,4WD
+Sedan/Wagon,Tucson Hybrid Blue,2022.0,Hyundai,Hybrid Electric,,,38.0,38.0,4WD
+SUV,Tucson Plug-in Hybrid,2022.0,Hyundai,Plug-in Hybrid Electric,,80.0,35.0,35.0,AWD
+SUV,E-PACE MHEV,2022.0,Jaguar,Hybrid Electric,,,21.0,23.0,AWD
+SUV,F-PACE P340 MHEV,2022.0,Jaguar,Hybrid Electric,,,20.0,22.0,4WD
+SUV,F-PACE P400 MHEV,2022.0,Jaguar,Hybrid Electric,,,19.0,22.0,4WD
+SUV,Grand Cherokee 4xe,2022.0,Jeep,Plug-in Hybrid Electric,,56.0,23.0,23.0,4WD
+SUV,Wagoneer 4x2,2022.0,Jeep,Hybrid Electric,,,16.0,18.0,RWD
+SUV,Wagoneer 4x4,2022.0,Jeep,Hybrid Electric,,,15.0,17.0,4WD
+SUV,Wrangler 2dr 4x4,2022.0,Jeep,Hybrid Electric,,,20.0,21.0,4WD
+SUV,Wrangler 4dr 4x4,2022.0,Jeep,Hybrid Electric,,,19.0,21.0,4WD
+SUV,Wrangler 4dr 4xe,2022.0,Jeep,Plug-in Hybrid Electric,,49.0,20.0,20.0,4WD
+Sedan/Wagon,EV6 AWD (Long Range) ,2022.0,Kia,Electric,116.0,105.0,,,AWD
+Sedan/Wagon,EV6 RWD,2022.0,Kia,Electric,136.0,117.0,,,RWD
+Sedan/Wagon,EV6 RWD (Long Range) ,2022.0,Kia,Electric,134.0,117.0,,,RWD
+Sedan/Wagon,Niro,2022.0,Kia,Hybrid Electric,,,51.0,49.0,FWD
+Sedan/Wagon,Niro Electric,2022.0,Kia,Electric,123.0,112.0,,,FWD
+Sedan/Wagon,Niro FE,2022.0,Kia,Hybrid Electric,,,53.0,50.0,FWD
+Sedan/Wagon,Niro Plug-in Hybrid,2022.0,Kia,Plug-in Hybrid Electric,,105.0,48.0,46.0,FWD
+Sedan/Wagon,Niro Touring,2022.0,Kia,Hybrid Electric,,,46.0,43.0,FWD
+SUV,Sorento Hybrid AWD,2022.0,Kia,Hybrid Electric,,,36.0,35.0,AWD
+SUV,Sorento Hybrid FWD,2022.0,Kia,Hybrid Electric,,,39.0,37.0,FWD
+SUV,Sorento Plug-in Hybrid,2022.0,Kia,Plug-in Hybrid Electric,,79.0,35.0,34.0,AWD
+SUV,Defender 110 MHEV,2022.0,Land Rover,Hybrid Electric,,,17.0,19.0,4WD
+SUV,Defender 90 MHEV,2022.0,Land Rover,Hybrid Electric,,,17.0,19.0,4WD
+SUV,Discovery MHEV,2022.0,Land Rover,Hybrid Electric,,,18.0,21.0,AWD
+SUV,New Range Rover P360 LWB MHEV,2022.0,Land Rover,Hybrid Electric,,,18.0,21.0,4WD
+SUV,New Range Rover P360 MHEV,2022.0,Land Rover,Hybrid Electric,,,18.0,21.0,4WD
+SUV,New Range Rover P400 LWB MHEV,2022.0,Land Rover,Hybrid Electric,,,18.0,21.0,4WD
+SUV,New Range Rover P400 MHEV,2022.0,Land Rover,Hybrid Electric,,,18.0,21.0,4WD
+SUV,Range Rover Evoque MHEV,2022.0,Land Rover,Hybrid Electric,,,21.0,23.0,4WD
+SUV,Range Rover P360 MHEV,2022.0,Land Rover,Hybrid Electric,,,18.0,20.0,4WD
+SUV,Range Rover P400 MHEV,2022.0,Land Rover,Hybrid Electric,,,18.0,20.0,4WD
+SUV,Range Rover Sport P360 MHEV,2022.0,Land Rover,Hybrid Electric,,,19.0,21.0,4WD
+SUV,Range Rover Sport P400 MHEV,2022.0,Land Rover,Hybrid Electric,,,19.0,21.0,4WD
+SUV,Range Rover Sport PHEV,2022.0,Land Rover,Plug-in Hybrid Electric,,42.0,18.0,19.0,4WD
+SUV,Range Rover Velar P340 MHEV,2022.0,Land Rover,Hybrid Electric,,,20.0,22.0,4WD
+SUV,Range Rover Velar P400 MHEV,2022.0,Land Rover,Hybrid Electric,,,19.0,21.0,4WD
+Sedan/Wagon,ES 300h,2022.0,Lexus,Hybrid Electric,,,43.0,44.0,FWD
+Sedan/Wagon,LC 500h,2022.0,Lexus,Hybrid Electric,,,26.0,29.0,RWD
+Sedan/Wagon,LS 500h AWD,2022.0,Lexus,Hybrid Electric,,,22.0,25.0,AWD
+SUV,NX 350h AWD,2022.0,Lexus,Hybrid Electric,,,41.0,39.0,AWD
+SUV,NX 450+ AWD,2022.0,Lexus,Plug-in Hybrid Electric,,84.0,38.0,36.0,AWD
+SUV,RX 450h AWD,2022.0,Lexus,Hybrid Electric,,,31.0,30.0,AWD
+SUV,RX 450h L AWD,2022.0,Lexus,Hybrid Electric,,,29.0,29.0,AWD
+Sedan/Wagon,UX 250h,2022.0,Lexus,Hybrid Electric,,,43.0,42.0,FWD
+Sedan/Wagon,UX 250h AWD,2022.0,Lexus,Hybrid Electric,,,41.0,39.0,AWD
+SUV,Aviator AWD PHEV,2022.0,Lincoln,Plug-in Hybrid Electric,,56.0,22.0,23.0,AWD
+SUV,Corsair AWD PHEV,2022.0,Lincoln,Plug-in Hybrid Electric,,78.0,34.0,33.0,Part-Time 4WD
+Sedan/Wagon,"Air Dream P AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,117.0,116.0,,,AWD
+Sedan/Wagon,"Air Dream P AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,110.0,111.0,,,AWD
+Sedan/Wagon,"Air Dream R AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,126.0,125.0,,,AWD
+Sedan/Wagon,"Air Dream R AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,115.0,116.0,,,AWD
+Sedan/Wagon,"Air G Touring AWD w/19"" wheels",2022.0,"Lucid USA, Inc.",Electric,130.0,131.0,,,AWD
+Sedan/Wagon,"Air G Touring AWD w/21"" wheels",2022.0,"Lucid USA, Inc.",Electric,121.0,121.0,,,AWD
+Sedan/Wagon,MX-30,2022.0,Mazda,Electric,98.0,92.0,,,FWD
+Sedan/Wagon,AMG E53 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,,,21.0,24.0,AWD
+Sedan/Wagon,AMG E53 4MATIC+ (Convertible),2022.0,Mercedes-Benz,Hybrid Electric,,,20.0,23.0,AWD
+Sedan/Wagon,AMG E53 4MATIC+ (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,,,20.0,23.0,AWD
+SUV,AMG GLE 53 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,,,18.0,19.0,AWD
+SUV,AMG GLE 53 4MATIC+ (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,,,17.0,19.0,AWD
+SUV,AMG GLE 63 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,,,14.0,15.0,AWD
+SUV,AMG GLE 63 S 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,,,15.0,16.0,AWD
+SUV,AMG GLE 63 S 4MATIC+ (coupe),2022.0,Mercedes-Benz,Hybrid Electric,,,15.0,16.0,AWD
+Sedan/Wagon,AMG GT 43 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,,,19.0,21.0,AWD
+Sedan/Wagon,AMG GT 53 4MATIC+,2022.0,Mercedes-Benz,Hybrid Electric,,,19.0,21.0,AWD
+Sedan/Wagon,C 300,2022.0,Mercedes-Benz,Hybrid Electric,,,25.0,29.0,RWD
+Sedan/Wagon,C 300 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,,,23.0,27.0,AWD
+Sedan/Wagon,CLS 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,,,22.0,25.0,AWD
+Sedan/Wagon,E 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,,,23.0,25.0,AWD
+Sedan/Wagon,E 450 4MATIC All-Terrain (wagon),2022.0,Mercedes-Benz,Hybrid Electric,,,21.0,24.0,AWD
+Sedan/Wagon,E 450 4MATIC (Convertible),2022.0,Mercedes-Benz,Hybrid Electric,,,22.0,24.0,AWD
+Sedan/Wagon,E 450 4MATIC (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,,,22.0,24.0,AWD
+Sedan/Wagon,E 450 (Convertible),2022.0,Mercedes-Benz,Hybrid Electric,,,22.0,25.0,RWD
+Sedan/Wagon,E 450 (Coupe),2022.0,Mercedes-Benz,Hybrid Electric,,,22.0,25.0,RWD
+Sedan/Wagon,EQS450+,2022.0,Mercedes-Benz,Electric,97.0,97.0,,,RWD
+Sedan/Wagon,EQS 580 4MATIC,2022.0,Mercedes-Benz,Electric,92.0,95.0,,,AWD
+SUV,GLE 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,,,20.0,22.0,AWD
+SUV,GLE 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,,,20.0,22.0,AWD
+SUV,GLE 580 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,,,16.0,18.0,AWD
+SUV,GLS 450 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,,,18.0,20.0,AWD
+SUV,GLS 580 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,,,16.0,18.0,AWD
+SUV,GLS 600 4MATIC Maybach,2022.0,Mercedes-Benz,Hybrid Electric,,,14.0,17.0,AWD
+Sedan/Wagon,S 500 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,,,21.0,24.0,AWD
+Sedan/Wagon,S 580 4MATIC,2022.0,Mercedes-Benz,Hybrid Electric,,,16.0,19.0,AWD
+Sedan/Wagon,S 580 4MATIC Maybach,2022.0,Mercedes-Benz,Hybrid Electric,,,15.0,18.0,AWD
+Sedan/Wagon,Cooper SE Countryman ALL4,2022.0,Mini,Plug-in Hybrid Electric,,73.0,29.0,29.0,AWD
+Sedan/Wagon,Cooper SE Hardtop 2 door,2022.0,Mini,Electric,119.0,110.0,,,FWD
+SUV,Outlander PHEV,2022.0,Mitsubishi,Plug-in Hybrid Electric,,74.0,26.0,26.0,AWD
+Sedan/Wagon,Leaf (40 kWh battery pack),2022.0,Nissan,Electric,123.0,111.0,,,FWD
+Sedan/Wagon,Leaf (62 kWh battery pack),2022.0,Nissan,Electric,118.0,108.0,,,FWD
+Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2022.0,Nissan,Electric,114.0,104.0,,,FWD
+Sedan/Wagon,Polestar 2 (Dual Motor),2022.0,Polestar Automotive USA,Electric,94.0,89.0,,,AWD
+Sedan/Wagon,Polestar 2 (Single Motor),2022.0,Polestar Automotive USA,Electric,113.0,107.0,,,FWD
+SUV,Cayenne/Coupe/Platinum e-Hybrid,2022.0,Porsche,Plug-in Hybrid Electric,,46.0,20.0,21.0,AWD
+SUV,Cayenne Turbo S/Coupe e-Hybrid ,2022.0,Porsche,Plug-in Hybrid Electric,,42.0,17.0,18.0,AWD
+Sedan/Wagon,Panamera 4 E-Hybrid Executive,2022.0,Porsche,Plug-in Hybrid Electric,,52.0,21.0,22.0,AWD
+Sedan/Wagon,Panamera 4S E-Hybrid Executive,2022.0,Porsche,Plug-in Hybrid Electric,,50.0,21.0,22.0,AWD
+Sedan/Wagon,Panamera Turbo S E-Hybrid Executive/ST,2022.0,Porsche,Plug-in Hybrid Electric,,48.0,18.0,19.0,AWD
+Sedan/Wagon,Taycan 4 Cross Turismo,2022.0,Porsche,Electric,76.0,76.0,,,AWD
+Sedan/Wagon,Taycan 4S Cross Turismo,2022.0,Porsche,Electric,75.0,75.0,,,AWD
+Sedan/Wagon,Taycan 4S Perf Battery,2022.0,Porsche,Electric,79.0,79.0,,,AWD
+Sedan/Wagon,Taycan 4S Perf Battery Plus,2022.0,Porsche,Electric,72.0,77.0,,,AWD
+Sedan/Wagon,Taycan Perf Battery,2022.0,Porsche,Electric,76.0,79.0,,,AWD
+Sedan/Wagon,Taycan Perf Battery Plus,2022.0,Porsche,Electric,71.0,75.0,,,AWD
+Sedan/Wagon,Taycan Turbo,2022.0,Porsche,Electric,71.0,73.0,,,AWD
+Sedan/Wagon,Taycan Turbo Cross Turismo,2022.0,Porsche,Electric,72.0,72.0,,,AWD
+Sedan/Wagon,Taycan Turbo S,2022.0,Porsche,Electric,69.0,70.0,,,AWD
+Sedan/Wagon,Taycan Turbo S Cross Turismo,2022.0,Porsche,Electric,74.0,73.0,,,AWD
+Pickup,1500 4X2,2022.0,Ram,Hybrid Electric,,,20.0,22.0,RWD
+Pickup,1500 4X2,2022.0,Ram,Hybrid Electric,,,18.0,20.0,RWD
+Pickup,1500 4X4,2022.0,Ram,Hybrid Electric,,,18.0,19.0,4WD
+Pickup,1500 4X4,2022.0,Ram,Hybrid Electric,,,19.0,21.0,4WD
+Pickup,1500 HFE 4X2,2022.0,Ram,Hybrid Electric,,,20.0,23.0,RWD
+SUV,R1S,2022.0,Rivian ,Electric,73.0,69.0,,,Part-Time 4WD
+Pickup,R1T,2022.0,Rivian ,Electric,74.0,70.0,,,Part-Time 4WD
+Sedan/Wagon,Model 3 (Long Range) AWD,2022.0,Tesla,Electric,134.0,131.0,,,AWD
+Sedan/Wagon,Model 3 Performance AWD,2022.0,Tesla,Electric,118.0,113.0,,,AWD
+Sedan/Wagon,Model 3 RWD,2022.0,Tesla,Electric,138.0,132.0,,,RWD
+Sedan/Wagon,Model S ,2022.0,Tesla,Electric,124.0,120.0,,,AWD
+Sedan/Wagon,"Model S Plaid (19"" Wheels)",2022.0,Tesla,Electric,119.0,116.0,,,AWD
+Sedan/Wagon,"Model S Plaid (21"" Wheels)",2022.0,Tesla,Electric,102.0,101.0,,,AWD
+SUV,Model X AWD,2022.0,Tesla,Electric,107.0,102.0,,,AWD
+SUV,"Model X Plaid (20"" Wheels)",2022.0,Tesla,Electric,103.0,98.0,,,AWD
+SUV,"Model X Plaid (22"" Wheels)",2022.0,Tesla,Electric,94.0,91.0,,,AWD
+SUV,Model Y AWD,2022.0,Tesla,Electric,129.0,123.0,,,AWD
+SUV,Model Y (Long Range) AWD,2022.0,Tesla,Electric,127.0,122.0,,,AWD
+SUV,Model Y Performance AWD,2022.0,Tesla,Electric,115.0,111.0,,,AWD
+SUV,Model Y RWD,2022.0,Tesla,Electric,140.0,129.0,,,RWD
+Sedan/Wagon,Avalon Hybrid ,2022.0,Toyota,Hybrid Electric,,,43.0,43.0,FWD
+Sedan/Wagon,Avalon Hybrid XLE,2022.0,Toyota,Hybrid Electric,,,43.0,44.0,FWD
+Sedan/Wagon,Camry Hybrid LE,2022.0,Toyota,Hybrid Electric,,,51.0,52.0,FWD
+Sedan/Wagon,Camry Hybrid SE/XLE/XSE,2022.0,Toyota,Hybrid Electric,,,44.0,46.0,FWD
+Sedan/Wagon,Corolla Hybrid,2022.0,Toyota,Hybrid Electric,,,53.0,52.0,FWD
+SUV,Highlander Hybrid,2022.0,Toyota,Hybrid Electric,,,36.0,36.0,RWD
+SUV,Highlander Hybrid AWD,2022.0,Toyota,Hybrid Electric,,,35.0,35.0,AWD
+SUV,Highlander Hybrid AWD LTD/PLAT,2022.0,Toyota,Hybrid Electric,,,35.0,35.0,AWD
+Sedan/Wagon,Mirai LE,2022.0,Toyota,Hydrogen Fuel Cell,76.0,74.0,,,RWD
+Sedan/Wagon,Mirai Limited,2022.0,Toyota,Hydrogen Fuel Cell,67.0,65.0,,,RWD
+Sedan/Wagon,Mirai XLE,2022.0,Toyota,Hydrogen Fuel Cell,76.0,74.0,,,RWD
+Sedan/Wagon,Prius,2022.0,Toyota,Hybrid Electric,,,54.0,52.0,FWD
+Sedan/Wagon,Prius AWD,2022.0,Toyota,Hybrid Electric,,,51.0,49.0,AWD
+Sedan/Wagon,Prius Eco,2022.0,Toyota,Hybrid Electric,,,58.0,56.0,FWD
+Sedan/Wagon,Prius Prime,2022.0,Toyota,Plug-in Hybrid Electric,,133.0,55.0,54.0,FWD
+SUV,RAV4 Hybrid AWD,2022.0,Toyota,Hybrid Electric,,,41.0,40.0,AWD
+Sedan/Wagon,RAV4 Prime AWD,2022.0,Toyota,Plug-in Hybrid Electric,,94.0,40.0,38.0,AWD
+Van,Sienna AWD,2022.0,Toyota,Hybrid Electric,,,35.0,35.0,AWD
+Pickup,TUNDRA 2WD,2022.0,Toyota,Hybrid Electric,,,20.0,22.0,RWD
+Pickup,TUNDRA 4WD,2022.0,Toyota,Hybrid Electric,,,19.0,20.0,Part-Time 4WD
+Pickup,TUNDRA 4WD PRO,2022.0,Toyota,Hybrid Electric,,,18.0,19.0,Part-Time 4WD
+SUV,Venza AWD,2022.0,Toyota,Hybrid Electric,,,40.0,39.0,AWD
+SUV,ID.4 AWD Pro,2022.0,Volkswagen,Electric,106.0,101.0,,,AWD
+SUV,ID.4 AWD Pro S,2022.0,Volkswagen,Electric,100.0,95.0,,,AWD
+SUV,ID.4 Pro,2022.0,Volkswagen,Electric,116.0,107.0,,,RWD
+SUV,ID.4 Pro S,2022.0,Volkswagen,Electric,110.0,102.0,,,RWD
+SUV,C40 Recharge Twin,2022.0,Volvo,Electric,94.0,87.0,,,AWD
+Sedan/Wagon,S60 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,,69.0,28.0,30.0,AWD
+Sedan/Wagon,S60 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,,74.0,30.0,31.0,AWD
+Sedan/Wagon,S90 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,,63.0,28.0,30.0,AWD
+Sedan/Wagon,S90 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,,66.0,28.0,29.0,AWD
+Sedan/Wagon,V60 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,,69.0,28.0,30.0,AWD
+Sedan/Wagon,V60 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,,74.0,30.0,31.0,AWD
+SUV,XC40 Recharge Twin,2022.0,Volvo,Electric,92.0,85.0,,,AWD
+SUV,XC60 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,,57.0,24.0,25.0,AWD
+SUV,XC60 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,,63.0,28.0,28.0,AWD
+SUV,XC90 T8 AWD Recharge,2022.0,Volvo,Plug-in Hybrid Electric,,55.0,26.0,27.0,AWD
+SUV,XC90 T8 AWD Recharge ext. Range,2022.0,Volvo,Plug-in Hybrid Electric,,66.0,25.0,26.0,AWD
+Sedan/Wagon,NSX,2021.0,Acura,Hybrid Electric,,,21.0,21.0,
+Sedan/Wagon,A4 allroad quattro,2021.0,Audi,Hybrid Electric,,,24.0,26.0,
+Sedan/Wagon,A4 quattro,2021.0,Audi,Hybrid Electric,,,25.0,28.0,
+Sedan/Wagon,A4 S line quattro,2021.0,Audi,Hybrid Electric,,,24.0,27.0,
+Sedan/Wagon,A5 Cabriolet quattro,2021.0,Audi,Hybrid Electric,,,23.0,26.0,
+Sedan/Wagon,A5 quattro,2021.0,Audi,Hybrid Electric,,,24.0,27.0,
+Sedan/Wagon,A5 Sportback quattro,2021.0,Audi,Hybrid Electric,,,25.0,28.0,
+Sedan/Wagon,A5 Sportback S line quattro,2021.0,Audi,Hybrid Electric,,,24.0,27.0,
+Sedan/Wagon,A6 Allroad,2021.0,Audi,Hybrid Electric,,,20.0,22.0,
+Sedan/Wagon,A6 quattro,2021.0,Audi,Hybrid Electric,,,22.0,24.0,
+Sedan/Wagon,A6 quattro,2021.0,Audi,Hybrid Electric,,,23.0,26.0,
+Sedan/Wagon,A7 quattro,2021.0,Audi,Plug-in Hybrid Electric,,68.0,26.0,29.0,
+Sedan/Wagon,A7 quattro,2021.0,Audi,Hybrid Electric,,,22.0,24.0,
+Sedan/Wagon,A8L,2021.0,Audi,Hybrid Electric,,,15.0,18.0,
+Sedan/Wagon,A8L,2021.0,Audi,Plug-in Hybrid Electric,,53.0,21.0,23.0,
+Sedan/Wagon,A8L,2021.0,Audi,Hybrid Electric,,,17.0,21.0,
+SUV,e-tron,2021.0,Audi,Electric,78.0,78.0,,,
+SUV,e-tron Sportback,2021.0,Audi,Electric,76.0,77.0,,,
+SUV,Q5,2021.0,Audi,Hybrid Electric,,,23.0,25.0,
+SUV,Q5,2021.0,Audi,Plug-in Hybrid Electric,,50.0,25.0,27.0,
+SUV,Q5 Sportback,2021.0,Audi,Hybrid Electric,,,23.0,25.0,
+SUV,Q7,2021.0,Audi,Hybrid Electric,,,18.0,20.0,
+SUV,Q8,2021.0,Audi,Hybrid Electric,,,18.0,20.0,
+Sedan/Wagon,RS 6 Avant,2021.0,Audi,Hybrid Electric,,,15.0,17.0,
+Sedan/Wagon,RS7,2021.0,Audi,Hybrid Electric,,,15.0,17.0,
+Sedan/Wagon,RS Q8,2021.0,Audi,Hybrid Electric,,,13.0,15.0,
+Sedan/Wagon,S6,2021.0,Audi,Hybrid Electric,,,18.0,22.0,
+Sedan/Wagon,S7,2021.0,Audi,Hybrid Electric,,,18.0,22.0,
+Sedan/Wagon,S8,2021.0,Audi,Hybrid Electric,,,13.0,16.0,
+SUV,Bentayga,2021.0,Bentley Motors,Plug-in Hybrid Electric,,46.0,17.0,19.0,
+Sedan/Wagon,330e,2021.0,BMW,Plug-in Hybrid Electric,,75.0,25.0,28.0,
+Sedan/Wagon,330e xDrive,2021.0,BMW,Plug-in Hybrid Electric,,67.0,22.0,25.0,
+Sedan/Wagon,530e,2021.0,BMW,Plug-in Hybrid Electric,,64.0,24.0,26.0,
+Sedan/Wagon,530e xDrive,2021.0,BMW,Plug-in Hybrid Electric,,62.0,22.0,25.0,
+SUV,540i,2021.0,BMW,Hybrid Electric,,,25.0,27.0,
+SUV,540i xDrive,2021.0,BMW,Hybrid Electric,,,23.0,26.0,
+Sedan/Wagon,745e xDrive,2021.0,BMW,Plug-in Hybrid Electric,,56.0,19.0,22.0,
+Sedan/Wagon,i3,2021.0,BMW,Electric,124.0,113.0,,,
+Sedan/Wagon,i3s,2021.0,BMW,Electric,124.0,113.0,,,
+Sedan/Wagon,i3s with Range Extender,2021.0,BMW,Plug-in Hybrid Electric,,100.0,30.0,31.0,
+Sedan/Wagon,i3 with Range Extender,2021.0,BMW,Plug-in Hybrid Electric,,100.0,30.0,31.0,
+SUV,M340i,2021.0,BMW,Hybrid Electric,,,23.0,26.0,
+SUV,M340i xDrive,2021.0,BMW,Hybrid Electric,,,22.0,25.0,
+Sedan/Wagon,M440i Convertible,2021.0,BMW,Hybrid Electric,,,23.0,26.0,
+Sedan/Wagon,M440i xDrive Coupe,2021.0,BMW,Hybrid Electric,,,22.0,25.0,
+SUV,X3 xDrive30e,2021.0,BMW,Plug-in Hybrid Electric,,60.0,21.0,24.0,
+SUV,X5 sDrive40i 2WD,2021.0,BMW,Hybrid Electric,,,21.0,23.0,
+SUV,X5 sDrive40i 4WD,2021.0,BMW,Hybrid Electric,,,21.0,23.0,
+SUV,X5 xDrive45e,2021.0,BMW,Plug-in Hybrid Electric,,50.0,19.0,20.0,
+SUV,X6 sDrive40i 2WD,2021.0,BMW,Hybrid Electric,,,21.0,23.0,
+SUV,X6 sDrive40i 4WD,2021.0,BMW,Hybrid Electric,,,21.0,23.0,
+SUV,X7 sDrive40i 4WD,2021.0,BMW,Hybrid Electric,,,19.0,21.0,
+SUV,Escalade 2WD,2021.0,Cadillac,Biodiesel (B20),,,21.0,23.0,
+SUV,Escalade 4WD,2021.0,Cadillac,Biodiesel (B20),,,20.0,22.0,
+Sedan/Wagon,Bolt EV,2021.0,Chevrolet,Electric,127.0,118.0,,,
+Pickup,Colorado 2WD,2021.0,Chevrolet,Biodiesel (B20),,,20.0,23.0,
+Pickup,Colorado 4WD,2021.0,Chevrolet,Biodiesel (B20),,,19.0,22.0,
+Pickup,Colorado ZR2 4WD,2021.0,Chevrolet,Biodiesel (B20),,,18.0,19.0,
+Pickup,Silverado 2WD,2021.0,Chevrolet,Biodiesel (B20),,,23.0,27.0,
+Pickup,Silverado 2WD,2021.0,Chevrolet,Ethanol (E85),11.0,12.0,15.0,16.0,
+Pickup,Silverado 4WD,2021.0,Chevrolet,Biodiesel (B20),,,22.0,24.0,
+Pickup,Silverado 4WD,2021.0,Chevrolet,Ethanol (E85),11.0,12.0,14.0,16.0,
+SUV,Suburban 2WD,2021.0,Chevrolet,Biodiesel (B20),,,21.0,23.0,
+SUV,Suburban 4WD,2021.0,Chevrolet,Biodiesel (B20),,,20.0,22.0,
+SUV,Tahoe 2WD,2021.0,Chevrolet,Biodiesel (B20),,,21.0,24.0,
+SUV,Tahoe 4WD,2021.0,Chevrolet,Biodiesel (B20),,,20.0,22.0,
+Van,Pacifica Hybrid,2021.0,Chrysler,Plug-in Hybrid Electric,,82.0,29.0,30.0,
+Sedan/Wagon,SF90 Stradale Coupe,2021.0,Ferrari,Plug-in Hybrid Electric,,51.0,16.0,18.0,
+Sedan/Wagon,Escape AWD HEV,2021.0,Ford,Hybrid Electric,,,43.0,40.0,
+Sedan/Wagon,Escape FWD HEV,2021.0,Ford,Hybrid Electric,,,44.0,41.0,
+SUV,Escape FWD PHEV,2021.0,Ford,Plug-in Hybrid Electric,,105.0,43.0,40.0,
+SUV,Explorer AWD FFV,2021.0,Ford,Ethanol (E85),11.0,13.0,16.0,19.0,
+SUV,Explorer HEV AWD,2021.0,Ford,Hybrid Electric,,,23.0,25.0,
+SUV,Explorer HEV RWD,2021.0,Ford,Hybrid Electric,,,27.0,27.0,
+Pickup,F-150 2WD,2021.0,Ford,Biodiesel (B20),,,,,
+Pickup,F-150 2WD FFV,2021.0,Ford,Ethanol (E85),14.0,16.0,20.0,21.0,
+Pickup,F-150 2WD FFV,2021.0,Ford,Ethanol (E85),12.0,14.0,17.0,20.0,
+Pickup,F-150 4WD,2021.0,Ford,Biodiesel (B20),,,20.0,23.0,
+Pickup,F-150 4WD FFV,2021.0,Ford,Ethanol (E85),14.0,15.0,19.0,20.0,
+Pickup,F-150 4WD FFV,2021.0,Ford,Ethanol (E85),11.0,13.0,16.0,19.0,
+Pickup,F150 Pickup 2WD HEV,2021.0,Ford,Hybrid Electric,,,25.0,25.0,
+Pickup,F150 Pickup 4WD HEV,2021.0,Ford,Hybrid Electric,,,24.0,24.0,
+Sedan/Wagon,Mustang Mach-E AWD,2021.0,Ford,Electric,100.0,93.0,,,Part-Time 4WD
+Sedan/Wagon,Mustang Mach-E AWD Extended,2021.0,Ford,Electric,96.0,90.0,,,
+Sedan/Wagon,Mustang Mach-E GT AWD,2021.0,Ford,Electric,90.0,84.0,,,AWD
+Sedan/Wagon,Mustang Mach-E GT AWD,2021.0,Ford,Electric,88.0,82.0,,,AWD
+Sedan/Wagon,Mustang Mach-E RWD,2021.0,Ford,Electric,105.0,100.0,,,
+Sedan/Wagon,Mustang Mach-E RWD California Route 1,2021.0,Ford,Electric,108.0,101.0,,,
+Sedan/Wagon,Mustang Mach-E RWD Extended,2021.0,Ford,Electric,104.0,97.0,,,
+Pickup,Super Duty F-250,2021.0,Ford,Ethanol (E85),,,,,
+Pickup,Super Duty F-250 2WD/4WD,2021.0,Ford,CNG - Bi-fuel,,,,,
+Pickup,Super Duty F-250 2WD/4WD,2021.0,Ford,Biodiesel (B20),,,,,
+Pickup,Super Duty F-250 2WD/4WD,2021.0,Ford,CNG - Compressed Natural Gas,,,,,
+Pickup,Super Duty F-250 2WD/4WD,2021.0,Ford,Propane - Bi-fuel,,,,,
+Pickup,Super Duty F-250 2WD/4WD,2021.0,Ford,Propane,,,,,
+Van,Transit Connect Van FFV,2021.0,Ford,Ethanol (E85),18.0,19.0,24.0,25.0,
+Van,Transit Connect Van/Wagon,2021.0,Ford,Propane - Bi-fuel,,,,,
+Van,Transit Connect Van/Wagon,2021.0,Ford,CNG - Compressed Natural Gas,,,,,
+Van,Transit Connect Van/Wagon,2021.0,Ford,CNG - Bi-fuel,,,,,
+Van,Transit Connect Van/Wagon,2021.0,Ford,Propane,,,,,
+Passenger Van/Shuttle Bus,Transit Connect Wagon LWB FFV,2021.0,Ford,Ethanol (E85),17.0,19.0,24.0,26.0,
+Passenger Van/Shuttle Bus,Transit T150 Passenger Van 2WD FFV,2021.0,Ford,Ethanol (E85),11.0,12.0,14.0,16.0,
+Passenger Van/Shuttle Bus,Transit T150 Passenger Van 4WD FFV,2021.0,Ford,Ethanol (E85),11.0,12.0,15.0,16.0,
+Pickup,Canyon 2WD,2021.0,GMC,Biodiesel (B20),,,20.0,23.0,
+Pickup,Canyon 4WD,2021.0,GMC,Biodiesel (B20),,,19.0,22.0,
+Pickup,Sierra 2WD,2021.0,GMC,Biodiesel (B20),,,23.0,26.0,
+Pickup,Sierra 2WD,2021.0,GMC,Ethanol (E85),11.0,12.0,15.0,16.0,
+Pickup,Sierra 4WD,2021.0,GMC,Biodiesel (B20),,,22.0,24.0,
+Pickup,Sierra 4WD,2021.0,GMC,Ethanol (E85),11.0,12.0,14.0,16.0,
+Pickup,Sierra 4WD AT4,2021.0,GMC,Biodiesel (B20),,,22.0,24.0,
+SUV,Yukon 2WD,2021.0,GMC,Biodiesel (B20),,,21.0,23.0,
+SUV,Yukon 4WD,2021.0,GMC,Biodiesel (B20),,,20.0,22.0,
+SUV,Yukon XL 2WD,2021.0,GMC,Biodiesel (B20),,,21.0,23.0,
+SUV,Yukon XL 4WD,2021.0,GMC,Biodiesel (B20),,,20.0,22.0,
+Sedan/Wagon,Accord,2021.0,Honda,Hybrid Electric,,,48.0,48.0,
+Sedan/Wagon,Accord Sport/Touring,2021.0,Honda,Hybrid Electric,,,44.0,43.0,
+Sedan/Wagon,Clarity,2021.0,Honda,Hydrogen Fuel Cell,68.0,68.0,,,
+Sedan/Wagon,Clarity PHEV,2021.0,Honda,Plug-in Hybrid Electric,,110.0,44.0,42.0,
+SUV,CR-V AWD,2021.0,Honda,Hybrid Electric,,,40.0,38.0,
+Sedan/Wagon,Insight,2021.0,Honda,Hybrid Electric,,,55.0,52.0,
+Sedan/Wagon,Insight Touring,2021.0,Honda,Hybrid Electric,,,51.0,48.0,
+Sedan/Wagon,Elantra Hybrid,2021.0,Hyundai,Hybrid Electric,,,49.0,50.0,
+Sedan/Wagon,Elantra Hybrid Blue,2021.0,Hyundai,Hybrid Electric,,,53.0,54.0,
+Sedan/Wagon,Ioniq,2021.0,Hyundai,Hybrid Electric,,,54.0,55.0,
+Sedan/Wagon,Ioniq Blue,2021.0,Hyundai,Hybrid Electric,,,59.0,59.0,
+Sedan/Wagon,Ioniq Electric,2021.0,Hyundai,Electric,145.0,133.0,,,
+Sedan/Wagon,Ioniq Plug-in Hybrid,2021.0,Hyundai,Plug-in Hybrid Electric,,119.0,52.0,52.0,
+SUV,Kona Electric,2021.0,Hyundai,Electric,132.0,120.0,,,
+SUV,Nexo,2021.0,Hyundai,Hydrogen Fuel Cell,59.0,57.0,,,
+SUV,Nexo Blue,2021.0,Hyundai,Hydrogen Fuel Cell,65.0,61.0,,,
+Sedan/Wagon,Santa Fe Hybrid,2021.0,Hyundai,Hybrid Electric,,,33.0,32.0,
+Sedan/Wagon,Santa Fe Hybrid Blue,2021.0,Hyundai,Hybrid Electric,,,36.0,34.0,
+Sedan/Wagon,Sonata Hybrid,2021.0,Hyundai,Hybrid Electric,,,45.0,47.0,
+Sedan/Wagon,Sonata Hybrid Blue,2021.0,Hyundai,Hybrid Electric,,,50.0,52.0,
+SUV,E-PACE MHEV,2021.0,Jaguar,Hybrid Electric,,,21.0,23.0,
+SUV,F-PACE P340 MHEV,2021.0,Jaguar,Hybrid Electric,,,20.0,22.0,
+SUV,F-PACE P400 MHEV,2021.0,Jaguar,Hybrid Electric,,,20.0,22.0,
+SUV,I-PACE EV400,2021.0,Jaguar,Electric,80.0,76.0,,,4WD
+SUV,Wrangler 2dr 4x4,2021.0,Jeep,Hybrid Electric,,,20.0,21.0,
+SUV,Wrangler 4dr 4x4,2021.0,Jeep,Hybrid Electric,,,19.0,21.0,
+SUV,Wrangler 4dr 4xe,2021.0,Jeep,Plug-in Hybrid Electric,,49.0,20.0,20.0,4WD
+Sedan/Wagon,K27,2021.0,Kandi,Electric,127.0,114.0,,,
+Sedan/Wagon,"GS-6 (21"" wheels)",2021.0,Karma,Plug-in Hybrid Electric,,70.0,27.0,26.0,
+Sedan/Wagon,"Revero GT (21"" wheels)",2021.0,Karma,Plug-in Hybrid Electric,,70.0,27.0,26.0,
+Sedan/Wagon,Niro,2021.0,Kia,Hybrid Electric,,,51.0,49.0,
+Sedan/Wagon,Niro Electric,2021.0,Kia,Electric,123.0,112.0,,,
+Sedan/Wagon,Niro FE,2021.0,Kia,Hybrid Electric,,,53.0,50.0,
+Sedan/Wagon,Niro Plug-in Hybrid,2021.0,Kia,Plug-in Hybrid Electric,,105.0,48.0,46.0,
+Sedan/Wagon,Niro Touring,2021.0,Kia,Hybrid Electric,,,46.0,43.0,
+SUV,Sorento Hybrid,2021.0,Kia,Hybrid Electric,,,39.0,37.0,
+SUV,Defender 110 MHEV,2021.0,Land Rover,Hybrid Electric,,,17.0,19.0,
+SUV,Defender 90 MHEV,2021.0,Land Rover,Hybrid Electric,,,17.0,19.0,
+SUV,Discovery MHEV,2021.0,Land Rover,Hybrid Electric,,,18.0,21.0,
+SUV,Range Rover ,2021.0,Land Rover,Biodiesel (B20),,,22.0,24.0,
+SUV,Range Rover MHEV,2021.0,Land Rover,Hybrid Electric,,,18.0,20.0,
+SUV,Range Rover PHEV,2021.0,Land Rover,Plug-in Hybrid Electric,,42.0,18.0,19.0,
+SUV,Range Rover Sport,2021.0,Land Rover,Biodiesel (B20),,,22.0,24.0,
+SUV,Range Rover Sport MHEV,2021.0,Land Rover,Hybrid Electric,,,19.0,21.0,
+SUV,Range Rover Sport PHEV,2021.0,Land Rover,Plug-in Hybrid Electric,,42.0,18.0,20.0,
+SUV,Range Rover Velar P340 MHEV,2021.0,Land Rover,Hybrid Electric,,,20.0,22.0,
+SUV,Range Rover Velar P400 MHEV,2021.0,Land Rover,Hybrid Electric,,,19.0,21.0,
+Sedan/Wagon,ES 300h,2021.0,Lexus,Hybrid Electric,,,43.0,44.0,
+Sedan/Wagon,LC 500h,2021.0,Lexus,Hybrid Electric,,,26.0,29.0,
+Sedan/Wagon,LS 500h,2021.0,Lexus,Hybrid Electric,,,25.0,28.0,
+Sedan/Wagon,LS 500h AWD,2021.0,Lexus,Hybrid Electric,,,23.0,26.0,
+SUV,NX 300h AWD,2021.0,Lexus,Hybrid Electric,,,33.0,31.0,
+SUV,RX 450h AWD,2021.0,Lexus,Hybrid Electric,,,31.0,30.0,
+SUV,RX 450h L AWD,2021.0,Lexus,Hybrid Electric,,,29.0,29.0,
+Sedan/Wagon,UX 250h,2021.0,Lexus,Hybrid Electric,,,43.0,42.0,
+Sedan/Wagon,UX 250h AWD,2021.0,Lexus,Hybrid Electric,,,41.0,39.0,
+SUV,Aviator AWD PHEV,2021.0,Lincoln,Plug-in Hybrid Electric,,56.0,22.0,23.0,
+SUV,Corsair AWD PHEV,2021.0,Lincoln,Plug-in Hybrid Electric,,78.0,34.0,33.0,
+Sedan/Wagon,AMG CLS 53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,,,21.0,23.0,
+Sedan/Wagon,AMG E53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,,,22.0,25.0,
+Sedan/Wagon,AMG E53 4MATIC+ (Convertible),2021.0,Mercedes-Benz,Hybrid Electric,,,21.0,23.0,
+Sedan/Wagon,AMG E53 4MATIC+ (Coupe),2021.0,Mercedes-Benz,Hybrid Electric,,,21.0,24.0,
+SUV,AMG GLE 53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,,,18.0,19.0,
+SUV,AMG GLE 53 4MATIC+ Coupe,2021.0,Mercedes-Benz,Hybrid Electric,,,18.0,20.0,
+SUV,AMG GLE 63 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,,,15.0,16.0,
+SUV,AMG GLE 63 S 4MATIC+ Coupe,2021.0,Mercedes-Benz,Hybrid Electric,,,15.0,17.0,
+SUV,AMG GLS 63 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,,,14.0,16.0,
+Sedan/Wagon,AMG GT 43 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,,,20.0,22.0,
+Sedan/Wagon,AMG GT 53 4MATIC+,2021.0,Mercedes-Benz,Hybrid Electric,,,20.0,22.0,
+Sedan/Wagon,CLS 450,2021.0,Mercedes-Benz,Hybrid Electric,,,23.0,26.0,
+Sedan/Wagon,CLS 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,,,22.0,25.0,
+Sedan/Wagon,E 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,,,23.0,26.0,
+Sedan/Wagon,E 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,,,23.0,26.0,
+Sedan/Wagon,E 450 4MATIC All-Terrain (wagon),2021.0,Mercedes-Benz,Hybrid Electric,,,22.0,24.0,
+Sedan/Wagon,E 450 4MATIC (Convertible),2021.0,Mercedes-Benz,Hybrid Electric,,,23.0,25.0,
+Sedan/Wagon,E 450 4MATIC (Coupe),2021.0,Mercedes-Benz,Hybrid Electric,,,23.0,25.0,
+Sedan/Wagon,E 450 (Convertible),2021.0,Mercedes-Benz,Hybrid Electric,,,23.0,25.0,
+Sedan/Wagon,E 450 (Coupe),2021.0,Mercedes-Benz,Hybrid Electric,,,23.0,26.0,
+SUV,GLE 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,,,21.0,23.0,
+SUV,GLE 580 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,,,17.0,19.0,
+SUV,GLS 450 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,,,20.0,21.0,
+SUV,GLS 580 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,,,16.0,18.0,
+SUV,GLS 600 4MATIC Maybach,2021.0,Mercedes-Benz,Hybrid Electric,,,15.0,16.0,
+Sedan/Wagon,S 500 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,,,20.0,24.0,
+Sedan/Wagon,S 580 4MATIC,2021.0,Mercedes-Benz,Hybrid Electric,,,17.0,20.0,
+Sedan/Wagon,S 580 4MATIC Maybach,2021.0,Mercedes-Benz,Hybrid Electric,,,16.0,19.0,
+Sedan/Wagon,Cooper SE Countryman ALL4,2021.0,Mini,Plug-in Hybrid Electric,,73.0,29.0,29.0,
+Sedan/Wagon,Cooper SE Hardtop 2 door,2021.0,Mini,Electric,115.0,108.0,,,
+SUV,Outlander PHEV,2021.0,Mitsubishi,Plug-in Hybrid Electric,,74.0,26.0,26.0,
+Sedan/Wagon,Leaf (40 kWh battery pack),2021.0,Nissan,Electric,123.0,111.0,,,
+Sedan/Wagon,Leaf (62 kWh battery pack),2021.0,Nissan,Electric,118.0,108.0,,,FWD
+Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2021.0,Nissan,Electric,114.0,104.0,,,
+Sedan/Wagon,Polestar 2,2021.0,Polestar Automotive USA,Electric,96.0,92.0,,,
+Sedan/Wagon,Polestar I,2021.0,Polestar Automotive USA,Plug-in Hybrid Electric,,58.0,22.0,26.0,
+SUV,Cayenne e-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,,46.0,20.0,21.0,
+SUV,Cayenne e-Hybrid Coupe,2021.0,Porsche,Plug-in Hybrid Electric,,46.0,20.0,21.0,
+SUV,Cayenne Turbo S e-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,,42.0,17.0,18.0,
+SUV,Cayenne Turbo S e-Hybrid Coupe,2021.0,Porsche,Plug-in Hybrid Electric,,42.0,17.0,18.0,
+Sedan/Wagon,Panamera 4 E-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,,52.0,21.0,22.0,
+Sedan/Wagon,Panamera 4 E-Hybrid Executive,2021.0,Porsche,Plug-in Hybrid Electric,,52.0,21.0,22.0,
+Sedan/Wagon,Panamera 4 E-Hybrid ST,2021.0,Porsche,Plug-in Hybrid Electric,,52.0,21.0,22.0,
+Sedan/Wagon,Panamera 4S E-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,,50.0,21.0,22.0,
+Sedan/Wagon,Panamera 4S E-Hybrid Executive,2021.0,Porsche,Plug-in Hybrid Electric,,50.0,21.0,22.0,
+Sedan/Wagon,Panamera 4S E-Hybrid ST,2021.0,Porsche,Plug-in Hybrid Electric,,50.0,21.0,22.0,
+Sedan/Wagon,Panamera Turbo S E-Hybrid,2021.0,Porsche,Plug-in Hybrid Electric,,48.0,18.0,19.0,
+Sedan/Wagon,Panamera Turbo S E-Hybrid Executive,2021.0,Porsche,Plug-in Hybrid Electric,,48.0,18.0,19.0,
+Sedan/Wagon,Panamera Turbo S E-Hybrid ST,2021.0,Porsche,Plug-in Hybrid Electric,,48.0,18.0,19.0,
+Sedan/Wagon,Taycan 4S Perf Battery,2021.0,Porsche,Electric,79.0,79.0,,,
+Sedan/Wagon,Taycan 4S Perf Battery Plus,2021.0,Porsche,Electric,75.0,77.0,,,
+Sedan/Wagon,Taycan Perf Battery,2021.0,Porsche,Electric,76.0,79.0,,,
+Sedan/Wagon,Taycan Perf Battery Plus,2021.0,Porsche,Electric,71.0,75.0,,,
+Sedan/Wagon,Taycan Turbo,2021.0,Porsche,Electric,71.0,73.0,,,
+Sedan/Wagon,Taycan Turbo S,2021.0,Porsche,Electric,69.0,70.0,,,
+Pickup,1500 2WD,2021.0,Ram,Hybrid Electric,,,20.0,22.0,
+Pickup,1500 2WD,2021.0,Ram,Hybrid Electric,,,17.0,19.0,
+Pickup,1500 4WD,2021.0,Ram,Hybrid Electric,,,19.0,21.0,
+Pickup,1500 4WD,2021.0,Ram,Hybrid Electric,,,17.0,19.0,
+Pickup,1500 HFE 4X2,2021.0,Ram,Hybrid Electric,,,20.0,23.0,
+SUV,Crosstrek Hybrid AWD,2021.0,Subaru,Plug-in Hybrid Electric,,90.0,36.0,35.0,
+Sedan/Wagon,Model 3 Long Range AWD,2021.0,Tesla,Electric,141.0,134.0,,,
+Sedan/Wagon,Model 3 Performance AWD,2021.0,Tesla,Electric,118.0,113.0,,,
+Sedan/Wagon,Model 3 Standard Range Plus RWD,2021.0,Tesla,Electric,150.0,142.0,,,RWD
+Sedan/Wagon,Model S Long Range,2021.0,Tesla,Electric,124.0,120.0,,,
+Sedan/Wagon,"Model S Performance (19"" Wheels)",2021.0,Tesla,Electric,114.0,110.0,,,
+Sedan/Wagon,"Model S Plaid (21"" Wheels)",2021.0,Tesla,Electric,102.0,101.0,,,AWD
+SUV,Model X Long Range Plus,2021.0,Tesla,Electric,109.0,105.0,,,
+SUV,"Model X Performance (20"" Wheels)",2021.0,Tesla,Electric,100.0,97.0,,,
+SUV,Model Y Long Range AWD,2021.0,Tesla,Electric,131.0,125.0,,,
+SUV,Model Y Performance AWD,2021.0,Tesla,Electric,115.0,111.0,,,
+SUV,Model Y Standard Range RWD,2021.0,Tesla,Electric,140.0,129.0,,,
+Sedan/Wagon,Avalon Hybrid,2021.0,Toyota,Hybrid Electric,,,43.0,43.0,
+Sedan/Wagon,Avalon Hybrid XLE,2021.0,Toyota,Hybrid Electric,,,43.0,44.0,
+Sedan/Wagon,Camry Hybrid LE,2021.0,Toyota,Hybrid Electric,,,51.0,52.0,
+Sedan/Wagon,Camry Hybrid SE/XLE/XSE,2021.0,Toyota,Hybrid Electric,,,44.0,46.0,
+Sedan/Wagon,Corolla Hybrid,2021.0,Toyota,Hybrid Electric,,,53.0,52.0,
+SUV,Highlander Hybrid,2021.0,Toyota,Hybrid Electric,,,36.0,36.0,
+SUV,Highlander Hybrid AWD,2021.0,Toyota,Hybrid Electric,,,35.0,35.0,
+SUV,Highlander Hybrid AWD LTD/PLAT,2021.0,Toyota,Hybrid Electric,,,35.0,35.0,
+Sedan/Wagon,Mirai Limited,2021.0,Toyota,Hydrogen Fuel Cell,67.0,65.0,,,
+Sedan/Wagon,Mirai XLE,2021.0,Toyota,Hydrogen Fuel Cell,74.0,72.0,,,
+Sedan/Wagon,Prius,2021.0,Toyota,Hybrid Electric,,,54.0,52.0,
+Sedan/Wagon,Prius AWD,2021.0,Toyota,Hybrid Electric,,,51.0,49.0,
+Sedan/Wagon,Prius Eco,2021.0,Toyota,Hybrid Electric,,,58.0,56.0,
+Sedan/Wagon,Prius Prime,2021.0,Toyota,Plug-in Hybrid Electric,,133.0,55.0,54.0,
+SUV,RAV4 Hybrid AWD,2021.0,Toyota,Hybrid Electric,,,41.0,40.0,
+Sedan/Wagon,RAV4 Prime AWD,2021.0,Toyota,Plug-in Hybrid Electric,,94.0,40.0,38.0,
+Van,Sienna,2021.0,Toyota,Hybrid Electric,,,36.0,36.0,
+Van,Sienna AWD,2021.0,Toyota,Hybrid Electric,,,35.0,35.0,
+SUV,Venza AWD,2021.0,Toyota,Hybrid Electric,,,40.0,39.0,
+SUV,ID.4 1st,2021.0,Volkswagen,Electric,104.0,97.0,,,
+SUV,ID.4 AWD Pro,2021.0,Volkswagen,Electric,102.0,97.0,,,AWD
+SUV,ID.4 Pro,2021.0,Volkswagen,Electric,107.0,99.0,,,
+SUV,ID.4 Pro S,2021.0,Volkswagen,Electric,104.0,97.0,,,
+SUV,ID.4 Pro S AWD ,2021.0,Volkswagen,Electric,98.0,93.0,,,AWD
+Sedan/Wagon,S60 AWD,2021.0,Volvo,Plug-in Hybrid Electric,,69.0,28.0,30.0,
+Sedan/Wagon,S90 AWD,2021.0,Volvo,Plug-in Hybrid Electric,,60.0,28.0,30.0,
+SUV,V60 AWD,2021.0,Volvo,Plug-in Hybrid Electric,,69.0,28.0,30.0,
+SUV,XC40 Recharge,2021.0,Volvo,Electric,85.0,79.0,,,
+SUV,XC60 AWD,2021.0,Volvo,Plug-in Hybrid Electric,,57.0,26.0,27.0,
+SUV,XC90 AWD,2021.0,Volvo,Plug-in Hybrid Electric,,55.0,26.0,27.0,
+Street Sweeper,ACMD-Xpert,,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Refuse,ACMD-Xpert,,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Vocational/Cab Chassis,ACMD-Xpert,,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Tractor,ACTT Terminal Tractor,,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Tractor,ACTT Terminal Tractor,,Autocar,Electric,,,,,
+Vocational/Cab Chassis,ACX-Xpeditor  - Class 8,,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Refuse,ACX-Xpeditor ,,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Street Sweeper,ACX-Xpeditor ,,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Vocational/Cab Chassis,DC-64 - Class 8,,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Refuse,DC-64R - Class 8,,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Vocational/Cab Chassis,LET2,,Battle Motors,Electric,,,,,
+Vocational/Cab Chassis,LET2,,Battle Motors,CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,LET2 Crew Cab,,Battle Motors,CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,LNT,,Battle Motors,CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,LNT,,Battle Motors,Electric,,,,,
+Passenger Van/Shuttle Bus,All American Activity,,Blue Bird,CNG - Compressed Natural Gas,,,,,
+School Bus,All American Rear Engine - Class 7,,Blue Bird,CNG - Compressed Natural Gas,,,,,
+School Bus,All American RE Electric,,Blue Bird,Electric,,,,,
+Passenger Van/Shuttle Bus,All American RE Electric Activity,,Blue Bird,Electric,,,,,
+Passenger Van/Shuttle Bus,Micro Bird Activity G5 Electric,,Blue Bird,Electric,,,,,
+School Bus,Micro Bird G5 - Class 3,,Blue Bird,Propane,,,,,
+Passenger Van/Shuttle Bus,Micro Bird G5 Activity,,Blue Bird,Propane,,,,,
+School Bus,Micro Bird G5 Electric,,Blue Bird,Electric,,,,,
+School Bus,Vision - Class 7,,Blue Bird,Propane,,,,,
+Passenger Van/Shuttle Bus,Vision Activity,,Blue Bird,Propane|CNG - Compressed Natural Gas,,,,,
+School Bus,Vision Electric,,Blue Bird,Electric,,,,,
+Passenger Van/Shuttle Bus,Vision Electric Activity,,Blue Bird,Electric,,,,,
+Vocational/Cab Chassis,6F,,BYD,Electric,,,,,
+Refuse,6R,,BYD,Electric,,,,,
+Refuse,8R,,BYD,Electric,,,,,
+Tractor,8TT Day Cab,,BYD,Electric,,,,,
+Tractor,8Y Terminal Tractor,,BYD,Electric,,,,,
+Passenger Van/Shuttle Bus,C10M (45'),,BYD,Electric,,,,,
+Transit Bus,C10MS (45' double deck),,BYD,Electric,,,,,
+Passenger Van/Shuttle Bus,C6M (23'),,BYD,Electric,,,,,
+Passenger Van/Shuttle Bus,C8M (35'),,BYD,Electric,,,,,
+Transit Bus,C8MS (35' double deck),,BYD,Electric,,,,,
+Passenger Van/Shuttle Bus,C9M (40'),,BYD,Electric,,,,,
+Transit Bus,K11M (60'),,BYD,Electric,,,,,
+Transit Bus,K7M (30'),,BYD,Electric,,,,,
+Transit Bus,K7M ER (30'),,BYD,Electric,,,,,
+Transit Bus,K8M (35'),,BYD,Electric,,,,,
+Transit Bus,K9M (40'),,BYD,Electric,,,,,
+Transit Bus,K9MD (40'),,BYD,Electric,,,,,
+Vocational/Cab Chassis,3500/4500 Low Cab Forward,,Chevrolet,Ethanol (E85),,,,,
+Vocational/Cab Chassis,"4500 HD, 4500 XD, 5500 HD, 5500 XD Low Cab Forward",,Chevrolet,Biodiesel (B20),,,,,
+Vocational/Cab Chassis,6500 XD Low Cab Forward,,Chevrolet,Biodiesel (B20),,,,,
+Passenger Van/Shuttle Bus,Express 2500/3500,,Chevrolet,Ethanol (E85),,,,,
+Van,Express 2500/3500,,Chevrolet,Ethanol (E85),,,,,
+Van,Express 2500/3500,,Chevrolet,Biodiesel (B20),,,,,
+Passenger Van/Shuttle Bus,Express 2500/3500,,Chevrolet,Biodiesel (B20),,,,,
+Vocational/Cab Chassis,Express 3500/4500 Cutaway,,Chevrolet,Ethanol (E85),,,,,
+Vocational/Cab Chassis,Silverado 3500 HD Cab Chassis,,Chevrolet,Biodiesel (B20),,,,,
+Pickup,Sliverado 2500/3500 HD,,Chevrolet,Biodiesel (B20),,,,,
+Transit Bus,e.COBUS 2700,,COBUS Industries,Electric,,,,,
+Transit Bus,e.COBUS 2700S,,COBUS Industries,Electric,,,,,
+Transit Bus,e.COBUS 3000,,COBUS Industries,Electric,,,,,
+School Bus,Type A Electric School Bus (DE516),,Collins Bus Corp.,Electric,,,,,
+School Bus,Type A Electric School Bus (DE516WF),,Collins Bus Corp.,Electric,,,,,
+Street Sweeper,Broom Bear,,Elgin,CNG - Compressed Natural Gas,,,,,
+Street Sweeper,Broom Bear CNG Hybrid,,Elgin,CNG - Compressed Natural Gas|Plug-in Hybrid Electric,,,,,
+Street Sweeper,Broom Bear Plug-In Hybrid,,Elgin,Plug-in Hybrid Electric,,,,,
+Street Sweeper,Crosswind1,,Elgin,CNG - Compressed Natural Gas,,,,,
+Street Sweeper,Pelican,,Elgin,CNG - Compressed Natural Gas,,,,,
+Transit Bus,AXESS 32' low floor,,ENC,Diesel/Hybrid Electric,,,,,
+Transit Bus,AXESS 32' low floor,,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Transit Bus,AXESS 35' low floor,,ENC,Diesel/Hybrid Electric,,,,,
+Transit Bus,AXESS 35' low floor,,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Transit Bus,AXESS 40' low floor,,ENC,Diesel/Hybrid Electric,,,,,
+Transit Bus,AXESS 40' low floor,,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Transit Bus,Axess-BEB 32' low floor,,ENC,Electric,,,,,
+Transit Bus,Axess-BEB 35' low floor,,ENC,Electric,,,,,
+Transit Bus,Axess-BEB 40' low floor,,ENC,Electric,,,,,
+Transit Bus,AXESS-FC 40' low floor,,ENC,Hydrogen Fuel Cell,,,,,
+Transit Bus,E-Z RIDER II 30',,ENC,Diesel/Hybrid Electric,,,,,
+Transit Bus,E-Z RIDER II 30',,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Transit Bus,E-Z RIDER II 32',,ENC,Diesel/Hybrid Electric,,,,,
+Transit Bus,E-Z RIDER II 32',,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Transit Bus,E-Z RIDER II 35',,ENC,Diesel/Hybrid Electric,,,,,
+Transit Bus,E-Z RIDER II 35',,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Transit Bus,XHF 29',,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Transit Bus,XHF 33',,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Transit Bus,XHF 35',,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Transit Bus,XHF 40',,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Vocational/Cab Chassis,"E350, E450 Cutaway",,Ford,Propane - Bi-fuel|CNG - Bi-fuel|Propane|CNG - Compressed Natural Gas|Ethanol (E85),,,,,
+Vocational/Cab Chassis,"E350, E450 Cutaway",,Ford,Hybrid Electric,,,,,
+Vocational/Cab Chassis,"E350, E450 Stripped Chassis",,Ford,Propane - Bi-fuel|Propane|CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,"E350, E450 Stripped Chassis",,Ford,Hybrid Electric,,,,,
+Vocational/Cab Chassis,E-450 Box Truck,,Ford,Electric,,,,,
+Vocational/Cab Chassis,E450 Cutaway,,Ford,Electric,,,,,
+School Bus,E-450 School Bus,,Ford,Electric,,,,,
+Passenger Van/Shuttle Bus,E-450 Shuttle,,Ford,Electric,,,,,
+Step Van,E-450 Step Van,,Ford,Electric,,,,,
+Vocational/Cab Chassis,E450 Stripped Chassis,,Ford,Electric,,,,,
+Vocational/Cab Chassis,E-450 Work Truck,,Ford,Electric,,,,,
+Van,E-Transit Cargo Van,,Ford,Electric,,,,,
+Vocational/Cab Chassis,E-Transit Cutaway/Chassis Cab,,Ford,Electric,,,,,
+Passenger Van/Shuttle Bus,F-550 Bus,,Ford,Electric,,,,,
+School Bus,F-59 School Bus,,Ford,Electric,,,,,
+Passenger Van/Shuttle Bus,F-59 Shuttle Bus,,Ford,Electric,,,,,
+Step Van,F-59 Step Van,,Ford,Electric,,,,,
+Vocational/Cab Chassis,F-59 Stripped Chassis,,Ford,CNG - Compressed Natural Gas|Propane - Bi-fuel|E85/Hybrid Electric|CNG - Bi-fuel|Propane,,,,,
+Vocational/Cab Chassis,F-59 Stripped Chassis,,Ford,Electric,,,,,
+Vocational/Cab Chassis,F-59 Stripped Chassis,,Ford,Hybrid Electric,,,,,
+Vocational/Cab Chassis,F-650 Box Truck,,Ford,Electric,,,,,
+Vocational/Cab Chassis,"Medium Duty Chassis Cab F650, F750",,Ford,CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas|Propane|Propane - Bi-fuel,,,,,
+Vocational/Cab Chassis,"Medium Duty Chassis Cab F650, F750",,Ford,Biodiesel (B20),,,,,
+Vocational/Cab Chassis,Super Duty Chassis Cab F350,,Ford,Ethanol (E85),,,,,
+Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",,Ford,Propane - Bi-fuel|Propane|CNG - Compressed Natural Gas|CNG - Bi-fuel,,,,,
+Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",,Ford,Biodiesel (B20),,,,,
+Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",,Ford,Hybrid Electric,,,,,
+Pickup,"Super Duty F250, F350, F450",,Ford,CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas|Propane|Propane - Bi-fuel,,,,,
+Pickup,"Super Duty F250, F350, F450",,Ford,Biodiesel (B20),,,,,
+Pickup,"Super Duty F250, F350, F450",,Ford,Hybrid Electric,,,,,
+Pickup,"Super Duty F250, F350, F450",,Ford,Plug-in Hybrid Electric,,,,,
+Van,Transit 250/350 Cargo Van,,Ford,Ethanol (E85),,,,,
+Van,Transit 250/350 Cargo Van,,Ford,Electric,,,,,
+Van,Transit 250/350 Cargo Van,,Ford,Hybrid Electric,,,,,
+Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,,Ford,Electric,,,,,
+Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,,Ford,Ethanol (E85),,,,,
+Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,,Ford,Hybrid Electric,,,,,
+Vocational/Cab Chassis,"Transit CC-CA 250, 350",,Ford,Hybrid Electric,,,,,
+Vocational/Cab Chassis,"Transit CC-CA 250, 350",,Ford,Electric,,,,,
+Vocational/Cab Chassis,Transit Cutaway/Chassis Cab,,Ford,Ethanol (E85),,,,,
+Vocational/Cab Chassis,114SD NG - Class 8,,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Tractor,Cascadia Natural Gas,,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+TractorVocational/Cab Chassis,M2 112 NG,,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Vocational/Cab Chassis,MT-45 G Chassis - Class 4,,Freightliner Custom Chassis,Propane|CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,MT-50e,,Freightliner Custom Chassis,Electric,,,,,
+Vocational/Cab Chassis,MT-55 G Chassis,,Freightliner Custom Chassis,Propane|CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,S2G Truck - Class 6,,Freightliner Custom Chassis,Propane,,,,,
+Vocational/Cab Chassis,eCanter,,FUSO,Electric,,,,,
+Transit Bus,"BRT, BRT Plus, Commuter",,Gillig,CNG - Compressed Natural Gas,,,,,
+Transit Bus,"BRT, BRT Plus, Commuter",,Gillig,Diesel/Hybrid Electric,,,,,
+Transit Bus,"Low Floor, Low Floor Plus",,Gillig,CNG - Compressed Natural Gas,,,,,
+Transit Bus,"Low Floor, Low Floor Plus",,Gillig,Diesel/Hybrid Electric,,,,,
+Transit Bus,Low Floor Plus,,Gillig,Electric,,,,,
+Transit Bus,Trolley,,Gillig,Diesel/Hybrid Electric,,,,,
+Transit Bus,Trolley,,Gillig,CNG - Compressed Natural Gas,,,,,
+Street Sweeper,M3EV - Class 7,,Global,Electric,,,,,
+Street Sweeper,M4EV - Class 7,,Global,Electric,,,,,
+Street Sweeper,M4 Hybrid,,Global,Diesel/Hybrid Electric,,,,,
+Street Sweeper,M4/M4HSD CNG,,Global,CNG - Compressed Natural Gas,,,,,
+Street Sweeper,M4ZE/M4HSDZE - Class 7,,Global,Hydrogen Fuel Cell,,,,,
+Van,Zevo 600,,GM BrightDrop,Electric,,,,,
+Passenger Van/Shuttle Bus,Savana 2500/3500,,GMC,Ethanol (E85),,,,,
+Passenger Van/Shuttle Bus,Savana 2500/3500,,GMC,Biodiesel (B20),,,,,
+Van,Savana 2500/3500,,GMC,Ethanol (E85),,,,,
+Van,Savana 2500/3500,,GMC,Biodiesel (B20),,,,,
+Vocational/Cab Chassis,Savana 3500/4500 Cutaway,,GMC,Ethanol (E85),,,,,
+Pickup,Sierra 2500/3500 HD,,GMC,Biodiesel (B20),,,,,
+Vocational/Cab Chassis,Sierra 3500 HD Cab Chassis,,GMC,Biodiesel (B20),,,,,
+Vocational/Cab Chassis,"G1, G2",,Greenkraft,Propane|CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,"G3, G4",,Greenkraft,Propane|CNG - Compressed Natural Gas,,,,,
+Passenger Van/Shuttle Bus,AV Star,,GreenPower Motor Company,Electric,,,,,
+School Bus,BEAST,,GreenPower Motor Company,Electric,,,,,
+Transit Bus,EV250,,GreenPower Motor Company,Electric,,,,,
+Transit Bus,EV350,,GreenPower Motor Company,Electric,,,,,
+Transit Bus,EV550,,GreenPower Motor Company,Electric,,,,,
+Passenger Van/Shuttle Bus,EV Star,,GreenPower Motor Company,Electric,,,,,
+Passenger Van/Shuttle Bus,EV Star+,,GreenPower Motor Company,Electric,,,,,
+Van,EV Star Cargo,,GreenPower Motor Company,Electric,,,,,
+Vocational/Cab ChassisVan,EV Star Cargo+,,GreenPower Motor Company,Electric,,,,,
+Vocational/Cab Chassis,EV Star CC,,GreenPower Motor Company,Electric,,,,,
+Refuse,"Front Loader: Half/Pack (including Automated), Half/Pack Freedom, Half/Pack Sierra, Half/Pack Low Rider (including Automated)",,Heil Environmental,CNG - Compressed Natural Gas,,,,,
+Refuse,"Rear Loader: PowerTrak, PowerTrak Commercial, DuraPack 4060 and 5000, PT 1000, Under CDL Mini Rear Loader",,Heil Environmental,CNG - Compressed Natural Gas,,,,,
+Refuse,"Side Loader: Command-SST, DuraPack Python and Rapid Rail, Liberty and MultiPack Automated",,Heil Environmental,CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,L6 Conventional,,Hino,Biodiesel (B20),,,,,
+Vocational/Cab Chassis,L7 Conventional,,Hino,Biodiesel (B20),,,,,
+TractorVocational/Cab Chassis,XL7 Conventional,,Hino,Biodiesel (B20),,,,,
+TractorVocational/Cab Chassis,XL8 Conventional,,Hino,Biodiesel (B20),,,,,
+Passenger Van/Shuttle Bus,Carriage ,,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,,,,,
+Passenger Van/Shuttle Bus,Commuter,,Hometown Manufacturing,CNG - Compressed Natural Gas,,,,,
+Passenger Van/Shuttle Bus,Commuter,,Hometown Manufacturing,Electric,,,,,
+Transit Bus,Mainstreet,,Hometown Manufacturing,CNG - Compressed Natural Gas,,,,,
+Transit Bus,Mainstreet,,Hometown Manufacturing,Electric,,,,,
+Transit Bus,Streetcar,,Hometown Manufacturing,Electric,,,,,
+Passenger Van/Shuttle Bus,Streetcar,,Hometown Manufacturing,Diesel/Hybrid Electric,,,,,
+Transit Bus,Streetcar,,Hometown Manufacturing,CNG - Compressed Natural Gas,,,,,
+Transit Bus,Urban,,Hometown Manufacturing,Electric,,,,,
+Transit Bus,Urban,,Hometown Manufacturing,CNG - Compressed Natural Gas,,,,,
+Transit Bus,View,,Hometown Manufacturing,Electric,,,,,
+Transit Bus,View,,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,,,,,
+Passenger Van/Shuttle Bus,Villager,,Hometown Manufacturing,Electric,,,,,
+Passenger Van/Shuttle Bus,Villager,,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,,,,,
+School Bus,CE Series,,IC Bus,Propane,,,,,
+School Bus,Electric CE Series,,IC Bus,Electric,,,,,
+Vocational/Cab Chassis,eMV,,International,Electric,,,,,
+Vocational/Cab Chassis,"FTR, FVR",,Isuzu,Biodiesel (B20),,,,,
+Vocational/Cab Chassis,"NPR-HD, NPR-XD, NQR, NRR",,Isuzu,Biodiesel (B20),,,,,
+Tractor,Ottawa T2E+,,Kalmar,Electric,,,,,
+Vocational/Cab Chassis,K270/K370,,Kenworth,Electric,,,,,
+Vocational/Cab Chassis,T180/T280,,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Tractor,T680,,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Tractor,T680E,,Kenworth,Electric,,,,,
+Tractor,T880,,Kenworth,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,T880,,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Vocational/Cab Chassis,LION6,,Lion Electric,Electric,,,,,
+Vocational/Cab Chassis,LION8 - Class 8,,Lion Electric,Electric,,,,,
+Refuse,LION8 Refuse ASL and REL - Class 8,,Lion Electric,Electric,,,,,
+Tractor,LION8T - Class 8,,Lion Electric,Electric,,,,,
+School Bus,LIONA,,Lion Electric,Electric,,,,,
+School Bus,LIONC,,Lion Electric,Electric,,,,,
+School Bus,LIOND,,Lion Electric,Electric,,,,,
+Passenger Van/Shuttle Bus,LIONM,,Lion Electric,Electric,,,,,
+Tractor,Anthem - Class 8,,Mack,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Refuse,LR,,Mack,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Refuse,LR,,Mack,Electric,,,,,
+Vocational/Cab Chassis,TerraPro Cab Over,,Mack,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Refuse,TerraPro Cab Over,,Mack,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Transit Bus,D4000 Commuter Coach,,MCI,CNG - Compressed Natural Gas,,,,,
+Transit Bus,D4000 Hybrid Commuter Coach - Class 8,,MCI,Diesel/Hybrid Electric,,,,,
+Transit Bus,D4500 Commuter Coach,,MCI,CNG - Compressed Natural Gas,,,,,
+Transit Bus,D4500 Hybrid Commuter Coach - Class 8,,MCI,Diesel/Hybrid Electric,,,,,
+Transit Bus,D45 CRT LE CHARGE - Class 8,,MCI,Electric,,,,,
+Transit Bus,J4500e CHARGE - Class 8,,MCI,Electric,,,,,
+Refuse,"Front Loaders: Meridian, Atlantic, Contendor - Class 8",,McNeilus,CNG - Compressed Natural Gas,,,,,
+Refuse,"Rear Loader: Standard, Heavy Duty, Extra Compaction,Tag Axle, Split Body, M2 - Class 8",,McNeilus,CNG - Compressed Natural Gas,,,,,
+Refuse,"Side Loader: AutoReach, Manual/Automated, Zero Radius - Class 8",,McNeilus,CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,"Standard, Bridgemaster, Oshkosh S-Series - Class 8",,McNeilus,CNG - Compressed Natural Gas,,,,,
+Step Van,(various models),,Morgan-Olson,Electric,,,,,
+Transit Bus,Xcelsior 35',,New Flyer,CNG - Compressed Natural Gas,,,,,
+Transit Bus,Xcelsior 35',,New Flyer,CNG - Compressed Natural Gas,,,,,
+Transit Bus,Xcelsior 40',,New Flyer,Diesel/Hybrid Electric,,,,,
+Transit Bus,Xcelsior 40',,New Flyer,CNG - Compressed Natural Gas,,,,,
+Transit Bus,Xcelsior 60',,New Flyer,Diesel/Hybrid Electric,,,,,
+Transit Bus,Xcelsior 60',,New Flyer,CNG - Compressed Natural Gas,,,,,
+Transit Bus,Xcelsior CHARGE 35',,New Flyer,Electric,,,,,
+Transit Bus,Xcelsior CHARGE 40',,New Flyer,Electric,,,,,
+Transit Bus,Xcelsior CHARGE 60',,New Flyer,Electric,,,,,
+Transit Bus,Xcelsior CHARGE H2 40',,New Flyer,Hydrogen Fuel Cell,,,,,
+Transit Bus,Xcelsior CHARGE H2 60',,New Flyer,Hydrogen Fuel Cell,,,,,
+Street Sweeper,Osprey II sweeper,,Nitehawk,Propane - Bi-fuel,,,,,
+Street Sweeper,Osprey II sweeper,,Nitehawk,Ethanol (E85),,,,,
+Street Sweeper,Raptor II sweeper,,Nitehawk,CNG - Compressed Natural Gas|Propane - Bi-fuel,,,,,
+Transit Bus,LFS Artic HEV - Class 8,,Nova Bus,Diesel/Hybrid Electric,,,,,
+Transit Bus,LFS CNG - Class 8,,Nova Bus,CNG - Compressed Natural Gas,,,,,
+Transit Bus,LFSe,,Nova Bus,Electric,,,,,
+Transit Bus,LFSe+,,Nova Bus,Electric,,,,,
+Transit Bus,LFS HEV - Class 8,,Nova Bus,Diesel/Hybrid Electric,,,,,
+Vocational/Cab Chassis,E1 Cutaway Chassis,,Optimal-EV,Electric,,,,,
+Passenger Van/Shuttle Bus,S1 LF Low Floor,,Optimal-EV,Electric,,,,,
+Tractor,T Series terminal,,Orange EV,Electric,,,,,
+Vocational/Cab Chassis,220EV - Class 6,,Peterbilt,Electric,,,,,
+Vocational/Cab Chassis,220EV - Class 7,,Peterbilt,Electric,,,,,
+Vocational/Cab Chassis,520,,Peterbilt,CNG - Compressed Natural Gas,,,,,
+Refuse,520EV - Class 8,,Peterbilt,Electric,,,,,
+Vocational/Cab Chassis,535 - Class 5,,Peterbilt,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Vocational/Cab Chassis,536 - Class 6,,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,537 - Class 7,,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Vocational/Cab Chassis,548 - Class 8,,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+TractorVocational/Cab Chassis,567 - Class 8,,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,
+Vocational/Cab ChassisTractor,579,,Peterbilt,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Tractor,579EV - Class 8,,Peterbilt,Electric,,,,,
+Transit Bus,ZX5 35-Foot Bus - Class 8,,Proterra,Electric,,,,,
+Transit Bus,ZX5+ 35-Foot Bus - Class 8,,Proterra,Electric,,,,,
+Transit Bus,ZX5 40-Foot Bus - Class 8,,Proterra,Electric,,,,,
+Transit Bus,ZX5+ 40-Foot Bus - Class 8,,Proterra,Electric,,,,,
+Transit Bus,ZX5MAX 40-Foot Bus - Class 8,,Proterra,Electric,,,,,
+Pickup,2500/3500 HD,,RAM,Biodiesel (B20),,,,,
+Vocational/Cab Chassis,3500/4500/5500,,RAM,Biodiesel (B20),,,,,
+Street Sweeper,A7 Tornado sweeper - Class 6,,Schwarze Industries,CNG - Compressed Natural Gas,,,,,
+Street Sweeper,A7 Zephyr sweeper - Class 6,,Schwarze Industries,CNG - Compressed Natural Gas,,,,,
+Street Sweeper,M6 Avalanche,,Schwarze Industries,CNG - Compressed Natural Gas,,,,,
+Passenger Van/Shuttle Bus,Allstar 22,,Starcraft,Electric,,,,,
+School Bus,E-Quest,,Starcraft,Electric,,,,,
+School Bus,E-Quest XL,,Starcraft,Electric,,,,,
+School Bus,Minotour - Class 4,,Thomas Built,CNG - Compressed Natural Gas|Propane,,,,,
+Passenger Van/Shuttle Bus,Minotour Activity - Class 4,,Thomas Built,CNG - Compressed Natural Gas|Propane,,,,,
+Passenger Van/Shuttle Bus,Saf-T-Liner C2 Activity,,Thomas Built,CNG - Compressed Natural Gas,,,,,
+School Bus,Saf-T-Liner C2 Jouley,,Thomas Built,Electric,,,,,
+School Bus,Saf-T-Liner HDX - Class 8,,Thomas Built,CNG - Compressed Natural Gas,,,,,
+Passenger Van/Shuttle Bus,Saf-T-Liner HDX Activity - Class 8,,Thomas Built,CNG - Compressed Natural Gas,,,,,
+Passenger Van/Shuttle Bus,Transit-Liner C2,,Thomas Built,CNG - Compressed Natural Gas,,,,,
+Passenger Van/Shuttle Bus,Transit-Liner HDX,,Thomas Built,CNG - Compressed Natural Gas,,,,,
+Tractor,Pro Spotter,,TICO,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,
+Passenger Van/Shuttle Bus,Ford - Odyssey,,Turtle Top,Propane|CNG - Compressed Natural Gas,,,,,
+Passenger Van/Shuttle Bus,Ford - Odyssey XL,,Turtle Top,CNG - Compressed Natural Gas|Propane,,,,,
+Passenger Van/Shuttle Bus,Ford - Terra Transit,,Turtle Top,Electric,,,,,
+Passenger Van/Shuttle Bus,Ford - Van Terra,,Turtle Top,CNG - Compressed Natural Gas|Propane,,,,,
+Passenger Van/Shuttle Bus,Ford - VT3,,Turtle Top,Propane|CNG - Compressed Natural Gas,,,,,
+Street Sweeper,500x,,TYMCO,CNG - Compressed Natural Gas,,,,,
+Street Sweeper,600,,TYMCO,CNG - Compressed Natural Gas,,,,,
+Street Sweeper,HSP,,TYMCO,CNG - Compressed Natural Gas,,,,,
+Step Van,(various models),,Utilimaster,Electric,,,,,
+Transit Bus,CX45E,,Van Hool,Electric,,,,,
+Tractor,VNR Electric - Class 8,,Volvo,Electric,,,,,
+Step Van,C-Series,,Workhorse,Electric,,,,,
