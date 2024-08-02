@@ -1,0 +1,891 @@
+Category,Model,Model Year,Manufacturer,Fuel,All-Electric Range,PHEV Total Range,Alternative Fuel Economy City,Alternative Fuel Economy Highway,Alternative Fuel Economy Combined,Conventional Fuel Economy City,Conventional Fuel Economy Highway,Conventional Fuel Economy Combined,Transmission Type,Transmission Make,Engine Type,Engine Size,Engine Cylinder Count,Number of Passengers,Heavy-Duty Power System,Notes,Drivetrain
+Sedan/Wagon,NSX,2022,Acura,Hybrid Electric,,,,,,21.0,22.0,21.0,Auto,,SI,3.5L,6,,,"",AWD
+Sedan/Wagon,A3 ,2022,Audi,Hybrid Electric,,,,,,29.0,38.0,32.0,Auto,,SI,2.0L,4,,,"",FWD
+Sedan/Wagon,A3 quattro,2022,Audi,Hybrid Electric,,,,,,28.0,36.0,31.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,A4 allroad quattro,2022,Audi,Hybrid Electric,,,,,,24.0,30.0,26.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,A4 quattro,2022,Audi,Hybrid Electric,,,,,,26.0,34.0,29.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,A4 S line quattro,2022,Audi,Hybrid Electric,,,,,,24.0,31.0,27.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,A5 Cabriolet quattro,2022,Audi,Hybrid Electric,,,,,,23.0,31.0,26.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,A5 Coupe quattro,2022,Audi,Hybrid Electric,,,,,,24.0,31.0,27.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,A5 Sportback quattro,2022,Audi,Hybrid Electric,,,,,,26.0,34.0,29.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,A5 Sportback S line quattro,2022,Audi,Hybrid Electric,,,,,,24.0,31.0,27.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,A6 Allroad quattro,2022,Audi,Hybrid Electric,,,,,,21.0,28.0,23.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,A6 quattro,2022,Audi,Hybrid Electric,,,,,,21.0,30.0,24.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,A6 quattro,2022,Audi,Hybrid Electric,,,,,,23.0,33.0,26.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,A7 quattro,2022,Audi,Hybrid Electric,,,,,,21.0,30.0,24.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,A7 TFSI e quattro,2022,Audi,Plug-in Hybrid Electric,26,410,,,70.0,25.0,31.0,27.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,A8L quattro,2022,Audi,Hybrid Electric,,,,,,19.0,28.0,22.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,e-tron GT,2022,Audi,Electric,238,,81.0,83.0,82.0,,,,Auto,,e-motor,175 kW electric motor,,,,"",AWD
+SUV,e-tron quattro,2022,Audi,Electric,222,,78.0,77.0,78.0,,,,Auto,,e-motor,141 kW and 172 kW electric motor,,,,"",AWD
+SUV,"e-tron S (20"" wheels)",2022,Audi,Electric,208,,72.0,75.0,73.0,,,,Auto,,e-motor,138kW electric motor,,,,"",AWD
+SUV,"e-tron S (21"" or 22"" wheels)",2022,Audi,Electric,181,,62.0,64.0,63.0,,,,Auto,,e-motor,138kW electric motor,,,,"",AWD
+SUV,e-tron Sportback quattro,2022,Audi,Electric,218,,76.0,78.0,77.0,,,,Auto,,e-motor,141 kW and 172 kW electric motor,,,,"",AWD
+SUV,"e-tron S Sportback (20"" wheels)",2022,Audi,Electric,212,,73.0,78.0,75.0,,,,Auto,,e-motor,138kW electric motor,,,,"",AWD
+SUV,"e-tron S Sportback (21"" or 22"" wheels)",2022,Audi,Electric,185,,64.0,66.0,65.0,,,,Auto,,e-motor,157kW electric motor,,,,"",AWD
+SUV,Q4 e-tron quattro,2022,Audi,Electric,241,,100.0,89.0,95.0,,,,Auto,,e-motor,80 kW and 150 kW electric motor,,,,"",AWD
+SUV,Q4 e-tron Sportback quattro,2022,Audi,Electric,241,,100.0,89.0,95.0,,,,Auto,,e-motor,80 kW and 150 kW electric motor,,,,"",AWD
+SUV,Q5 quattro,2022,Audi,Hybrid Electric,,,,,,23.0,28.0,25.0,Auto,,SI,2.0L,4,,,"",AWD
+SUV,Q5 S line quattro,2022,Audi,Hybrid Electric,,,,,,23.0,28.0,25.0,Auto,,SI,2.0L,4,,,"",AWD
+SUV,Q5 Sportback S line quattro,2022,Audi,Hybrid Electric,,,,,,23.0,28.0,25.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,Q5 TFSI e quattro,2022,Audi,Plug-in Hybrid Electric,23,390,,,61.0,25.0,27.0,26.0,Auto,,SI,2.0L,4,,,"",AWD
+SUV,Q7 quattro,2022,Audi,Hybrid Electric,,,,,,18.0,23.0,20.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,Q8 quattro,2022,Audi,Hybrid Electric,,,,,,18.0,23.0,20.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,RS 6 Avant,2022,Audi,Hybrid Electric,,,,,,15.0,22.0,17.0,Auto,,SI,4.0L,8,,,"",AWD
+Sedan/Wagon,RS7,2022,Audi,Hybrid Electric,,,,,,15.0,22.0,17.0,Auto,,SI,4.0L,8,,,"",AWD
+SUV,RS e-tron GT,2022,Audi,Electric,241,,100.0,89.0,95.0,,,,Auto,,e-motor,335 kW electric motor,,,,"",AWD
+Sedan/Wagon,RS Q8,2022,Audi,Hybrid Electric,,,,,,13.0,19.0,15.0,Auto,,SI,4.0L,8,,,"",AWD
+Sedan/Wagon,S6,2022,Audi,Hybrid Electric,,,,,,18.0,28.0,22.0,Auto,,SI,2.9L,6,,,"",AWD
+Sedan/Wagon,S7,2022,Audi,Hybrid Electric,,,,,,18.0,28.0,22.0,Auto,,SI,2.9L,6,,,"",AWD
+Sedan/Wagon,S8,2022,Audi,Hybrid Electric,,,,,,14.0,23.0,17.0,Auto,,SI,4.0L,8,,,"",AWD
+Sedan/Wagon,Flying Spur Hybrid,2022,Bentley Motors,Plug-in Hybrid Electric,21,430,,,46.0,17.0,22.0,19.0,Auto,,SI,2.9L,6,,,"",""
+Sedan/Wagon,330e Sedan,2022,BMW,Plug-in Hybrid Electric,23,320,,,75.0,25.0,33.0,28.0,Auto,,SI,2.0L,4,,,"",RWD
+Sedan/Wagon,330e xDrive,2022,BMW,Plug-in Hybrid Electric,20,290,,,67.0,22.0,30.0,25.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,530e Sedan,2022,BMW,Plug-in Hybrid Electric,21,340,,,64.0,24.0,29.0,26.0,Auto,,SI,2.0L,4,,,"",RWD
+Sedan/Wagon,530e xDrive Sedan,2022,BMW,Plug-in Hybrid Electric,19,320,,,62.0,22.0,28.0,25.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,540i Sedan,2022,BMW,Hybrid Electric,,,,,,25.0,32.0,27.0,Auto,,SI,3.0L,6,,,"",RWD
+Sedan/Wagon,540i xDrive Sedan,2022,BMW,Hybrid Electric,,,,,,22.0,29.0,25.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,745e xDrive,2022,BMW,Plug-in Hybrid Electric,17,290,,,56.0,19.0,26.0,22.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,"i4 eDrive40 Gran Coupe (18"" Wheels) ",2022,BMW,Electric,301,,109.0,108.0,109.0,,,,Auto,,e-motor,250 kW electric motor,,,,"",RWD
+Sedan/Wagon,"i4 eDrive40 Gran Coupe (19"" Wheels) ",2022,BMW,Electric,282,,100.0,98.0,99.0,,,,Auto,,e-motor,250 kW electric motor,,,,"",RWD
+Sedan/Wagon,"i4 M50 Gran Coupe (19"" Wheels) ",2022,BMW,Electric,270,,94.0,98.0,96.0,,,,Auto,,e-motor,190 and 230 kW electric motors,,,,"",AWD
+Sedan/Wagon,"i4 M50 Gran Coupe (20"" Wheels) ",2022,BMW,Electric,227,,79.0,80.0,80.0,,,,Auto,,e-motor,190 and 230 kW electric motors,,,,"",AWD
+SUV,"iX xDrive50 (20"" Wheels) ",2022,BMW,Electric,324,,86.0,87.0,86.0,,,,Auto,,e-motor,190 and 230 kW electric motors,,,,"",AWD
+SUV,"iX xDrive50 (21"" Wheels) ",2022,BMW,Electric,305,,82.0,84.0,83.0,,,,Auto,,e-motor,190 and 230 kW electric motors,,,,"",AWD
+SUV,"iX xDrive50 (22"" Wheels) ",2022,BMW,Electric,315,,86.0,85.0,86.0,,,,Auto,,e-motor,190 and 230 kW electric motors,,,,"",AWD
+Sedan/Wagon,M340i Sedan,2022,BMW,Hybrid Electric,,,,,,23.0,32.0,26.0,Auto,,SI,3.0L,6,,,"",RWD
+Sedan/Wagon,M340i xDrive Sedan,2022,BMW,Hybrid Electric,,,,,,23.0,32.0,26.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,M440i Convertible,2022,BMW,Hybrid Electric,,,,,,23.0,31.0,26.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,M440i Coupe,2022,BMW,Hybrid Electric,,,,,,25.0,34.0,28.0,Auto,,SI,3.0L,6,,,"",RWD
+Sedan/Wagon,M440i xDrive Convertible,2022,BMW,Hybrid Electric,,,,,,23.0,31.0,26.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,M440i xDrive Coupe,2022,BMW,Hybrid Electric,,,,,,23.0,32.0,26.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,M440i xDrive Gran Coupe,2022,BMW,Hybrid Electric,,,,,,22.0,29.0,25.0,Auto,,SI,3.0L,6,,,"",RWD
+SUV,X3 M40i,2022,BMW,Hybrid Electric,,,,,,21.0,26.0,23.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,X4 M40i,2022,BMW,Hybrid Electric,,,,,,21.0,26.0,23.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,X5 sDrive40i,2022,BMW,Hybrid Electric,,,,,,21.0,26.0,23.0,Auto,,SI,3.0L,6,,,"",RWD
+SUV,X5 xDrive40i,2022,BMW,Hybrid Electric,,,,,,21.0,25.0,23.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,X5 xDrive45e,2022,BMW,Plug-in Hybrid Electric,31,400,,,50.0,19.0,22.0,20.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,X6 xDrive40i,2022,BMW,Hybrid Electric,,,,,,21.0,25.0,23.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,X7 xDrive40i,2022,BMW,Hybrid Electric,,,,,,19.0,24.0,21.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,Escalade 2WD,2022,Cadillac,Biodiesel (B20),,,,,,21.0,27.0,23.0,Auto,,CI,3.0L,6,,,"",RWD
+SUV,Escalade 4WD,2022,Cadillac,Biodiesel (B20),,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",4WD
+Sedan/Wagon,Bolt EUV,2022,Chevrolet,Electric,247,,125.0,104.0,115.0,,,,"",,e-motor,150 kW electric motor,,,,"",FWD
+Sedan/Wagon,Bolt EV,2022,Chevrolet,Electric,259,,131.0,109.0,120.0,,,,"",,e-motor,150 kW electric motor,,,,"",FWD
+Pickup,Colorado 2WD,2022,Chevrolet,Biodiesel (B20),,,,,,20.0,30.0,23.0,Auto,,CI,2.8L,4,,,"",RWD
+Pickup,Colorado 4WD,2022,Chevrolet,Biodiesel (B20),,,,,,19.0,28.0,22.0,Auto,,CI,2.8L,4,,,"",4WD
+Pickup,Colorado ZR2 4WD,2022,Chevrolet,Biodiesel (B20),,,,,,18.0,22.0,19.0,Auto,,CI,2.8L,4,,,"",4WD
+Pickup,Silverado 2WD,2022,Chevrolet,Ethanol (E85),,,11.0,15.0,12.0,15.0,19.0,16.0,Auto,,SI,5.3L,8,,,"",RWD
+Pickup,Silverado 2WD,2022,Chevrolet,Biodiesel (B20),,,,,,23.0,31.0,26.0,Auto,,CI,3.0L,6,,,"",RWD
+Pickup,Silverado 4WD,2022,Chevrolet,Ethanol (E85),,,11.0,13.0,12.0,14.0,16.0,15.0,Auto,,SI,5.3L,8,,,"",4WD
+Pickup,Silverado 4WD,2022,Chevrolet,Biodiesel (B20),,,,,,22.0,26.0,23.0,Auto,,CI,3.0L,6,,,Transmission with Sport Mode.,4WD
+Pickup,Silverado 4WD,2022,Chevrolet,Biodiesel (B20),,,,,,22.0,26.0,24.0,Auto,,CI,3.0L,6,,,"",4WD
+Pickup,Silverado 4WD - Mud Terrain Tires,2022,Chevrolet,Biodiesel (B20),,,,,,20.0,23.0,21.0,Auto,,CI,3.0L,6,,,"",4WD
+Pickup,Silverado 4WD - Mud Terrain Tires,2022,Chevrolet,Ethanol (E85),,,10.0,12.0,11.0,14.0,16.0,15.0,Auto,,SI,5.3L,8,,,"",4WD
+SUV,Suburban 2WD,2022,Chevrolet,Biodiesel (B20),,,,,,21.0,27.0,23.0,Auto,,CI,3.0L,6,,,"",RWD
+SUV,Suburban 4WD,2022,Chevrolet,Biodiesel (B20),,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",4WD
+SUV,Tahoe 2WD,2022,Chevrolet,Biodiesel (B20),,,,,,21.0,28.0,24.0,Auto,,CI,3.0L,6,,,"",RWD
+SUV,Tahoe 4WD,2022,Chevrolet,Biodiesel (B20),,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",4WD
+Van,Pacifica Hybrid,2022,Chrysler,Plug-in Hybrid Electric,32,520,,,82.0,29.0,30.0,30.0,Auto,,SI,3.6L,6,,,"",FWD
+Sedan/Wagon,SF90 Spyder,2022,Ferrari,Plug-in Hybrid Electric,8,320,,,44.0,16.0,19.0,17.0,Auto,,SI,3.9L,8,,,"",AWD
+Sedan/Wagon,SF90 Stradale ,2022,Ferrari,Plug-in Hybrid Electric,9,330,,,51.0,16.0,20.0,18.0,Auto,,SI,3.9L,8,,,"",AWD
+Sedan/Wagon,Escape AWD HEV,2022,Ford,Hybrid Electric,,,,,,43.0,37.0,40.0,Auto,,SI,2.5L I4,4,,,"",AWD
+Sedan/Wagon,Escape FWD HEV,2022,Ford,Hybrid Electric,,,,,,44.0,37.0,41.0,Auto,,SI,2.5L I4,4,,,"",FWD
+SUV,Escape FWD PHEV,2022,Ford,Plug-in Hybrid Electric,37,520,,,105.0,43.0,38.0,41.0,Auto,,SI,2.5L,4,,,"",FWD
+SUV,Explorer AWD FFV,2022,Ford,Ethanol (E85),,,11.0,15.0,13.0,16.0,24.0,19.0,Auto,,SI,3.3L,6,,,"",AWD
+SUV,Explorer HEV AWD,2022,Ford,Hybrid Electric,,,,,,23.0,26.0,25.0,Auto,,SI,3.3L V6,6,,,"",AWD
+SUV,Explorer HEV RWD,2022,Ford,Hybrid Electric,,,,,,27.0,28.0,27.0,Auto,,SI,3.3L V6,6,,,"",RWD
+SUV,Explorer Platinum HEV ,2022,Ford,Hybrid Electric,,,,,,23.0,24.0,23.0,Auto,,SI,3.3L V6,6,,,"",Part-Time 4WD
+SUV,Explorer Platinum HEV ,2022,Ford,Hybrid Electric,,,,,,25.0,25.0,26.0,Auto,,SI,3.3L V6,6,,,"",RWD
+Pickup,F-150 2WD FFV,2022,Ford,Ethanol (E85),,,14.0,18.0,16.0,19.0,24.0,21.0,Auto,,SI,3.3L,6,,,"",RWD
+Pickup,F-150 2WD FFV - Without Start/Stop,2022,Ford,Ethanol (E85),,,12.0,18.0,14.0,17.0,24.0,19.0,Auto,,SI,5.0L,8,,,"",RWD
+Pickup,F-150 2WD FFV - With Start/Stop,2022,Ford,Ethanol (E85),,,11.0,18.0,14.0,17.0,24.0,20.0,Auto,,SI,5.0L,8,,,"",RWD
+Pickup,F-150 4WD FFV,2022,Ford,Ethanol (E85),,,14.0,18.0,15.0,19.0,22.0,20.0,Auto,,SI,3.3L,6,,,"",4WD
+Pickup,F-150 4WD FFV - Without Start/Stop,2022,Ford,Ethanol (E85),,,12.0,17.0,14.0,16.0,22.0,18.0,Auto,,SI,5.0L,8,,,"",4WD
+Pickup,F-150 4WD FFV - With Start/Stop,2022,Ford,Ethanol (E85),,,11.0,17.0,13.0,16.0,22.0,19.0,Auto,,SI,5.0L,8,,,"",4WD
+Pickup,F150 Lightning 4WD,2022,Ford,Electric,230,,76.0,61.0,68.0,,,,Auto,,e-motor,358 kW electric motors (x2),,,,"",AWD
+Pickup,F150 Lightning 4WD Extended Range,2022,Ford,Electric,320,,78.0,63.0,70.0,,,,Auto,,e-motor,210 kW electric motors (x2),,,,"",AWD
+Pickup,F150 Lightning Platinum 4WD,2022,Ford,Electric,300,,73.0,60.0,66.0,,,,Auto,,e-motor,210 kW electric motors (x2),,,,"",AWD
+Pickup,F150 Pickup 2WD HEV,2022,Ford,Hybrid Electric,,,,,,25.0,25.0,25.0,Auto,,SI,3.5L V6,6,,,"",RWD
+Pickup,F150 Pickup 4WD HEV,2022,Ford,Hybrid Electric,,,,,,23.0,23.0,23.0,Auto,,SI,3.5L V6,6,,,"",4WD
+Pickup,Maverick Pickup HEV,2022,Ford,Hybrid Electric,,,,,,42.0,33.0,37.0,Auto,,SI,2.5L V6,4,,,"",FWD
+SUV,Mustang Mach-E AWD,2022,Ford,Electric,224,,98.0,86.0,93.0,,,,Auto,,e-motor,198 kW electric motors (x2),,,,"",AWD
+SUV,Mustang Mach-E AWD California Route 1,2022,Ford,Electric,312,,105.0,91.0,98.0,,,,Auto,,e-motor,258 kW electric motors (x2),,,,"",AWD
+SUV,Mustang Mach-E AWD Extended,2022,Ford,Electric,277,,97.0,84.0,91.0,,,,Auto,,e-motor,258 kW electric motors (x2),,,,"",AWD
+SUV,Mustang Mach-E GT AWD,2022,Ford,Electric,270,,90.0,77.0,84.0,,,,Auto,,e-motor,179  kW electric motors (X2),,,,"",AWD
+SUV,Mustang Mach-E GT Performance,2022,Ford,Electric,260,,88.0,75.0,82.0,,,,Auto,,e-motor,179  kW electric motor,,,,"",AWD
+SUV,Mustang Mach-E RWD,2022,Ford,Electric,247,,110.0,96.0,103.0,,,,Auto,,e-motor,198 kW electric motor,,,,"",RWD
+SUV,Mustang Mach-E RWD California Route 1,2022,Ford,Electric,314,,108.0,94.0,101.0,,,,Auto,,e-motor,216 kW electric motor,,,,"",RWD
+SUV,Mustang Mach-E RWD Extended,2022,Ford,Electric,303,,104.0,90.0,97.0,,,,Auto,,e-motor,216 kW electric motor,,,,"",RWD
+Van,Transit Connect Van FFV,2022,Ford,Ethanol (E85),,,18.0,20.0,19.0,24.0,27.0,25.0,Auto,,SI,2.0L,4,,,This vehicle is only available in certain states. See dealer for details.,FWD
+Passenger Van/Shuttle Bus,Transit Connect Wagon LWB FFV,2022,Ford,Ethanol (E85),,,16.0,21.0,18.0,24.0,28.0,26.0,Auto,,SI,2.0L,4,,,This vehicle is only available in certain states. See dealer for details.,FWD
+Van,Transit T150 Passenger Van 2WD FFV,2022,Ford,Ethanol (E85),,,11.0,15.0,12.0,15.0,19.0,17.0,Auto,,SI,3.5L,,,,"",RWD
+Van,Transit T150 Passenger Van 4WD FFV,2022,Ford,Ethanol (E85),,,11.0,14.0,12.0,14.0,18.0,16.0,Auto,,SI,3.5L,,,,"",4WD
+Pickup,Canyon 2WD,2022,GMC,Biodiesel (B20),,,,,,20.0,30.0,23.0,Auto,,CI,2.8L,4,,,"",RWD
+Pickup,Canyon 4WD,2022,GMC,Biodiesel (B20),,,,,,19.0,28.0,22.0,Auto,,CI,2.8L,4,,,"",4WD
+Pickup,Sierra 2WD,2022,GMC,Ethanol (E85),,,11.0,15.0,12.0,15.0,19.0,16.0,Auto,,SI,5.3L,8,,,"",RWD
+Pickup,Sierra 2WD,2022,GMC,Biodiesel (B20),,,,,,23.0,30.0,26.0,Auto,,CI,3.0L,6,,,"",RWD
+Pickup,Sierra 4WD,2022,GMC,Ethanol (E85),,,11.0,13.0,12.0,14.0,18.0,16.0,Auto,,SI,5.3L,8,,,"",4WD
+Pickup,Sierra 4WD,2022,GMC,Biodiesel (B20),,,,,,22.0,26.0,24.0,Auto,,CI,3.0L,6,,,"",4WD
+Pickup,Sierra 4WD - Mud Terrain Tires,2022,GMC,Biodiesel (B20),,,,,,20.0,23.0,21.0,Auto,,CI,3.0L,6,,,"",4WD
+Pickup,Sierra 4WD - Mud Terrain Tires,2022,GMC,Ethanol (E85),,,11.0,13.0,12.0,14.0,16.0,15.0,Auto,,SI,5.3L,8,,,"",4WD
+SUV,Yukon 2WD,2022,GMC,Biodiesel (B20),,,,,,21.0,27.0,23.0,Auto,,CI,3.0L,6,,,"",RWD
+SUV,Yukon 4WD,2022,GMC,Biodiesel (B20),,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",4WD
+SUV,Yukon XL 2WD,2022,GMC,Biodiesel (B20),,,,,,21.0,27.0,23.0,Auto,,CI,3.0L,6,,,"",RWD
+SUV,Yukon XL 4WD,2022,GMC,Biodiesel (B20),,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",4WD
+Sedan/Wagon,Accord,2022,Honda,Hybrid Electric,,,,,,48.0,47.0,47.0,Auto,,SI,2.0L,4,,,"",FWD
+Sedan/Wagon,Accord Sport/Touring,2022,Honda,Hybrid Electric,,,,,,44.0,41.0,43.0,Auto,,SI,2.0L,4,,,"",FWD
+SUV,CR-V AWD,2022,Honda,Hybrid Electric,,,,,,40.0,35.0,38.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,Insight,2022,Honda,Hybrid Electric,,,,,,55.0,49.0,52.0,Auto,,SI,1.5L,4,,,"",FWD
+Sedan/Wagon,Insight Touring,2022,Honda,Hybrid Electric,,,,,,51.0,45.0,48.0,Auto,,SI,1.5L,4,,,"",FWD
+Sedan/Wagon,Elantra Hybrid,2022,Hyundai,Hybrid Electric,,,,,,49.0,52.0,50.0,Auto,,SI,1.6L,4,,,"",FWD
+Sedan/Wagon,Elantra Hybrid Blue,2022,Hyundai,Hybrid Electric,,,,,,53.0,56.0,54.0,Auto,,SI,1.6L,4,,,"",FWD
+Sedan/Wagon,Ioniq,2022,Hyundai,Hybrid Electric,,,,,,54.0,57.0,55.0,Auto,,SI,1.6L,4,,,"",FWD
+SUV,Ioniq 5 AWD (Long Range),2022,Hyundai,Electric,256,,110.0,87.0,98.0,,,,Auto,,e-motor,74 kW and 165 kW electric motors,,,,"",AWD
+SUV,Ioniq 5 RWD,2022,Hyundai,Electric,220,,127.0,94.0,110.0,,,,Auto,,e-motor,125 kW electric motor,,,,"",RWD
+SUV,Ioniq 5 RWD (Long Range),2022,Hyundai,Electric,303,,132.0,98.0,114.0,,,,Auto,,e-motor,168 kW electric motor,,,,"",RWD
+Sedan/Wagon,Ioniq Blue,2022,Hyundai,Hybrid Electric,,,,,,58.0,60.0,59.0,Auto,,SI,1.6L,4,,,"",FWD
+Sedan/Wagon,Ioniq Plug-in Hybrid,2022,Hyundai,Plug-in Hybrid Electric,29,620,,,119.0,52.0,51.0,52.0,Auto,,SI,1.6L,4,,,"",FWD
+SUV,Kona Electric,2022,Hyundai,Electric,258,,132.0,108.0,120.0,,,,Auto,,e-motor,150 kW electric motor,,,,"",FWD
+SUV,Nexo,2022,Hyundai,Hydrogen Fuel Cell,,,59.0,54.0,57.0,,,,Auto,,FC,120 kW electric motor,,,,"",FWD
+SUV,Nexo Blue,2022,Hyundai,Hydrogen Fuel Cell,,,65.0,58.0,61.0,,,,Auto,,FC,120 kW electric motor,,,,"",FWD
+Sedan/Wagon,Santa Fe Hybrid,2022,Hyundai,Hybrid Electric,,,,,,33.0,30.0,32.0,Auto,,SI,1.6L,4,,,"",4WD
+Sedan/Wagon,Santa Fe Hybrid Blue,2022,Hyundai,Hybrid Electric,,,,,,36.0,31.0,34.0,Auto,,SI,1.6L,4,,,"",4WD
+Sedan/Wagon,Santa Fe Plug-in Hybrid,2022,Hyundai,Plug-in Hybrid Electric,31,440,,,76.0,33.0,32.0,33.0,Auto,,SI,1.6L,4,,,"",AWD
+Sedan/Wagon,Sonata Hybrid,2022,Hyundai,Hybrid Electric,,,,,,45.0,51.0,47.0,Auto,,SI,2.0L,4,,,"",FWD
+Sedan/Wagon,Sonata Hybrid Blue,2022,Hyundai,Hybrid Electric,,,,,,50.0,54.0,52.0,Auto,,SI,2.0L,4,,,"",FWD
+Sedan/Wagon,Tucson Hybrid,2022,Hyundai,Hybrid Electric,,,,,,37.0,36.0,37.0,Auto,,SI,1.6L,4,,,"",4WD
+Sedan/Wagon,Tucson Hybrid Blue,2022,Hyundai,Hybrid Electric,,,,,,38.0,38.0,38.0,Auto,,SI,1.6L,4,,,"",4WD
+SUV,Tucson Plug-in Hybrid,2022,Hyundai,Plug-in Hybrid Electric,33,420,,,80.0,35.0,35.0,35.0,Auto,,SI,1.6L,4,,,"",AWD
+SUV,E-PACE MHEV,2022,Jaguar,Hybrid Electric,,,,,,21.0,26.0,23.0,Auto,,SI,2.0L,4,,,"",AWD
+SUV,F-PACE P340 MHEV,2022,Jaguar,Hybrid Electric,,,,,,20.0,27.0,22.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,F-PACE P400 MHEV,2022,Jaguar,Hybrid Electric,,,,,,19.0,26.0,22.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,Grand Cherokee 4xe,2022,Jeep,Plug-in Hybrid Electric,26,470,,,56.0,23.0,24.0,23.0,Auto,,SI,2.0L,4,,,"",4WD
+SUV,Wagoneer 4x2,2022,Jeep,Hybrid Electric,,,,,,16.0,22.0,18.0,Auto,,SI,5.7L,8,,,"",RWD
+SUV,Wagoneer 4x4,2022,Jeep,Hybrid Electric,,,,,,15.0,20.0,17.0,Auto,,SI,5.7L,8,,,"",4WD
+SUV,Wrangler 2dr 4x4,2022,Jeep,Hybrid Electric,,,,,,20.0,24.0,21.0,Auto,,SI,3.6L,6,,,"",4WD
+SUV,Wrangler 4dr 4x4,2022,Jeep,Hybrid Electric,,,,,,19.0,24.0,21.0,Auto,,SI,3.6L,6,,,"",4WD
+SUV,Wrangler 4dr 4xe,2022,Jeep,Plug-in Hybrid Electric,22,370,,,49.0,20.0,20.0,20.0,Auto,,SI,2.0L,4,,,"",4WD
+Sedan/Wagon,EV6 AWD (Long Range) ,2022,Kia,Electric,274,,116.0,94.0,105.0,,,,Auto,,e-motor,74 kW and 165 kW electric motors,,,,"",AWD
+Sedan/Wagon,EV6 RWD,2022,Kia,Electric,232,,136.0,100.0,117.0,,,,Auto,,e-motor,125 kW electric motor,,,,"",RWD
+Sedan/Wagon,EV6 RWD (Long Range) ,2022,Kia,Electric,310,,134.0,101.0,117.0,,,,Auto,,e-motor,168 kW electric motor,,,,"",RWD
+Sedan/Wagon,Niro,2022,Kia,Hybrid Electric,,,,,,51.0,46.0,49.0,Auto,,SI,1.6L,4,,,"",FWD
+Sedan/Wagon,Niro Electric,2022,Kia,Electric,239,,123.0,102.0,112.0,,,,Auto,,e-motor,150 kW electric motor,,,,"",FWD
+Sedan/Wagon,Niro FE,2022,Kia,Hybrid Electric,,,,,,53.0,48.0,50.0,Auto,,SI,1.6L,4,,,"",FWD
+Sedan/Wagon,Niro Plug-in Hybrid,2022,Kia,Plug-in Hybrid Electric,26,560,,,105.0,48.0,44.0,46.0,Auto,,SI,1.6L,4,,,"",FWD
+Sedan/Wagon,Niro Touring,2022,Kia,Hybrid Electric,,,,,,46.0,40.0,43.0,Auto,,SI,1.6L,4,,,"",FWD
+SUV,Sorento Hybrid AWD,2022,Kia,Hybrid Electric,,,,,,36.0,33.0,35.0,Auto,,SI,1.6L,4,,,"",AWD
+SUV,Sorento Hybrid FWD,2022,Kia,Hybrid Electric,,,,,,39.0,35.0,37.0,Auto,,SI,1.6L,4,,,"",FWD
+SUV,Sorento Plug-in Hybrid,2022,Kia,Plug-in Hybrid Electric,32,460,,,79.0,35.0,33.0,34.0,Auto,,SI,1.6L,4,,,"",AWD
+SUV,Defender 110 MHEV,2022,Land Rover,Hybrid Electric,,,,,,17.0,22.0,19.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,Defender 90 MHEV,2022,Land Rover,Hybrid Electric,,,,,,17.0,22.0,19.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,Discovery MHEV,2022,Land Rover,Hybrid Electric,,,,,,18.0,24.0,21.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,New Range Rover P360 LWB MHEV,2022,Land Rover,Hybrid Electric,,,,,,18.0,26.0,21.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,New Range Rover P360 MHEV,2022,Land Rover,Hybrid Electric,,,,,,18.0,26.0,21.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,New Range Rover P400 LWB MHEV,2022,Land Rover,Hybrid Electric,,,,,,18.0,26.0,21.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,New Range Rover P400 MHEV,2022,Land Rover,Hybrid Electric,,,,,,18.0,26.0,21.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,Range Rover Evoque MHEV,2022,Land Rover,Hybrid Electric,,,,,,21.0,26.0,23.0,Auto,,SI,2.0L,4,,,"",4WD
+SUV,Range Rover P360 MHEV,2022,Land Rover,Hybrid Electric,,,,,,18.0,23.0,20.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,Range Rover P400 MHEV,2022,Land Rover,Hybrid Electric,,,,,,18.0,23.0,20.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,Range Rover Sport P360 MHEV,2022,Land Rover,Hybrid Electric,,,,,,19.0,24.0,21.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,Range Rover Sport P400 MHEV,2022,Land Rover,Hybrid Electric,,,,,,19.0,24.0,21.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,Range Rover Sport PHEV,2022,Land Rover,Plug-in Hybrid Electric,19,480,,,42.0,18.0,21.0,19.0,Auto,,CI,2.0L,4,,,"",4WD
+SUV,Range Rover Velar P340 MHEV,2022,Land Rover,Hybrid Electric,,,,,,20.0,26.0,22.0,Auto,,SI,3.0L,6,,,"",4WD
+SUV,Range Rover Velar P400 MHEV,2022,Land Rover,Hybrid Electric,,,,,,19.0,25.0,21.0,Auto,,SI,3.0L,6,,,"",4WD
+Sedan/Wagon,ES 300h,2022,Lexus,Hybrid Electric,,,,,,43.0,44.0,44.0,Auto,,SI,2.5L,4,,,"",FWD
+Sedan/Wagon,LC 500h,2022,Lexus,Hybrid Electric,,,,,,26.0,34.0,29.0,Auto,,SI,3.5L,6,,,"",RWD
+Sedan/Wagon,LS 500h AWD,2022,Lexus,Hybrid Electric,,,,,,22.0,29.0,25.0,Auto,,SI,3.5L,6,,,"",AWD
+SUV,NX 350h AWD,2022,Lexus,Hybrid Electric,,,,,,41.0,37.0,39.0,Auto,,SI,2.5L,4,,,"",AWD
+SUV,NX 450+ AWD,2022,Lexus,Plug-in Hybrid Electric,37,550,,,84.0,38.0,33.0,36.0,Auto,,SI,2.5L,4,,,"",AWD
+SUV,RX 450h AWD,2022,Lexus,Hybrid Electric,,,,,,31.0,28.0,30.0,Auto,,SI,3.5L,6,,,"",AWD
+SUV,RX 450h L AWD,2022,Lexus,Hybrid Electric,,,,,,29.0,28.0,29.0,Auto,,SI,3.5L,6,,,"",AWD
+Sedan/Wagon,UX 250h,2022,Lexus,Hybrid Electric,,,,,,43.0,41.0,42.0,Auto,,SI,2.0L,4,,,"",FWD
+Sedan/Wagon,UX 250h AWD,2022,Lexus,Hybrid Electric,,,,,,41.0,38.0,39.0,Auto,,SI,2.0L,4,,,"",AWD
+SUV,Aviator AWD PHEV,2022,Lincoln,Plug-in Hybrid Electric,21,460,,,56.0,22.0,25.0,23.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,Corsair AWD PHEV,2022,Lincoln,Plug-in Hybrid Electric,28,430,,,78.0,34.0,32.0,33.0,Auto,,SI,2.5L,4,,,"",Part-Time 4WD
+Sedan/Wagon,"Air Dream P AWD w/19"" wheels",2022,"Lucid USA, Inc.",Electric,471,,117.0,114.0,116.0,,,,Auto,,e-motor,370kW and 459kW electric motors,,,,"",AWD
+Sedan/Wagon,"Air Dream P AWD w/21"" wheels",2022,"Lucid USA, Inc.",Electric,451,,110.0,111.0,111.0,,,,Auto,,e-motor,370kW and 459kW electric motors,,,,"",AWD
+Sedan/Wagon,"Air Dream R AWD w/19"" wheels",2022,"Lucid USA, Inc.",Electric,520,,126.0,125.0,125.0,,,,Auto,,e-motor,198kW and 498kW electric motors,,,,"",AWD
+Sedan/Wagon,"Air Dream R AWD w/21"" wheels",2022,"Lucid USA, Inc.",Electric,481,,115.0,117.0,116.0,,,,Auto,,e-motor,198kW and 498kW electric motors,,,,"",AWD
+Sedan/Wagon,"Air G Touring AWD w/19"" wheels",2022,"Lucid USA, Inc.",Electric,516,,130.0,132.0,131.0,,,,Auto,,e-motor,178kW and 433kW electric motors,,,,"",AWD
+Sedan/Wagon,"Air G Touring AWD w/21"" wheels",2022,"Lucid USA, Inc.",Electric,469,,121.0,122.0,121.0,,,,Auto,,e-motor,178kW and 433kW electric motors,,,,"",AWD
+Sedan/Wagon,MX-30,2022,Mazda,Electric,100,,98.0,85.0,92.0,,,,"",,e-motor,81 kW electric motor,,,,"",FWD
+Sedan/Wagon,AMG E53 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,,,,,,21.0,29.0,24.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,AMG E53 4MATIC+ (Convertible),2022,Mercedes-Benz,Hybrid Electric,,,,,,20.0,28.0,23.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,AMG E53 4MATIC+ (Coupe),2022,Mercedes-Benz,Hybrid Electric,,,,,,20.0,28.0,23.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,AMG GLE 53 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,,,,,,18.0,22.0,19.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,AMG GLE 53 4MATIC+ (Coupe),2022,Mercedes-Benz,Hybrid Electric,,,,,,17.0,21.0,19.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,AMG GLE 63 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,,,,,,14.0,18.0,15.0,Auto,,SI,4.0L,8,,,"",AWD
+SUV,AMG GLE 63 S 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,,,,,,15.0,19.0,16.0,Auto,,SI,4.0L,8,,,"",AWD
+SUV,AMG GLE 63 S 4MATIC+ (coupe),2022,Mercedes-Benz,Hybrid Electric,,,,,,15.0,19.0,16.0,Auto,,SI,4.0L,8,,,"",AWD
+Sedan/Wagon,AMG GT 43 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,,,,,,19.0,25.0,21.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,AMG GT 53 4MATIC+,2022,Mercedes-Benz,Hybrid Electric,,,,,,19.0,25.0,21.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,C 300,2022,Mercedes-Benz,Hybrid Electric,,,,,,25.0,35.0,29.0,Auto,,SI,2.0L,4,,,"",RWD
+Sedan/Wagon,C 300 4MATIC,2022,Mercedes-Benz,Hybrid Electric,,,,,,23.0,33.0,27.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,CLS 450 4MATIC,2022,Mercedes-Benz,Hybrid Electric,,,,,,22.0,30.0,25.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,E 450 4MATIC,2022,Mercedes-Benz,Hybrid Electric,,,,,,23.0,30.0,25.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,E 450 4MATIC All-Terrain (wagon),2022,Mercedes-Benz,Hybrid Electric,,,,,,21.0,28.0,24.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,E 450 4MATIC (Convertible),2022,Mercedes-Benz,Hybrid Electric,,,,,,22.0,29.0,24.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,E 450 4MATIC (Coupe),2022,Mercedes-Benz,Hybrid Electric,,,,,,22.0,29.0,24.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,E 450 (Convertible),2022,Mercedes-Benz,Hybrid Electric,,,,,,22.0,29.0,25.0,Auto,,SI,3.0L,6,,,"",RWD
+Sedan/Wagon,E 450 (Coupe),2022,Mercedes-Benz,Hybrid Electric,,,,,,22.0,29.0,25.0,Auto,,SI,3.0L,6,,,"",RWD
+Sedan/Wagon,EQS450+,2022,Mercedes-Benz,Electric,350,,97.0,97.0,97.0,,,,Auto,,e-motor,245 kW electric motor,,,,"",RWD
+Sedan/Wagon,EQS 580 4MATIC,2022,Mercedes-Benz,Electric,340,,92.0,99.0,95.0,,,,Auto,,e-motor,135 and 255 kW electric motors,,,,"",AWD
+SUV,GLE 450 4MATIC,2022,Mercedes-Benz,Hybrid Electric,,,,,,20.0,26.0,22.0,Auto,,SI,3.0L,6,,,Includes Gasoline Particulate Filter,AWD
+SUV,GLE 450 4MATIC,2022,Mercedes-Benz,Hybrid Electric,,,,,,20.0,25.0,22.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,GLE 580 4MATIC,2022,Mercedes-Benz,Hybrid Electric,,,,,,16.0,21.0,18.0,Auto,,SI,4.0L,8,,,"",AWD
+SUV,GLS 450 4MATIC,2022,Mercedes-Benz,Hybrid Electric,,,,,,18.0,24.0,20.0,Auto,,SI,3.0L,6,,,"",AWD
+SUV,GLS 580 4MATIC,2022,Mercedes-Benz,Hybrid Electric,,,,,,16.0,21.0,18.0,Auto,,SI,4.0L,8,,,"",AWD
+SUV,GLS 600 4MATIC Maybach,2022,Mercedes-Benz,Hybrid Electric,,,,,,14.0,20.0,17.0,Auto,,SI,4.0L,8,,,"",AWD
+Sedan/Wagon,S 500 4MATIC,2022,Mercedes-Benz,Hybrid Electric,,,,,,21.0,30.0,24.0,Auto,,SI,3.0L,6,,,"",AWD
+Sedan/Wagon,S 580 4MATIC,2022,Mercedes-Benz,Hybrid Electric,,,,,,16.0,25.0,19.0,Auto,,SI,4.0L,8,,,"",AWD
+Sedan/Wagon,S 580 4MATIC Maybach,2022,Mercedes-Benz,Hybrid Electric,,,,,,15.0,24.0,18.0,Auto,,SI,4.0L,8,,,"",AWD
+Sedan/Wagon,Cooper SE Countryman ALL4,2022,Mini,Plug-in Hybrid Electric,18,300,,,73.0,29.0,30.0,29.0,Auto,,SI,1.5L,3,,,"",AWD
+Sedan/Wagon,Cooper SE Hardtop 2 door,2022,Mini,Electric,114,,119.0,100.0,110.0,,,,Auto,,e-motor,135 kW electric motor,,,,"",FWD
+SUV,Outlander PHEV,2022,Mitsubishi,Plug-in Hybrid Electric,24,320,,,74.0,26.0,26.0,26.0,Auto,,SI,2.4L,4,,,"",AWD
+Sedan/Wagon,Leaf (40 kWh battery pack),2022,Nissan,Electric,149,,123.0,99.0,111.0,,,,Auto,,e-motor,110 kW electric motor,,,,"",FWD
+Sedan/Wagon,Leaf (62 kWh battery pack),2022,Nissan,Electric,226,,118.0,97.0,108.0,,,,Auto,,e-motor,160 kW electric motor,,,,"",FWD
+Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2022,Nissan,Electric,215,,114.0,94.0,104.0,,,,Auto,,e-motor,160 kW electric motor,,,,"",FWD
+Sedan/Wagon,Polestar 2 (Dual Motor),2022,Polestar Automotive USA,Electric,249,,94.0,84.0,89.0,,,,Auto,,e-motor,150kW electric motors (X2),,,,"",AWD
+Sedan/Wagon,Polestar 2 (Single Motor),2022,Polestar Automotive USA,Electric,270,,113.0,100.0,107.0,,,,Auto,,e-motor,170kW electric motor,,,,"",FWD
+SUV,Cayenne/Coupe/Platinum e-Hybrid,2022,Porsche,Plug-in Hybrid Electric,17,430,,,46.0,20.0,22.0,21.0,Auto,,SI,3.0L ,6,,,"",AWD
+SUV,Cayenne Turbo S/Coupe e-Hybrid ,2022,Porsche,Plug-in Hybrid Electric,15,370,,,42.0,17.0,20.0,18.0,Auto,,SI,4.0L,8,,,"",AWD
+Sedan/Wagon,Panamera 4 E-Hybrid Executive,2022,Porsche,Plug-in Hybrid Electric,19,480,,,52.0,21.0,24.0,22.0,Auto,,SI,2.9L,6,,,"",AWD
+Sedan/Wagon,Panamera 4S E-Hybrid Executive,2022,Porsche,Plug-in Hybrid Electric,19,480,,,50.0,21.0,23.0,22.0,Auto,,SI,2.9L,6,,,"",AWD
+Sedan/Wagon,Panamera Turbo S E-Hybrid Executive/ST,2022,Porsche,Plug-in Hybrid Electric,17,430,,,48.0,18.0,22.0,19.0,Auto,,SI,4.0L,8,,,"",AWD
+Sedan/Wagon,Taycan 4 Cross Turismo,2022,Porsche,Electric,215,,76.0,77.0,76.0,,,,Auto,,e-motor,175 and 320 kW electric motors,,,,"",AWD
+Sedan/Wagon,Taycan 4S Cross Turismo,2022,Porsche,Electric,215,,75.0,75.0,75.0,,,,Auto,,e-motor,175 and 320 kW electric motors,,,,"",AWD
+Sedan/Wagon,Taycan 4S Perf Battery,2022,Porsche,Electric,199,,79.0,80.0,79.0,,,,Auto,,e-motor,150 and 270 kW electric motors,,,,"",AWD
+Sedan/Wagon,Taycan 4S Perf Battery Plus,2022,Porsche,Electric,227,,72.0,81.0,77.0,,,,Auto,,e-motor,175 and 320 kW electric motors,,,,"",AWD
+Sedan/Wagon,Taycan Perf Battery,2022,Porsche,Electric,200,,76.0,84.0,79.0,,,,Auto,,e-motor,240 kW electric motor,,,,"",AWD
+Sedan/Wagon,Taycan Perf Battery Plus,2022,Porsche,Electric,225,,71.0,80.0,75.0,,,,Auto,,e-motor,280 kW electric motor,,,,"",AWD
+Sedan/Wagon,Taycan Turbo,2022,Porsche,Electric,212,,71.0,75.0,73.0,,,,Auto,,e-motor,170 and 335 kW electric motors,,,,"",AWD
+Sedan/Wagon,Taycan Turbo Cross Turismo,2022,Porsche,Electric,204,,72.0,72.0,72.0,,,,Auto,,e-motor,175 and 355 kW electric motors,,,,"",AWD
+Sedan/Wagon,Taycan Turbo S,2022,Porsche,Electric,201,,69.0,71.0,70.0,,,,Auto,,e-motor,190 and 335 kW electric motors,,,,"",AWD
+Sedan/Wagon,Taycan Turbo S Cross Turismo,2022,Porsche,Electric,202,,74.0,73.0,73.0,,,,Auto,,e-motor,175 and 355 kW electric motors,,,,"",AWD
+Pickup,1500 4X2,2022,Ram,Hybrid Electric,,,,,,20.0,25.0,22.0,Auto,,SI,3.6L,6,,,"",RWD
+Pickup,1500 4X2,2022,Ram,Hybrid Electric,,,,,,18.0,23.0,20.0,Auto,,SI,5.7L,8,,,"",RWD
+Pickup,1500 4X4,2022,Ram,Hybrid Electric,,,,,,18.0,22.0,19.0,Auto,,SI,5.7L,8,,,"",4WD
+Pickup,1500 4X4,2022,Ram,Hybrid Electric,,,,,,19.0,24.0,21.0,Auto,,SI,3.6L,6,,,"",4WD
+Pickup,1500 HFE 4X2,2022,Ram,Hybrid Electric,,,,,,20.0,26.0,23.0,Auto,,SI,3.6L,6,,,"",RWD
+SUV,R1S,2022,Rivian ,Electric,316,,73.0,65.0,69.0,,,,Auto,,e-motor,"162, 162, 163, 163 kW ",,,,"",Part-Time 4WD
+Pickup,R1T,2022,Rivian ,Electric,314,,74.0,66.0,70.0,,,,Auto,,e-motor,"162, 162, 163, 163 kW ",,,,"",Part-Time 4WD
+Sedan/Wagon,Model 3 (Long Range) AWD,2022,Tesla,Electric,353,,134.0,126.0,131.0,,,,Auto,,e-motor,98 kW and 195 kW electric motors,,,,"",AWD
+Sedan/Wagon,Model 3 Performance AWD,2022,Tesla,Electric,315,,118.0,107.0,113.0,,,,Auto,,e-motor,131kW and 190 kW electric motors,,,,"",AWD
+Sedan/Wagon,Model 3 RWD,2022,Tesla,Electric,272,,138.0,126.0,132.0,,,,Auto,,e-motor,192 kW electric motor,,,,"",RWD
+Sedan/Wagon,Model S ,2022,Tesla,Electric,405,,124.0,115.0,120.0,,,,Auto,,e-motor,247 kW dual electric motors,,,,"",AWD
+Sedan/Wagon,"Model S Plaid (19"" Wheels)",2022,Tesla,Electric,396,,119.0,112.0,116.0,,,,Auto,,e-motor,250 kW electric motors (X3),,,,"",AWD
+Sedan/Wagon,"Model S Plaid (21"" Wheels)",2022,Tesla,Electric,348,,102.0,99.0,101.0,,,,Auto,,e-motor,250 kW electric motors (X3),,,,"",AWD
+SUV,Model X AWD,2022,Tesla,Electric,348,,107.0,97.0,102.0,,,,Auto,,e-motor,243 and 248 kW electric motors,,,,"",AWD
+SUV,"Model X Plaid (20"" Wheels)",2022,Tesla,Electric,333,,103.0,93.0,98.0,,,,Auto,,e-motor,230kW electric motors (X3),,,,"",AWD
+SUV,"Model X Plaid (22"" Wheels)",2022,Tesla,Electric,311,,94.0,88.0,91.0,,,,Auto,,e-motor,230kW electric motors (X3),,,,"",AWD
+SUV,Model Y AWD,2022,Tesla,Electric,279,,129.0,116.0,123.0,,,,Auto,,e-motor,91 and 200 kW electric motors,,,,"",AWD
+SUV,Model Y (Long Range) AWD,2022,Tesla,Electric,330,,127.0,117.0,122.0,,,,Auto,,e-motor,91 and 200 kW electric motors,,,,"",AWD
+SUV,Model Y Performance AWD,2022,Tesla,Electric,303,,115.0,106.0,111.0,,,,Auto,,e-motor,133 and 179 kW electric motors,,,,"",AWD
+SUV,Model Y RWD,2022,Tesla,Electric,244,,140.0,119.0,129.0,,,,Auto,,e-motor,209 kW electric motor,,,,"",RWD
+Sedan/Wagon,Avalon Hybrid ,2022,Toyota,Hybrid Electric,,,,,,43.0,43.0,43.0,Auto,,SI,2.5L,4,,,"",FWD
+Sedan/Wagon,Avalon Hybrid XLE,2022,Toyota,Hybrid Electric,,,,,,43.0,44.0,44.0,Auto,,SI,2.5L,4,,,"",FWD
+Sedan/Wagon,Camry Hybrid LE,2022,Toyota,Hybrid Electric,,,,,,51.0,53.0,52.0,Auto,,SI,2.5L,4,,,"",FWD
+Sedan/Wagon,Camry Hybrid SE/XLE/XSE,2022,Toyota,Hybrid Electric,,,,,,44.0,47.0,46.0,Auto,,SI,2.5L,4,,,"",FWD
+Sedan/Wagon,Corolla Hybrid,2022,Toyota,Hybrid Electric,,,,,,53.0,52.0,52.0,Auto,,SI,1.8L,4,,,"",FWD
+SUV,Highlander Hybrid,2022,Toyota,Hybrid Electric,,,,,,36.0,35.0,36.0,Auto,,SI,2.5L,4,,,"",RWD
+SUV,Highlander Hybrid AWD,2022,Toyota,Hybrid Electric,,,,,,35.0,35.0,35.0,Auto,,SI,2.5L,4,,,"",AWD
+SUV,Highlander Hybrid AWD LTD/PLAT,2022,Toyota,Hybrid Electric,,,,,,35.0,34.0,35.0,Auto,,SI,2.5L,4,,,"",AWD
+Sedan/Wagon,Mirai LE,2022,Toyota,Hydrogen Fuel Cell,,,76.0,71.0,74.0,,,,Auto,,FC,134 kW electric motor,,,,"",RWD
+Sedan/Wagon,Mirai Limited,2022,Toyota,Hydrogen Fuel Cell,,,67.0,64.0,65.0,,,,Auto,,FC,134 kW electric motor,,,,"",RWD
+Sedan/Wagon,Mirai XLE,2022,Toyota,Hydrogen Fuel Cell,,,76.0,71.0,74.0,,,,Auto,,FC,134 kW electric motor,,,,"",RWD
+Sedan/Wagon,Prius,2022,Toyota,Hybrid Electric,,,,,,54.0,50.0,52.0,Auto,,SI,1.8L,4,,,"",FWD
+Sedan/Wagon,Prius AWD,2022,Toyota,Hybrid Electric,,,,,,51.0,47.0,49.0,Auto,,SI,1.8L,4,,,"",AWD
+Sedan/Wagon,Prius Eco,2022,Toyota,Hybrid Electric,,,,,,58.0,53.0,56.0,Auto,,SI,1.8L,4,,,"",FWD
+Sedan/Wagon,Prius Prime,2022,Toyota,Plug-in Hybrid Electric,25,640,,,133.0,55.0,53.0,54.0,Auto,,SI,1.8L,4,,,"",FWD
+SUV,RAV4 Hybrid AWD,2022,Toyota,Hybrid Electric,,,,,,41.0,38.0,40.0,Auto,,SI,2.5L,4,,,"",AWD
+Sedan/Wagon,RAV4 Prime AWD,2022,Toyota,Plug-in Hybrid Electric,42,600,,,94.0,40.0,36.0,38.0,Auto,,SI,2.5L,4,,,"",AWD
+Van,Sienna AWD,2022,Toyota,Hybrid Electric,,,,,,35.0,36.0,35.0,Auto,,SI,2.5L,4,,,"",AWD
+Pickup,TUNDRA 2WD,2022,Toyota,Hybrid Electric,,,,,,20.0,24.0,22.0,Auto,,SI,3.4L,6,,,"",RWD
+Pickup,TUNDRA 4WD,2022,Toyota,Hybrid Electric,,,,,,19.0,22.0,20.0,Auto,,SI,3.4L,6,,,"",Part-Time 4WD
+Pickup,TUNDRA 4WD PRO,2022,Toyota,Hybrid Electric,,,,,,18.0,20.0,19.0,Auto,,SI,3.4L,6,,,"",Part-Time 4WD
+SUV,Venza AWD,2022,Toyota,Hybrid Electric,,,,,,40.0,37.0,39.0,Auto,,SI,2.5L,4,,,"",AWD
+SUV,ID.4 AWD Pro,2022,Volkswagen,Electric,251,,106.0,96.0,101.0,,,,Auto,,e-motor,80 and 150 kW electric motors,,,,"",AWD
+SUV,ID.4 AWD Pro S,2022,Volkswagen,Electric,245,,100.0,90.0,95.0,,,,Auto,,e-motor,80 and 150 kW electric motors,,,,"",AWD
+SUV,ID.4 Pro,2022,Volkswagen,Electric,275,,116.0,98.0,107.0,,,,Auto,,e-motor,150 kW electric motor,,,,"",RWD
+SUV,ID.4 Pro S,2022,Volkswagen,Electric,262,,110.0,93.0,102.0,,,,Auto,,e-motor,150 kW electric motor,,,,"",RWD
+SUV,C40 Recharge Twin,2022,Volvo,Electric,226,,94.0,80.0,87.0,,,,Auto,,e-motor,150 kW electric motors (X2),,,,"",AWD
+Sedan/Wagon,S60 T8 AWD Recharge,2022,Volvo,Plug-in Hybrid Electric,22,510,,,69.0,28.0,33.0,30.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,S60 T8 AWD Recharge ext. Range,2022,Volvo,Plug-in Hybrid Electric,40,530,,,74.0,30.0,33.0,31.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,S90 T8 AWD Recharge,2022,Volvo,Plug-in Hybrid Electric,21,490,,,63.0,28.0,31.0,30.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,S90 T8 AWD Recharge ext. Range,2022,Volvo,Plug-in Hybrid Electric,38,500,,,66.0,28.0,31.0,29.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,V60 T8 AWD Recharge,2022,Volvo,Plug-in Hybrid Electric,22,510,,,69.0,28.0,33.0,30.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,V60 T8 AWD Recharge ext. Range,2022,Volvo,Plug-in Hybrid Electric,40,530,,,74.0,30.0,33.0,31.0,Auto,,SI,2.0L,4,,,"",AWD
+SUV,XC40 Recharge Twin,2022,Volvo,Electric,223,,92.0,79.0,85.0,,,,Auto,,e-motor,150kW electric motor,,,,"",AWD
+SUV,XC60 T8 AWD Recharge,2022,Volvo,Plug-in Hybrid Electric,19,500,,,57.0,24.0,27.0,25.0,Auto,,SI,2.0L,4,,,"",AWD
+SUV,XC60 T8 AWD Recharge ext. Range,2022,Volvo,Plug-in Hybrid Electric,36,560,,,63.0,28.0,28.0,28.0,Auto,,SI,2.0L,4,,,"",AWD
+SUV,XC90 T8 AWD Recharge,2022,Volvo,Plug-in Hybrid Electric,18,520,,,55.0,26.0,28.0,27.0,Auto,,SI,2.0L,4,,,"",AWD
+SUV,XC90 T8 AWD Recharge ext. Range,2022,Volvo,Plug-in Hybrid Electric,36,530,,,66.0,25.0,27.0,26.0,Auto,,SI,2.0L,4,,,"",AWD
+Sedan/Wagon,NSX,2021,Acura,Hybrid Electric,,,,,,21.0,22.0,21.0,Auto,,SI,3.5L,6,,,"",
+Sedan/Wagon,A4 allroad quattro,2021,Audi,Hybrid Electric,,,,,,24.0,30.0,26.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,A4 quattro,2021,Audi,Hybrid Electric,,,,,,25.0,34.0,28.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,A4 S line quattro,2021,Audi,Hybrid Electric,,,,,,24.0,31.0,27.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,A5 Cabriolet quattro,2021,Audi,Hybrid Electric,,,,,,23.0,31.0,26.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,A5 quattro,2021,Audi,Hybrid Electric,,,,,,24.0,31.0,27.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,A5 Sportback quattro,2021,Audi,Hybrid Electric,,,,,,25.0,34.0,28.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,A5 Sportback S line quattro,2021,Audi,Hybrid Electric,,,,,,24.0,31.0,27.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,A6 Allroad,2021,Audi,Hybrid Electric,,,,,,20.0,26.0,22.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,A6 quattro,2021,Audi,Hybrid Electric,,,,,,22.0,29.0,24.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,A6 quattro,2021,Audi,Hybrid Electric,,,,,,23.0,31.0,26.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,A7 quattro,2021,Audi,Plug-in Hybrid Electric,24,,,,68.0,26.0,34.0,29.0,Auto,,SI,2.0L,4,,,"",""
+Sedan/Wagon,A7 quattro,2021,Audi,Hybrid Electric,,,,,,22.0,29.0,24.0,Auto,,SI,3.0L,6,,,"",""
+Sedan/Wagon,A8L,2021,Audi,Hybrid Electric,,,,,,15.0,23.0,18.0,Auto,,SI,4.0L,8,,,"",
+Sedan/Wagon,A8L,2021,Audi,Plug-in Hybrid Electric,18,,,,53.0,21.0,26.0,23.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,A8L,2021,Audi,Hybrid Electric,,,,,,17.0,26.0,21.0,Auto,,SI,3.0L,6,,,"",
+SUV,e-tron,2021,Audi,Electric,222,,78.0,77.0,78.0,,,,Auto,,e-motor,141 kW and 172 kW electric motor,,,,"",
+SUV,e-tron Sportback,2021,Audi,Electric,218,,76.0,78.0,77.0,,,,Auto,,e-motor,141 kW and 172 kW electric motor,,,,"",
+SUV,Q5,2021,Audi,Hybrid Electric,,,,,,23.0,28.0,25.0,Auto,,SI,2.0L,4,,,"",
+SUV,Q5,2021,Audi,Plug-in Hybrid Electric,19,,,,50.0,25.0,29.0,27.0,Auto,,SI,2.0L,4,,,"",
+SUV,Q5 Sportback,2021,Audi,Hybrid Electric,,,,,,23.0,28.0,25.0,Auto,,SI,2.0L,4,,,"",
+SUV,Q7,2021,Audi,Hybrid Electric,,,,,,18.0,23.0,20.0,Auto,,SI,3.0L,6,,,"",
+SUV,Q8,2021,Audi,Hybrid Electric,,,,,,18.0,231.0,20.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,RS 6 Avant,2021,Audi,Hybrid Electric,,,,,,15.0,22.0,17.0,Auto,,SI,4.0L,8,,,"",""
+Sedan/Wagon,RS7,2021,Audi,Hybrid Electric,,,,,,15.0,22.0,17.0,Auto,,SI,4.0L,8,,,"",""
+Sedan/Wagon,RS Q8,2021,Audi,Hybrid Electric,,,,,,13.0,19.0,15.0,Auto,,SI,4.0L,8,,,"",
+Sedan/Wagon,S6,2021,Audi,Hybrid Electric,,,,,,18.0,28.0,22.0,Auto,,SI,2.9L,6,,,"",
+Sedan/Wagon,S7,2021,Audi,Hybrid Electric,,,,,,18.0,28.0,22.0,Auto,,SI,2.9L,6,,,"",
+Sedan/Wagon,S8,2021,Audi,Hybrid Electric,,,,,,13.0,22.0,16.0,Auto,,SI,4.0L,8,,,"",
+SUV,Bentayga,2021,Bentley Motors,Plug-in Hybrid Electric,18,,,,46.0,17.0,21.0,19.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,330e,2021,BMW,Plug-in Hybrid Electric,23,,,,75.0,25.0,33.0,28.0,Auto,,SI,2.0L,4,,,"",""
+Sedan/Wagon,330e xDrive,2021,BMW,Plug-in Hybrid Electric,20,,,,67.0,22.0,30.0,25.0,Auto,,SI,2.0L,4,,,"",""
+Sedan/Wagon,530e,2021,BMW,Plug-in Hybrid Electric,21,,,,64.0,24.0,29.0,26.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,530e xDrive,2021,BMW,Plug-in Hybrid Electric,19,,,,62.0,22.0,28.0,25.0,Auto,,SI,2.0L,4,,,"",
+SUV,540i,2021,BMW,Hybrid Electric,,,,,,25.0,32.0,27.0,Auto,,SI,3.0L,6,,,"",
+SUV,540i xDrive,2021,BMW,Hybrid Electric,,,,,,23.0,31.0,26.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,745e xDrive,2021,BMW,Plug-in Hybrid Electric,17,,,,56.0,19.0,26.0,22.0,Auto,,SI,3.0L,6,,,"",""
+Sedan/Wagon,i3,2021,BMW,Electric,153,,124.0,102.0,113.0,,,,Auto,,e-motor,125 kW electric motor,,,,"",
+Sedan/Wagon,i3s,2021,BMW,Electric,153,,124.0,102.0,113.0,,,,Auto,,e-motor,135 kW electric motor,,,,"",
+Sedan/Wagon,i3s with Range Extender,2021,BMW,Plug-in Hybrid Electric,126,,,,100.0,30.0,31.0,31.0,Auto,,SI,135 kW,,,,"",""
+Sedan/Wagon,i3 with Range Extender,2021,BMW,Plug-in Hybrid Electric,126,,,,100.0,30.0,31.0,31.0,Auto,,SI,125 kW,,,,"",""
+SUV,M340i,2021,BMW,Hybrid Electric,,,,,,23.0,32.0,26.0,Auto,,SI,3.0L,6,,,"",""
+SUV,M340i xDrive,2021,BMW,Hybrid Electric,,,,,,22.0,31.0,25.0,Auto,,SI,3.0L,6,,,"",""
+Sedan/Wagon,M440i Convertible,2021,BMW,Hybrid Electric,,,,,,23.0,31.0,26.0,Auto,,SI,3.0L,6,,,"",""
+Sedan/Wagon,M440i xDrive Coupe,2021,BMW,Hybrid Electric,,,,,,22.0,31.0,25.0,Auto,,SI,3.0L,6,,,"",
+SUV,X3 xDrive30e,2021,BMW,Plug-in Hybrid Electric,18,,,,60.0,21.0,27.0,24.0,Auto,,SI,2.0L,4,,,"",
+SUV,X5 sDrive40i 2WD,2021,BMW,Hybrid Electric,,,,,,21.0,26.0,23.0,Auto,,SI,3.0L,6,,,"",
+SUV,X5 sDrive40i 4WD,2021,BMW,Hybrid Electric,,,,,,21.0,25.0,23.0,Auto,,SI,3.0L,6,,,"",
+SUV,X5 xDrive45e,2021,BMW,Plug-in Hybrid Electric,31,,,,50.0,19.0,22.0,20.0,Auto,,SI,3.0L,6,,,"",""
+SUV,X6 sDrive40i 2WD,2021,BMW,Hybrid Electric,,,,,,21.0,26.0,23.0,Auto,,SI,3.0L,6,,,"",
+SUV,X6 sDrive40i 4WD,2021,BMW,Hybrid Electric,,,,,,21.0,25.0,23.0,Auto,,SI,3.0L,6,,,"",
+SUV,X7 sDrive40i 4WD,2021,BMW,Hybrid Electric,,,,,,19.0,24.0,21.0,Auto,,SI,3.0L,6,,,"",""
+SUV,Escalade 2WD,2021,Cadillac,Biodiesel (B20),,,,,,21.0,27.0,23.0,Auto,,CI,3.0L,6,,,"",
+SUV,Escalade 4WD,2021,Cadillac,Biodiesel (B20),,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",
+Sedan/Wagon,Bolt EV,2021,Chevrolet,Electric,259,,127.0,108.0,118.0,,,,"",,e-motor,150 kW electric motor,,,,"",
+Pickup,Colorado 2WD,2021,Chevrolet,Biodiesel (B20),,,,,,20.0,30.0,23.0,Auto,,CI,2.8L,4,,,"",
+Pickup,Colorado 4WD,2021,Chevrolet,Biodiesel (B20),,,,,,19.0,28.0,22.0,Auto,,CI,2.8L,4,,,"",
+Pickup,Colorado ZR2 4WD,2021,Chevrolet,Biodiesel (B20),,,,,,18.0,22.0,19.0,Auto,,CI,2.8L,4,,,"",
+Pickup,Silverado 2WD,2021,Chevrolet,Biodiesel (B20),,,,,,23.0,33.0,27.0,Auto,,CI,3.0L,6,,,"",
+Pickup,Silverado 2WD,2021,Chevrolet,Ethanol (E85),,,11.0,15.0,12.0,15.0,19.0,16.0,Auto,,SI,5.3L,8,,,"",
+Pickup,Silverado 4WD,2021,Chevrolet,Biodiesel (B20),,,,,,22.0,26.0,24.0,Auto,,CI,3.0L,6,,,"",
+Pickup,Silverado 4WD,2021,Chevrolet,Ethanol (E85),,,11.0,13.0,12.0,14.0,18.0,16.0,Auto,,SI,5.3L,8,,,"",
+SUV,Suburban 2WD,2021,Chevrolet,Biodiesel (B20),,,,,,21.0,27.0,23.0,Auto,,CI,3.0L,6,,,"",
+SUV,Suburban 4WD,2021,Chevrolet,Biodiesel (B20),,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",
+SUV,Tahoe 2WD,2021,Chevrolet,Biodiesel (B20),,,,,,21.0,28.0,24.0,Auto,,CI,3.0L,6,,,"",
+SUV,Tahoe 4WD,2021,Chevrolet,Biodiesel (B20),,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",
+Van,Pacifica Hybrid,2021,Chrysler,Plug-in Hybrid Electric,32,,,,82.0,29.0,30.0,30.0,Auto,,SI,3.6L,6,,,"",
+Sedan/Wagon,SF90 Stradale Coupe,2021,Ferrari,Plug-in Hybrid Electric,8,,,,51.0,16.0,20.0,18.0,Auto,,SI,3.9L,8,,,"",
+Sedan/Wagon,Escape AWD HEV,2021,Ford,Hybrid Electric,,,,,,43.0,37.0,40.0,Auto,,SI,2.5L I4,4,,,"",
+Sedan/Wagon,Escape FWD HEV,2021,Ford,Hybrid Electric,,,,,,44.0,37.0,41.0,Auto,,SI,2.5L I4,4,,,"",
+SUV,Escape FWD PHEV,2021,Ford,Plug-in Hybrid Electric,37,,,,105.0,43.0,38.0,40.0,Auto,,SI,2.5L,4,,,"",""
+SUV,Explorer AWD FFV,2021,Ford,Ethanol (E85),,,11.0,15.0,13.0,16.0,23.0,19.0,Auto,,SI,3.3L,6,,,"",""
+SUV,Explorer HEV AWD,2021,Ford,Hybrid Electric,,,,,,23.0,26.0,25.0,Auto,,SI,3.3L V6,6,,,"",
+SUV,Explorer HEV RWD,2021,Ford,Hybrid Electric,,,,,,27.0,28.0,27.0,Auto,,SI,3.3L V6,6,,,"",
+Pickup,F-150 2WD,2021,Ford,Biodiesel (B20),,,,,,,,,Auto,,CI,3.0L,6,,,"",
+Pickup,F-150 2WD FFV,2021,Ford,Ethanol (E85),,,14.0,19.0,16.0,20.0,24.0,21.0,Auto,,SI,3.3L,6,,,"",
+Pickup,F-150 2WD FFV,2021,Ford,Ethanol (E85),,,12.0,18.0,14.0,17.0,24.0,20.0,Auto,,SI,5.0L,8,,,"",
+Pickup,F-150 4WD,2021,Ford,Biodiesel (B20),,,,,,20.0,27.0,23.0,Auto,,CI,3.0L,6,,,"",
+Pickup,F-150 4WD FFV,2021,Ford,Ethanol (E85),,,14.0,18.0,15.0,19.0,22.0,20.0,Auto,,SI,3.3L,6,,,"",
+Pickup,F-150 4WD FFV,2021,Ford,Ethanol (E85),,,11.0,17.0,13.0,16.0,22.0,19.0,Auto,,SI,5.0L,8,,,"",
+Pickup,F150 Pickup 2WD HEV,2021,Ford,Hybrid Electric,,,,,,25.0,26.0,25.0,Auto,,SI,3.5L V6,6,,,"",
+Pickup,F150 Pickup 4WD HEV,2021,Ford,Hybrid Electric,,,,,,24.0,24.0,24.0,Auto,,SI,3.5L V6,6,,,"",
+Sedan/Wagon,Mustang Mach-E AWD,2021,Ford,Electric,211,,100.0,86.0,93.0,,,,Auto,,e-motor,198 kW electric motor,,,,"",Part-Time 4WD
+Sedan/Wagon,Mustang Mach-E AWD Extended,2021,Ford,Electric,270,,96.0,84.0,90.0,,,,Auto,,e-motor,209 kW electric motor,,,,"",
+Sedan/Wagon,Mustang Mach-E GT AWD,2021,Ford,Electric,270,,90.0,77.0,84.0,,,,Auto,,e-motor,179  kW electric motors (X2),,,,"",AWD
+Sedan/Wagon,Mustang Mach-E GT AWD,2021,Ford,Electric,260,,88.0,75.0,82.0,,,,Auto,,e-motor,179  kW electric motors (X2),,,,"",AWD
+Sedan/Wagon,Mustang Mach-E RWD,2021,Ford,Electric,230,,105.0,93.0,100.0,,,,Auto,,e-motor,198 kW electric motor,,,,"",
+Sedan/Wagon,Mustang Mach-E RWD California Route 1,2021,Ford,Electric,305,,108.0,94.0,101.0,,,,Auto,,e-motor,216 kW electric motor,,,,"",
+Sedan/Wagon,Mustang Mach-E RWD Extended,2021,Ford,Electric,300,,104.0,90.0,97.0,,,,Auto,,e-motor,216 kW electric motor,,,,"",
+Pickup,Super Duty F-250,2021,Ford,Ethanol (E85),,,,,,,,,Auto,,SI,7.3L,8,,,"",
+Pickup,Super Duty F-250 2WD/4WD,2021,Ford,CNG - Bi-fuel,,,,,,,,,Auto,,SI,7.3L,8,,,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on CNG for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Pickup,Super Duty F-250 2WD/4WD,2021,Ford,Biodiesel (B20),,,,,,,,,Auto,,CI,6.7L,8,,,"",
+Pickup,Super Duty F-250 2WD/4WD,2021,Ford,CNG - Compressed Natural Gas,,,,,,,,,Auto,,SI,7.3L,8,,,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on CNG for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Pickup,Super Duty F-250 2WD/4WD,2021,Ford,Propane - Bi-fuel,,,,,,,,,Auto,,SI,7.3L,8,,,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on propane for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Pickup,Super Duty F-250 2WD/4WD,2021,Ford,Propane,,,,,,,,,Auto,,SI,7.3L,8,,,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on propane for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Van,Transit Connect Van FFV,2021,Ford,Ethanol (E85),,,18.0,20.0,19.0,24.0,27.0,25.0,Auto,,SI,2.0L,4,,,This vehicle is only available in certain states. See dealer for details.,""
+Van,Transit Connect Van/Wagon,2021,Ford,Propane - Bi-fuel,,,,,,,,,Auto,,SI,2.5L,4,,,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on propane for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Van,Transit Connect Van/Wagon,2021,Ford,CNG - Compressed Natural Gas,,,,,,,,,Auto,,SI,2.5L,4,,,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on CNG for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Van,Transit Connect Van/Wagon,2021,Ford,CNG - Bi-fuel,,,,,,,,,Auto,,SI,2.5L,4,,,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on CNG for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Van,Transit Connect Van/Wagon,2021,Ford,Propane,,,,,,,,,Auto,,SI,2.5L,4,,,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on propane for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Passenger Van/Shuttle Bus,Transit Connect Wagon LWB FFV,2021,Ford,Ethanol (E85),,,17.0,21.0,19.0,24.0,29.0,26.0,Auto,,SI,2.0L,4,,,This vehicle is only available in certain states. See dealer for details.,""
+Passenger Van/Shuttle Bus,Transit T150 Passenger Van 2WD FFV,2021,Ford,Ethanol (E85),,,11.0,14.0,12.0,14.0,18.0,16.0,Auto,,SI,3.5L,,,,"",
+Passenger Van/Shuttle Bus,Transit T150 Passenger Van 4WD FFV,2021,Ford,Ethanol (E85),,,11.0,14.0,12.0,15.0,19.0,16.0,Auto,,SI,3.5L,,,,"",
+Pickup,Canyon 2WD,2021,GMC,Biodiesel (B20),,,,,,20.0,30.0,23.0,Auto,,CI,2.8L,4,,,"",
+Pickup,Canyon 4WD,2021,GMC,Biodiesel (B20),,,,,,19.0,28.0,22.0,Auto,,CI,2.8L,4,,,"",
+Pickup,Sierra 2WD,2021,GMC,Biodiesel (B20),,,,,,23.0,30.0,26.0,Auto,,CI,3.0L,6,,,"",
+Pickup,Sierra 2WD,2021,GMC,Ethanol (E85),,,11.0,15.0,12.0,15.0,19.0,16.0,Auto,,SI,5.3L,8,,,"",
+Pickup,Sierra 4WD,2021,GMC,Biodiesel (B20),,,,,,22.0,26.0,24.0,Auto,,CI,3.0L,6,,,"",
+Pickup,Sierra 4WD,2021,GMC,Ethanol (E85),,,11.0,13.0,12.0,14.0,18.0,16.0,Auto,,SI,5.3L,8,,,"",
+Pickup,Sierra 4WD AT4,2021,GMC,Biodiesel (B20),,,,,,22.0,26.0,24.0,Auto,,CI,3.0L,6,,,"",
+SUV,Yukon 2WD,2021,GMC,Biodiesel (B20),,,,,,21.0,27.0,23.0,Auto,,CI,3.0L,6,,,"",""
+SUV,Yukon 4WD,2021,GMC,Biodiesel (B20),,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",
+SUV,Yukon XL 2WD,2021,GMC,Biodiesel (B20),,,,,,21.0,27.0,23.0,Auto,,CI,3.0L,6,,,"",
+SUV,Yukon XL 4WD,2021,GMC,Biodiesel (B20),,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",
+Sedan/Wagon,Accord,2021,Honda,Hybrid Electric,,,,,,48.0,48.0,48.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,Accord Sport/Touring,2021,Honda,Hybrid Electric,,,,,,44.0,41.0,43.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,Clarity,2021,Honda,Hydrogen Fuel Cell,,,68.0,67.0,68.0,,,,Auto,,SI,130 kW electric motor,,,,"",
+Sedan/Wagon,Clarity PHEV,2021,Honda,Plug-in Hybrid Electric,48,,,,110.0,44.0,40.0,42.0,Auto,,SI,1.5L,4,,,"",
+SUV,CR-V AWD,2021,Honda,Hybrid Electric,,,,,,40.0,35.0,38.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,Insight,2021,Honda,Hybrid Electric,,,,,,55.0,49.0,52.0,Auto,,SI,1.5L,4,,,"",
+Sedan/Wagon,Insight Touring,2021,Honda,Hybrid Electric,,,,,,51.0,45.0,48.0,Auto,,SI,1.5L,4,,,"",
+Sedan/Wagon,Elantra Hybrid,2021,Hyundai,Hybrid Electric,,,,,,49.0,52.0,50.0,Auto,,SI,1.6L,4,,,"",
+Sedan/Wagon,Elantra Hybrid Blue,2021,Hyundai,Hybrid Electric,,,,,,53.0,56.0,54.0,Auto,,SI,1.6L,4,,,"",
+Sedan/Wagon,Ioniq,2021,Hyundai,Hybrid Electric,,,,,,54.0,56.0,55.0,Auto,,SI,1.6L,4,,,"",
+Sedan/Wagon,Ioniq Blue,2021,Hyundai,Hybrid Electric,,,,,,59.0,60.0,59.0,Auto,,SI,1.6L,4,,,"",
+Sedan/Wagon,Ioniq Electric,2021,Hyundai,Electric,170,,145.0,121.0,133.0,,,,Auto,,e-motor,100 kW electric motor,,,,"",""
+Sedan/Wagon,Ioniq Plug-in Hybrid,2021,Hyundai,Plug-in Hybrid Electric,29,,,,119.0,52.0,51.0,52.0,Auto,,SI,1.6L,4,,,"",
+SUV,Kona Electric,2021,Hyundai,Electric,258,,132.0,108.0,120.0,,,,Auto,,e-motor,150 kW electric motor,,,,"",""
+SUV,Nexo,2021,Hyundai,Hydrogen Fuel Cell,,,59.0,54.0,57.0,,,,Auto,,FC,120 kW electric motor,,,,"",""
+SUV,Nexo Blue,2021,Hyundai,Hydrogen Fuel Cell,,,65.0,58.0,61.0,,,,Auto,,FC,120 kW electric motor,,,,"",""
+Sedan/Wagon,Santa Fe Hybrid,2021,Hyundai,Hybrid Electric,,,,,,33.0,30.0,32.0,Auto,,SI,1.6L,4,,,"",
+Sedan/Wagon,Santa Fe Hybrid Blue,2021,Hyundai,Hybrid Electric,,,,,,36.0,31.0,34.0,Auto,,SI,1.6L,4,,,"",
+Sedan/Wagon,Sonata Hybrid,2021,Hyundai,Hybrid Electric,,,,,,45.0,51.0,47.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,Sonata Hybrid Blue,2021,Hyundai,Hybrid Electric,,,,,,50.0,54.0,52.0,Auto,,SI,2.0L,4,,,"",
+SUV,E-PACE MHEV,2021,Jaguar,Hybrid Electric,,,,,,21.0,26.0,23.0,Auto,,SI,2.0L,4,,,"",""
+SUV,F-PACE P340 MHEV,2021,Jaguar,Hybrid Electric,,,,,,20.0,27.0,22.0,Auto,,SI,3.0L,6,,,"",""
+SUV,F-PACE P400 MHEV,2021,Jaguar,Hybrid Electric,,,,,,20.0,26.0,22.0,Auto,,SI,3.0L,6,,,"",""
+SUV,I-PACE EV400,2021,Jaguar,Electric,234,,80.0,72.0,76.0,,,,Auto,,e-motor,"",,,,"",4WD
+SUV,Wrangler 2dr 4x4,2021,Jeep,Hybrid Electric,,,,,,20.0,24.0,21.0,Auto,,SI,3.6L,6,,,"",
+SUV,Wrangler 4dr 4x4,2021,Jeep,Hybrid Electric,,,,,,19.0,24.0,21.0,Auto,,SI,3.6L,6,,,"",
+SUV,Wrangler 4dr 4xe,2021,Jeep,Plug-in Hybrid Electric,22,,,,49.0,20.0,20.0,20.0,Auto,,SI,2.0L,4,,,"",4WD
+Sedan/Wagon,K27,2021,Kandi,Electric,59,,127.0,102.0,114.0,,,,Auto,,e-motor,20 kW electric motor,,,,"",
+Sedan/Wagon,"GS-6 (21"" wheels)",2021,Karma,Plug-in Hybrid Electric,61,,,,70.0,27.0,25.0,26.0,Auto,,SI,1.5L,3,,,"This model is also available with 22"" wheels, at reduced fuel economy and all-electric range.",""
+Sedan/Wagon,"Revero GT (21"" wheels)",2021,Karma,Plug-in Hybrid Electric,61,,,,70.0,27.0,25.0,26.0,Auto,,SI,1.5L,3,,,"This model is also available with 22"" wheels, at reduced fuel economy and all-electric range.",
+Sedan/Wagon,Niro,2021,Kia,Hybrid Electric,,,,,,51.0,46.0,49.0,Auto,,SI,1.6L,4,,,"",
+Sedan/Wagon,Niro Electric,2021,Kia,Electric,239,,123.0,102.0,112.0,,,,Auto,,e-motor,150 kW electric motor,,,,"",
+Sedan/Wagon,Niro FE,2021,Kia,Hybrid Electric,,,,,,53.0,48.0,50.0,Auto,,SI,1.6L,4,,,"",
+Sedan/Wagon,Niro Plug-in Hybrid,2021,Kia,Plug-in Hybrid Electric,26,,,,105.0,48.0,44.0,46.0,Auto,,SI,1.6L,4,,,"",
+Sedan/Wagon,Niro Touring,2021,Kia,Hybrid Electric,,,,,,46.0,40.0,43.0,Auto,,SI,1.6L,4,,,"",
+SUV,Sorento Hybrid,2021,Kia,Hybrid Electric,,,,,,39.0,35.0,37.0,Auto,,SI,1.6L,4,,,"",""
+SUV,Defender 110 MHEV,2021,Land Rover,Hybrid Electric,,,,,,17.0,22.0,19.0,Auto,,CI,3.0L,6,,,"",
+SUV,Defender 90 MHEV,2021,Land Rover,Hybrid Electric,,,,,,17.0,22.0,19.0,Auto,,CI,3.0L,6,,,"",
+SUV,Discovery MHEV,2021,Land Rover,Hybrid Electric,,,,,,18.0,24.0,21.0,Auto,,CI,3.0L,6,,,"",""
+SUV,Range Rover ,2021,Land Rover,Biodiesel (B20),,,,,,22.0,28.0,24.0,Auto,,CI,3.0L,6,,,"",
+SUV,Range Rover MHEV,2021,Land Rover,Hybrid Electric,,,,,,18.0,23.0,20.0,Auto,,CI,3.0L,6,,,"",
+SUV,Range Rover PHEV,2021,Land Rover,Plug-in Hybrid Electric,19,,,,42.0,18.0,21.0,19.0,Auto,,CI,2.0L,4,,,"",
+SUV,Range Rover Sport,2021,Land Rover,Biodiesel (B20),,,,,,22.0,28.0,24.0,Auto,,CI,3.0L,6,,,"",
+SUV,Range Rover Sport MHEV,2021,Land Rover,Hybrid Electric,,,,,,19.0,24.0,21.0,Auto,,CI,3.0L,6,,,"",
+SUV,Range Rover Sport PHEV,2021,Land Rover,Plug-in Hybrid Electric,19,,,,42.0,18.0,21.0,20.0,Auto,,CI,2.0L,4,,,"",
+SUV,Range Rover Velar P340 MHEV,2021,Land Rover,Hybrid Electric,,,,,,20.0,26.0,22.0,Auto,,CI,3.0L,6,,,"",
+SUV,Range Rover Velar P400 MHEV,2021,Land Rover,Hybrid Electric,,,,,,19.0,25.0,21.0,Auto,,CI,3.0L,6,,,"",
+Sedan/Wagon,ES 300h,2021,Lexus,Hybrid Electric,,,,,,43.0,44.0,44.0,Auto,,SI,2.5L,4,,,"",
+Sedan/Wagon,LC 500h,2021,Lexus,Hybrid Electric,,,,,,26.0,34.0,29.0,Auto,,SI,3.5L,6,,,"",""
+Sedan/Wagon,LS 500h,2021,Lexus,Hybrid Electric,,,,,,25.0,33.0,28.0,Auto,,SI,3.5L,6,,,"",""
+Sedan/Wagon,LS 500h AWD,2021,Lexus,Hybrid Electric,,,,,,23.0,29.0,26.0,Auto,,SI,3.5L,6,,,"",""
+SUV,NX 300h AWD,2021,Lexus,Hybrid Electric,,,,,,33.0,30.0,31.0,Auto,,SI,2.5L,4,,,"",
+SUV,RX 450h AWD,2021,Lexus,Hybrid Electric,,,,,,31.0,28.0,30.0,Auto,,SI,3.5L,6,,,"",
+SUV,RX 450h L AWD,2021,Lexus,Hybrid Electric,,,,,,29.0,28.0,29.0,Auto,,SI,3.5L,6,,,"",""
+Sedan/Wagon,UX 250h,2021,Lexus,Hybrid Electric,,,,,,43.0,41.0,42.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,UX 250h AWD,2021,Lexus,Hybrid Electric,,,,,,41.0,38.0,39.0,Auto,,SI,2.0L,4,,,"",
+SUV,Aviator AWD PHEV,2021,Lincoln,Plug-in Hybrid Electric,21,,,,56.0,22.0,25.0,23.0,Auto,,CI,3.0L,6,,,"",
+SUV,Corsair AWD PHEV,2021,Lincoln,Plug-in Hybrid Electric,28,,,,78.0,34.0,32.0,33.0,Auto,,CI,2.5L,4,,,"",
+Sedan/Wagon,AMG CLS 53 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,,,,,,21.0,26.0,23.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,AMG E53 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,,,,,,22.0,29.0,25.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,AMG E53 4MATIC+ (Convertible),2021,Mercedes-Benz,Hybrid Electric,,,,,,21.0,27.0,23.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,AMG E53 4MATIC+ (Coupe),2021,Mercedes-Benz,Hybrid Electric,,,,,,21.0,28.0,24.0,Auto,,SI,3.0L,6,,,"",
+SUV,AMG GLE 53 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,,,,,,18.0,22.0,19.0,Auto,,SI,3.0L,6,,,"",
+SUV,AMG GLE 53 4MATIC+ Coupe,2021,Mercedes-Benz,Hybrid Electric,,,,,,18.0,23.0,20.0,Auto,,SI,3.0L,6,,,"",
+SUV,AMG GLE 63 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,,,,,,15.0,19.0,16.0,Auto,,SI,4.0L,8,,,"",""
+SUV,AMG GLE 63 S 4MATIC+ Coupe,2021,Mercedes-Benz,Hybrid Electric,,,,,,15.0,19.0,17.0,Auto,,SI,4.0L,8,,,"",""
+SUV,AMG GLS 63 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,,,,,,14.0,18.0,16.0,Auto,,SI,4.0L,8,,,"",
+Sedan/Wagon,AMG GT 43 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,,,,,,20.0,25.0,22.0,Auto,,SI,3.0L,6,,,"",""
+Sedan/Wagon,AMG GT 53 4MATIC+,2021,Mercedes-Benz,Hybrid Electric,,,,,,20.0,25.0,22.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,CLS 450,2021,Mercedes-Benz,Hybrid Electric,,,,,,23.0,30.0,26.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,CLS 450 4MATIC,2021,Mercedes-Benz,Hybrid Electric,,,,,,22.0,29.0,25.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,E 450 4MATIC,2021,Mercedes-Benz,Hybrid Electric,,,,,,23.0,30.0,26.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,E 450 4MATIC,2021,Mercedes-Benz,Hybrid Electric,,,,,,23.0,30.0,26.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,E 450 4MATIC All-Terrain (wagon),2021,Mercedes-Benz,Hybrid Electric,,,,,,22.0,28.0,24.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,E 450 4MATIC (Convertible),2021,Mercedes-Benz,Hybrid Electric,,,,,,23.0,29.0,25.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,E 450 4MATIC (Coupe),2021,Mercedes-Benz,Hybrid Electric,,,,,,23.0,30.0,25.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,E 450 (Convertible),2021,Mercedes-Benz,Hybrid Electric,,,,,,23.0,30.0,25.0,Auto,,SI,3.0L,6,,,"",
+Sedan/Wagon,E 450 (Coupe),2021,Mercedes-Benz,Hybrid Electric,,,,,,23.0,31.0,26.0,Auto,,SI,3.0L,6,,,"",
+SUV,GLE 450 4MATIC,2021,Mercedes-Benz,Hybrid Electric,,,,,,21.0,26.0,23.0,Auto,,SI,3.0L,6,,,"",
+SUV,GLE 580 4MATIC,2021,Mercedes-Benz,Hybrid Electric,,,,,,17.0,22.0,19.0,Auto,,SI,4.0L,8,,,"",
+SUV,GLS 450 4MATIC,2021,Mercedes-Benz,Hybrid Electric,,,,,,20.0,24.0,21.0,Auto,,SI,3.0L,6,,,"",
+SUV,GLS 580 4MATIC,2021,Mercedes-Benz,Hybrid Electric,,,,,,16.0,21.0,18.0,Auto,,SI,4.0L,8,,,"",
+SUV,GLS 600 4MATIC Maybach,2021,Mercedes-Benz,Hybrid Electric,,,,,,15.0,19.0,16.0,Auto,,SI,4.0L,8,,,"",""
+Sedan/Wagon,S 500 4MATIC,2021,Mercedes-Benz,Hybrid Electric,,,,,,20.0,29.0,24.0,Auto,,SI,3.0L,6,,,"",""
+Sedan/Wagon,S 580 4MATIC,2021,Mercedes-Benz,Hybrid Electric,,,,,,17.0,25.0,20.0,Auto,,SI,4.0L,8,,,"",""
+Sedan/Wagon,S 580 4MATIC Maybach,2021,Mercedes-Benz,Hybrid Electric,,,,,,16.0,24.0,19.0,Auto,,SI,4.0L,8,,,"",""
+Sedan/Wagon,Cooper SE Countryman ALL4,2021,Mini,Plug-in Hybrid Electric,18,,,,73.0,29.0,30.0,29.0,Auto,,SI,1.5L,3,,,"",
+Sedan/Wagon,Cooper SE Hardtop 2 door,2021,Mini,Electric,110,,115.0,100.0,108.0,,,,Auto,,e-motor,135 kW electric motor,,,,"",
+SUV,Outlander PHEV,2021,Mitsubishi,Plug-in Hybrid Electric,24,,,,74.0,26.0,26.0,26.0,Auto,,SI,2.4L,4,,,"",
+Sedan/Wagon,Leaf (40 kWh battery pack),2021,Nissan,Electric,149,,123.0,99.0,111.0,,,,Auto,,e-motor,110 kW electric motor,,,,"",
+Sedan/Wagon,Leaf (62 kWh battery pack),2021,Nissan,Electric,226,,118.0,97.0,108.0,,,,Auto,,e-motor,160 kW electric motor,,,,"",FWD
+Sedan/Wagon,Leaf SV/SL (62 kWh battery pack),2021,Nissan,Electric,215,,114.0,94.0,104.0,,,,Auto,,e-motor,160 kW electric motor,,,,"",
+Sedan/Wagon,Polestar 2,2021,Polestar Automotive USA,Electric,233,,96.0,88.0,92.0,,,,Auto,,"","",,,,"",""
+Sedan/Wagon,Polestar I,2021,Polestar Automotive USA,Plug-in Hybrid Electric,52,,,,58.0,22.0,31.0,26.0,Auto,,SI,2.0L,4,,,"",
+SUV,Cayenne e-Hybrid,2021,Porsche,Plug-in Hybrid Electric,17,,,,46.0,20.0,22.0,21.0,Auto,,SI,3.0L ,6,,,"",""
+SUV,Cayenne e-Hybrid Coupe,2021,Porsche,Plug-in Hybrid Electric,17,,,,46.0,20.0,22.0,21.0,Auto,,SI,3.0L ,6,,,"",""
+SUV,Cayenne Turbo S e-Hybrid,2021,Porsche,Plug-in Hybrid Electric,15,,,,42.0,17.0,20.0,18.0,Auto,,SI,4.0L,8,,,"",""
+SUV,Cayenne Turbo S e-Hybrid Coupe,2021,Porsche,Plug-in Hybrid Electric,15,,,,42.0,17.0,20.0,18.0,Auto,,SI,4.0L,8,,,"",""
+Sedan/Wagon,Panamera 4 E-Hybrid,2021,Porsche,Plug-in Hybrid Electric,19,,,,52.0,21.0,24.0,22.0,Auto,,SI,2.9L,6,,,"",""
+Sedan/Wagon,Panamera 4 E-Hybrid Executive,2021,Porsche,Plug-in Hybrid Electric,19,,,,52.0,21.0,24.0,22.0,Auto,,SI,2.9L,6,,,"",""
+Sedan/Wagon,Panamera 4 E-Hybrid ST,2021,Porsche,Plug-in Hybrid Electric,19,,,,52.0,21.0,24.0,22.0,Auto,,SI,2.9L,6,,,"",""
+Sedan/Wagon,Panamera 4S E-Hybrid,2021,Porsche,Plug-in Hybrid Electric,19,,,,50.0,21.0,23.0,22.0,Auto,,SI,2.9L,6,,,"",""
+Sedan/Wagon,Panamera 4S E-Hybrid Executive,2021,Porsche,Plug-in Hybrid Electric,19,,,,50.0,21.0,23.0,22.0,Auto,,SI,2.9L,6,,,"",""
+Sedan/Wagon,Panamera 4S E-Hybrid ST,2021,Porsche,Plug-in Hybrid Electric,19,,,,50.0,21.0,23.0,22.0,Auto,,SI,2.9L,6,,,"",""
+Sedan/Wagon,Panamera Turbo S E-Hybrid,2021,Porsche,Plug-in Hybrid Electric,17,,,,48.0,18.0,22.0,19.0,Auto,,SI,4.0L,8,,,"",""
+Sedan/Wagon,Panamera Turbo S E-Hybrid Executive,2021,Porsche,Plug-in Hybrid Electric,17,,,,48.0,18.0,22.0,19.0,Auto,,SI,4.0L,8,,,"",""
+Sedan/Wagon,Panamera Turbo S E-Hybrid ST,2021,Porsche,Plug-in Hybrid Electric,17,,,,48.0,18.0,22.0,19.0,Auto,,SI,4.0L,8,,,"",""
+Sedan/Wagon,Taycan 4S Perf Battery,2021,Porsche,Electric,199,,79.0,80.0,79.0,,,,Auto,,e-motor,194 and 280 kW electric motors,,,,"",
+Sedan/Wagon,Taycan 4S Perf Battery Plus,2021,Porsche,Electric,227,,75.0,81.0,77.0,,,,Auto,,e-motor,210 and 250 kW electric motors,,,,"",
+Sedan/Wagon,Taycan Perf Battery,2021,Porsche,Electric,200,,76.0,84.0,79.0,,,,Auto,,e-motor,240 kW electric motor,,,,"",
+Sedan/Wagon,Taycan Perf Battery Plus,2021,Porsche,Electric,225,,71.0,80.0,75.0,,,,Auto,,e-motor,280 kW electric motor,,,,"",
+Sedan/Wagon,Taycan Turbo,2021,Porsche,Electric,212,,71.0,75.0,73.0,,,,Auto,,e-motor,"",,,,"",""
+Sedan/Wagon,Taycan Turbo S,2021,Porsche,Electric,201,,69.0,71.0,70.0,,,,Auto,,e-motor,"",,,,"",""
+Pickup,1500 2WD,2021,Ram,Hybrid Electric,,,,,,20.0,25.0,22.0,Auto,,SI,3.6L,6,,,"",
+Pickup,1500 2WD,2021,Ram,Hybrid Electric,,,,,,17.0,23.0,19.0,Auto,,SI,5.7L,8,,,"",
+Pickup,1500 4WD,2021,Ram,Hybrid Electric,,,,,,19.0,24.0,21.0,Auto,,SI,3.6L,6,,,"",
+Pickup,1500 4WD,2021,Ram,Hybrid Electric,,,,,,17.0,22.0,19.0,Auto,,SI,5.7L,8,,,"",
+Pickup,1500 HFE 4X2,2021,Ram,Hybrid Electric,,,,,,20.0,26.0,23.0,Auto,,SI,3.6L,6,,,"",
+SUV,Crosstrek Hybrid AWD,2021,Subaru,Plug-in Hybrid Electric,17,,,,90.0,36.0,35.0,35.0,Auto,,"",2.0L,4,,,"",
+Sedan/Wagon,Model 3 Long Range AWD,2021,Tesla,Electric,353,,141.0,127.0,134.0,,,,Auto,,e-motor,131 and 190 kW electric motors,,,,"",
+Sedan/Wagon,Model 3 Performance AWD,2021,Tesla,Electric,315,,118.0,107.0,113.0,,,,Auto,,e-motor,131 and 190 kW electric motors,,,,"",
+Sedan/Wagon,Model 3 Standard Range Plus RWD,2021,Tesla,Electric,263,,150.0,133.0,142.0,,,,Auto,,e-motor,198 kW electric motor,,,,"",RWD
+Sedan/Wagon,Model S Long Range,2021,Tesla,Electric,405,,124.0,115.0,120.0,,,,Auto,,e-motor,179 kW and 186 kW electric motor,,,,"",""
+Sedan/Wagon,"Model S Performance (19"" Wheels)",2021,Tesla,Electric,387,,114.0,106.0,110.0,,,,Auto,,e-motor,149 kW and 276 kW electric motor,,,,"This model is also available with 21"" wheels, at reduced fuel economy and 334 miles range.",""
+Sedan/Wagon,"Model S Plaid (21"" Wheels)",2021,Tesla,Electric,348,,102.0,99.0,101.0,,,,Auto,,e-motor,250 kW electric motors (X3),,,,"",AWD
+SUV,Model X Long Range Plus,2021,Tesla,Electric,371,,109.0,101.0,105.0,,,,Auto,,e-motor,180 and 189 kW electric motor,,,,"",
+SUV,"Model X Performance (20"" Wheels)",2021,Tesla,Electric,341,,100.0,95.0,97.0,,,,Auto,,e-motor,151 and 273 kW electric motors,,,,"This model is also available with 22"" wheels, at reduced fuel economy and 300 miles range.",
+SUV,Model Y Long Range AWD,2021,Tesla,Electric,326,,131.0,117.0,125.0,,,,Auto,,e-motor,69 and 201 kW electric motors,,,,"",
+SUV,Model Y Performance AWD,2021,Tesla,Electric,303,,115.0,106.0,111.0,,,,Auto,,e-motor,133 and 179 kW electric motors,,,,"",
+SUV,Model Y Standard Range RWD,2021,Tesla,Electric,244,,140.0,119.0,129.0,,,,Auto,,e-motor,209 kW electric motor,,,,"",""
+Sedan/Wagon,Avalon Hybrid,2021,Toyota,Hybrid Electric,,,,,,43.0,43.0,43.0,Auto,,SI,2.5L,4,,,"",
+Sedan/Wagon,Avalon Hybrid XLE,2021,Toyota,Hybrid Electric,,,,,,43.0,44.0,44.0,Auto,,SI,2.5L,4,,,"",
+Sedan/Wagon,Camry Hybrid LE,2021,Toyota,Hybrid Electric,,,,,,51.0,53.0,52.0,Auto,,SI,2.5L,4,,,"",
+Sedan/Wagon,Camry Hybrid SE/XLE/XSE,2021,Toyota,Hybrid Electric,,,,,,44.0,47.0,46.0,Auto,,SI,2.5L,4,,,"",
+Sedan/Wagon,Corolla Hybrid,2021,Toyota,Hybrid Electric,,,,,,53.0,52.0,52.0,Auto,,SI,1.8L,4,,,"",
+SUV,Highlander Hybrid,2021,Toyota,Hybrid Electric,,,,,,36.0,35.0,36.0,Auto,,SI,2.5L,4,,,"",
+SUV,Highlander Hybrid AWD,2021,Toyota,Hybrid Electric,,,,,,35.0,35.0,35.0,Auto,,SI,2.5L,4,,,"",
+SUV,Highlander Hybrid AWD LTD/PLAT,2021,Toyota,Hybrid Electric,,,,,,35.0,34.0,35.0,Auto,,SI,2.5L,4,,,"",
+Sedan/Wagon,Mirai Limited,2021,Toyota,Hydrogen Fuel Cell,,,67.0,64.0,65.0,,,,Auto,,FC,134 kW electric motor,,,,"",
+Sedan/Wagon,Mirai XLE,2021,Toyota,Hydrogen Fuel Cell,,,74.0,70.0,72.0,,,,Auto,,FC,134 kW electric motor,,,,"",
+Sedan/Wagon,Prius,2021,Toyota,Hybrid Electric,,,,,,54.0,50.0,52.0,Auto,,SI,1.8L,4,,,"",""
+Sedan/Wagon,Prius AWD,2021,Toyota,Hybrid Electric,,,,,,51.0,47.0,49.0,Auto,,SI,1.8L,4,,,"",
+Sedan/Wagon,Prius Eco,2021,Toyota,Hybrid Electric,,,,,,58.0,53.0,56.0,Auto,,SI,1.8L,4,,,"",
+Sedan/Wagon,Prius Prime,2021,Toyota,Plug-in Hybrid Electric,25,,,,133.0,55.0,53.0,54.0,Auto,,"",1.8L,4,,,"",""
+SUV,RAV4 Hybrid AWD,2021,Toyota,Hybrid Electric,,,,,,41.0,38.0,40.0,Auto,,SI,2.5L,4,,,"",
+Sedan/Wagon,RAV4 Prime AWD,2021,Toyota,Plug-in Hybrid Electric,42,,,,94.0,40.0,36.0,38.0,Auto,,"",2.5L,4,,,"",
+Van,Sienna,2021,Toyota,Hybrid Electric,,,,,,36.0,36.0,36.0,Auto,,SI,2.5L,4,,,"",
+Van,Sienna AWD,2021,Toyota,Hybrid Electric,,,,,,35.0,36.0,35.0,Auto,,SI,2.5L,4,,,"",
+SUV,Venza AWD,2021,Toyota,Hybrid Electric,,,,,,40.0,37.0,39.0,Auto,,SI,2.5L,4,,,"",
+SUV,ID.4 1st,2021,Volkswagen,Electric,250,,104.0,89.0,97.0,,,,Auto,,e-motor,150 kW electric motor,,,,"",
+SUV,ID.4 AWD Pro,2021,Volkswagen,Electric,249,,102.0,90.0,97.0,,,,Auto,,e-motor,80 and 150 kW electric motors,,,,"",AWD
+SUV,ID.4 Pro,2021,Volkswagen,Electric,260,,107.0,91.0,99.0,,,,Auto,,e-motor,150 kW electric motor,,,,"",""
+SUV,ID.4 Pro S,2021,Volkswagen,Electric,250,,104.0,89.0,97.0,,,,Auto,,e-motor,150 kW electric motor,,,,"",
+SUV,ID.4 Pro S AWD ,2021,Volkswagen,Electric,240,,98.0,88.0,93.0,,,,Auto,,e-motor,80 and 150 kW electric motors,,,,"",AWD
+Sedan/Wagon,S60 AWD,2021,Volvo,Plug-in Hybrid Electric,22,,,,69.0,28.0,33.0,30.0,Auto,,SI,2.0L,4,,,"",
+Sedan/Wagon,S90 AWD,2021,Volvo,Plug-in Hybrid Electric,21,,,,60.0,28.0,31.0,30.0,Auto,,SI,2.0L,4,,,"",
+SUV,V60 AWD,2021,Volvo,Plug-in Hybrid Electric,22,,,,69.0,28.0,33.0,30.0,Auto,,SI,2.0L,4,,,"",
+SUV,XC40 Recharge,2021,Volvo,Electric,208,,85.0,72.0,79.0,,,,Auto,,"","",,,,"",""
+SUV,XC60 AWD,2021,Volvo,Plug-in Hybrid Electric,19,,,,57.0,26.0,28.0,27.0,Auto,,SI,2.0L,4,,,"",
+SUV,XC90 AWD,2021,Volvo,Plug-in Hybrid Electric,18,,,,55.0,26.0,28.0,27.0,Auto,,SI,2.0L,4,,,"",
+Street Sweeper,ACMD-Xpert,,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport L9N 8.9L Near Zero,,
+Refuse,ACMD-Xpert,,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport L9N 8.9L Near Zero,"",
+Vocational/Cab Chassis,ACMD-Xpert,,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport L9N 8.9L Near Zero,,
+Tractor,ACTT Terminal Tractor,,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport B6.7N Near Zero,"",
+Tractor,ACTT Terminal Tractor,,Autocar,Electric,,,,,,,,,Automatic,Vorza,,,,"",Vorza 150 kW,According to manufacturer: 150kW electric motor; up to 210kWh battery; up to 22 hours run time,
+Vocational/Cab Chassis,ACX-Xpeditor  - Class 8,,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport ISX12N 11.9L Near Zero,,
+Refuse,ACX-Xpeditor ,,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport ISX12N 11.9L Near Zero,,
+Street Sweeper,ACX-Xpeditor ,,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport ISX12N 11.9L Near Zero,"",
+Vocational/Cab Chassis,DC-64 - Class 8,,Autocar,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport ISX12N 11.9L Near Zero,"Available in Mixer, Dump, or Refuse/Rolloff configurations",
+Refuse,DC-64R - Class 8,,Autocar,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport ISX12N 11.9L Near Zero,"",
+Vocational/Cab Chassis,LET2,,Battle Motors,Electric,,,,,,,,,Automatic,"",,,,"",Borg Warner Cascadia Motion,"According to Manufacturer: 700V, 330kWh LFP Lithium battery pack with 240kWh or 630kWh optional; up to 160 miles range. Available in Class 6, 7, or 8.",
+Vocational/Cab Chassis,LET2,,Battle Motors,CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport ISX12N 11.9L Near Zero,According to Manufacturer: Available in Class 7 or 8.,
+Vocational/Cab Chassis,LET2 Crew Cab,,Battle Motors,CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport ISX12N 11.9L Near Zero,According to Manufacturer: Available in Class 7 or 8.,
+Vocational/Cab Chassis,LNT,,Battle Motors,CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport B6.7N Near Zero,"According to Manufacturer: Available in Class 6, 7, or 8.",
+Vocational/Cab Chassis,LNT,,Battle Motors,Electric,,,,,,,,,Automatic,"",,,,"",Borg Warner Cascadia Motion,"According to Manufacturer: 700V, 240kWh LFP Lithium battery pack with 210kWh or 450kWh optional; up to 183 miles range. Available in Class 6, 7, or 8.",
+Passenger Van/Shuttle Bus,All American Activity,,Blue Bird,CNG - Compressed Natural Gas,,,,,,,,,"",Allison 3000,,,,84,Cummins Westport L9N 8.9L Near Zero,"",
+School Bus,All American Rear Engine - Class 7,,Blue Bird,CNG - Compressed Natural Gas,,,,,,,,,"",Allison 3000,,,,84,Cummins Westport L9N 8.9L Near Zero,"",
+School Bus,All American RE Electric,,Blue Bird,Electric,,,,,,,,,Automatic,"",,,,84,Cummins PowerDrive 7000 EV,"According to manufacturer: 155 kWh battery, up to 120 miles range",
+Passenger Van/Shuttle Bus,All American RE Electric Activity,,Blue Bird,Electric,,,,,,,,,Automatic,"",,,,84,Cummins PowerDrive 7000 EV,According to manufacturer: 160 kWh battery; up to 120 miles range,
+Passenger Van/Shuttle Bus,Micro Bird Activity G5 Electric,,Blue Bird,Electric,,,,,,,,,"","",,,,30,"",According to manufacturer: 88 kWh battery; up to 100 miles range,
+School Bus,Micro Bird G5 - Class 3,,Blue Bird,Propane,,,,,,,,,"","",,,,30,Ford 7.3L V8,"",
+Passenger Van/Shuttle Bus,Micro Bird G5 Activity,,Blue Bird,Propane,,,,,,,,,"","",,,,25,Ford 7.3L V8,"",
+School Bus,Micro Bird G5 Electric,,Blue Bird,Electric,,,,,,,,,"","",,,,30,"",According to manufacturer: 88 kWh battery; up to 100 miles range,
+School Bus,Vision - Class 7,,Blue Bird,Propane,,,,,,,,,Automatic,"",,,,83,Ford 7.3L V8,"",
+Passenger Van/Shuttle Bus,Vision Activity,,Blue Bird,Propane|CNG - Compressed Natural Gas,,,,,,,,,"","",,,,78,Ford 6.8L V10|Ford 7.3L V8,"",
+School Bus,Vision Electric,,Blue Bird,Electric,,,,,,,,,Automatic,"",,,,77,Cummins PowerDrive 7000 EV,According to manufacturer: 160 kWh battery; up to 120 miles range,
+Passenger Van/Shuttle Bus,Vision Electric Activity,,Blue Bird,Electric,,,,,,,,,Automatic,"",,,,77,Cummins PowerDrive 7000 EV,According to manufacturer: 160 kWh battery; up to 120 miles range,
+Vocational/Cab Chassis,6F,,BYD,Electric,,,,,,,,,"",BYD,,,,"","","According to manufacturer: 26,000 lbs GVWR; up to 523 HP; 2,325 lb-ft torque",
+Refuse,6R,,BYD,Electric,,,,,,,,,"",BYD,,,,"","","According to manufacturer: 26,000 lbs GVWR; up to 523 HP; 2,325 lb-ft torque",
+Refuse,8R,,BYD,Electric,,,,,,,,,"",BYD,,,,"","","According to manufacturer: 66,000 lbs GVWR; 402 HP; 812 lb-ft torque",
+Tractor,8TT Day Cab,,BYD,Electric,,,,,,,,,Automatic,BYD,,,,"","","According to manufacturer: 105,000 lbs GCWR; 483 HP; 1,770 lb-ft torque",
+Tractor,8Y Terminal Tractor,,BYD,Electric,,,,,,,,,"",BYD,,,,"","","According to manufacturer: 102,000 lbs GCWR; 241 HP; 1,106 lb-ft torque
+",
+Passenger Van/Shuttle Bus,C10M (45'),,BYD,Electric,,,,,,,,,"",BYD,,,,Max 57,BYD 180 kWx2 in-wheel motor,"According to manufacturer: 446kWh battery; up to 172 miles range; charging capacity 150 kW
+",
+Transit Bus,C10MS (45' double deck),,BYD,Electric,,,,,,,,,"",BYD,,,,77,BYD 180 kWx2 in-wheel motor,According to manufacturer: 446kWh battery; up to 159 miles range; charging capacity 150 kW,
+Passenger Van/Shuttle Bus,C6M (23'),,BYD,Electric,,,,,,,,,"",BYD,,,,16,BYD 110 kWx2 in-wheel motor,According to manufacturer: 141kWh battery; up to 141 miles range; charging capacity 150 kW,
+Passenger Van/Shuttle Bus,C8M (35'),,BYD,Electric,,,,,,,,,"",BYD,,,,41,BYD 180 kWx2 in-wheel motor,According to manufacturer: 313kWh battery; up to 149 miles range; charging capacity 150 kW,
+Transit Bus,C8MS (35' double deck),,BYD,Electric,,,,,,,,,"",BYD,,,,52,BYD 180 kWx2 in-wheel motor,According to manufacturer: 313kWh battery; up to 125 miles range; charging capacity 150 kW,
+Passenger Van/Shuttle Bus,C9M (40'),,BYD,Electric,,,,,,,,,"",BYD,,,,49,BYD 180 kWx2 in-wheel motor,According to manufacturer: 446kWh battery; up to 186 miles range; charging capacity 150 kW,
+Transit Bus,K11M (60'),,BYD,Electric,,,,,,,,,"",BYD,,,,55,BYD 180 kWx2 in-wheel motor,According to manufacturer: 578kWh battery; up to 193 miles range; charging capacity 150 kW,
+Transit Bus,K7M (30'),,BYD,Electric,,,,,,,,,"",BYD,,,,22,BYD 90 kWx2 in-wheel motor,According to manufacturer: 215kWh battery for up to 158 miles range; charging capacity 150 kW,
+Transit Bus,K7M ER (30'),,BYD,Electric,,,,,,,,,"",BYD,,,,22,BYD 150 kWx2 in-wheel motor,According to manufacturer: 313kWh battery for up to 196 miles range; charging capacity 150 kW,
+Transit Bus,K8M (35'),,BYD,Electric,,,,,,,,,"",BYD,,,,32,BYD 150 kW integrated axle,According to manufacturer: 391kWh battery; up to 196 miles range; charging capacity 150 kW,
+Transit Bus,K9M (40'),,BYD,Electric,,,,,,,,,"",BYD,,,,37,BYD 150 kWx2 in-wheel motor,According to manufacturer: 313kWh battery; up to 157 miles range; charging capacity 150 kW,
+Transit Bus,K9MD (40'),,BYD,Electric,,,,,,,,,"",BYD,,,,42,BYD 180 kWx2 in-wheel motor,According to manufacturer: 446kWh battery; up to 203 miles range; charging capacity 150 kW,
+Vocational/Cab Chassis,3500/4500 Low Cab Forward,,Chevrolet,Ethanol (E85),,,,,,,,,"","",,,,"",GMC 6.6L V8,"",
+Vocational/Cab Chassis,"4500 HD, 4500 XD, 5500 HD, 5500 XD Low Cab Forward",,Chevrolet,Biodiesel (B20),,,,,,,,,"","",,,,"",GMC 5.2L I4,"",
+Vocational/Cab Chassis,6500 XD Low Cab Forward,,Chevrolet,Biodiesel (B20),,,,,,,,,"",Allison,,,,"",GMC 5.2L I4,"",
+Passenger Van/Shuttle Bus,Express 2500/3500,,Chevrolet,Ethanol (E85),,,,,,,,,"","",,,,"",GMC 6.6L V8,"",
+Van,Express 2500/3500,,Chevrolet,Ethanol (E85),,,,,,,,,"","",,,,"",GMC 6.6L V8,"",
+Van,Express 2500/3500,,Chevrolet,Biodiesel (B20),,,,,,,,,"","",,,,"",GMC 2.8L I4,"",
+Passenger Van/Shuttle Bus,Express 2500/3500,,Chevrolet,Biodiesel (B20),,,,,,,,,"","",,,,"",GMC 2.8L I4,"",
+Vocational/Cab Chassis,Express 3500/4500 Cutaway,,Chevrolet,Ethanol (E85),,,,,,,,,"","",,,,"",GMC 6.6L V8,"",
+Vocational/Cab Chassis,Silverado 3500 HD Cab Chassis,,Chevrolet,Biodiesel (B20),,,,,,,,,"",Allison,,,,"",GMC 6.6L V8,"",
+Pickup,Sliverado 2500/3500 HD,,Chevrolet,Biodiesel (B20),,,,,,,,,"",Allison,,,,"",GMC 6.6L V8,"",
+Transit Bus,e.COBUS 2700,,COBUS Industries,Electric,,,,,,,,,"","",,,,96,Siemens ELFA Electric Drive System,According to manufacturer: Lithium-titanate batteries; 1-2 hours for full battery charge,
+Transit Bus,e.COBUS 2700S,,COBUS Industries,Electric,,,,,,,,,"","",,,,77,Siemens ELFA Electric Drive System,According to manufacturer: Lithium-titanate batteries; 1-2 hours for full battery charge,
+Transit Bus,e.COBUS 3000,,COBUS Industries,Electric,,,,,,,,,"","",,,,110,Siemens ELFA Electric Drive System,According to manufacturer: Lithium-titanate batteries; 1-2 hours for full battery charge,
+School Bus,Type A Electric School Bus (DE516),,Collins Bus Corp.,Electric,,,,,,,,,"","",,,,24,Motiv Power Systems 295kW electric motor,"Based on the Ford E-450 chassis. Electric power train developed and installed by Motiv Power Systems, a Ford-approved qualified vehicle modifier (QVM). According to Manufacturer: BMW lithium-ion i3 127kWh passenger car battery; 105 miles range",
+School Bus,Type A Electric School Bus (DE516WF),,Collins Bus Corp.,Electric,,,,,,,,,"","",,,,16 + 1 wheelchair,Motiv Power Systems 295kW electric motor,"Based on the Ford E-450 chassis. Electric power train developed and installed by Motiv Power Systems, a Ford-approved qualified vehicle modifier (QVM). According to Manufacturer: BMW lithium-ion i3 127kWh passenger car battery; 105 miles range",
+Street Sweeper,Broom Bear,,Elgin,CNG - Compressed Natural Gas,,,,,,,,,Automatic,"",,,,"",Cummins Westport L9N 8.9L Near Zero,"",
+Street Sweeper,Broom Bear CNG Hybrid,,Elgin,CNG - Compressed Natural Gas|Plug-in Hybrid Electric,,,,,,,,,Automatic,"",,,,"",Cummins Westport L9N 8.9L Near Zero,According to Manufacturer: Parallel - electric or mechanical drive; Level 2 charging,
+Street Sweeper,Broom Bear Plug-In Hybrid,,Elgin,Plug-in Hybrid Electric,,,,,,,,,Automatic,"",,,,"",Cummins ISL 9L,According to Manufacturer: Parallel - electric or mechanical drive; Level 2 charging,
+Street Sweeper,Crosswind1,,Elgin,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"",Cummins Westport L9N 8.9L Near Zero,"",
+Street Sweeper,Pelican,,Elgin,CNG - Compressed Natural Gas,,,,,,,,,Automatic,"",,,,"",Cummins Westport B6.7N Near Zero,"",
+Transit Bus,AXESS 32' low floor,,ENC,Diesel/Hybrid Electric,,,,,,,,,"","Allison, Voith, ZF",,,,Max 25,Cummins ISL 9L|Allison Transmission hybrid drive,"",
+Transit Bus,AXESS 32' low floor,,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"","Allison, Voith, ZF",,,,Max 25,Cummins Westport L9N 8.9L Near Zero|Allison Transmission hybrid drive,"",
+Transit Bus,AXESS 35' low floor,,ENC,Diesel/Hybrid Electric,,,,,,,,,"","Allison, Voith, ZF",,,,35,Cummins ISL 9L|Allison Transmission hybrid drive,"",
+Transit Bus,AXESS 35' low floor,,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"","Allison, Voith, ZF",,,,35,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,AXESS 40' low floor,,ENC,Diesel/Hybrid Electric,,,,,,,,,"","Allison, Voith, ZF",,,,43,Cummins ISL 9L|Allison Transmission hybrid drive,"",
+Transit Bus,AXESS 40' low floor,,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"","Allison, Voith, ZF",,,,43,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,Axess-BEB 32' low floor,,ENC,Electric,,,,,,,,,"",.,,,,.,"","",
+Transit Bus,Axess-BEB 35' low floor,,ENC,Electric,,,,,,,,,"",.,,,,.,"","",
+Transit Bus,Axess-BEB 40' low floor,,ENC,Electric,,,,,,,,,"",.,,,,.,"","",
+Transit Bus,AXESS-FC 40' low floor,,ENC,Hydrogen Fuel Cell,,,,,,,,,"",BAE,,,,43,"","",
+Transit Bus,E-Z RIDER II 30',,ENC,Diesel/Hybrid Electric,,,,,,,,,"","Allison, Voith, ZF",,,,31,Cummins ISB6.7|Cummins ISL 9L|BAE Systems HybriDrive®|Allison Transmission hybrid drive,"",
+Transit Bus,E-Z RIDER II 30',,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"","Allison, Voith, ZF",,,,31,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,E-Z RIDER II 32',,ENC,Diesel/Hybrid Electric,,,,,,,,,"","Allison, Voith, ZF",,,,33,Cummins ISL 9L|Cummins ISB6.7|Allison Transmission hybrid drive|BAE Systems HybriDrive®,"",
+Transit Bus,E-Z RIDER II 32',,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"","Allison, Voith, ZF",,,,33,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,E-Z RIDER II 35',,ENC,Diesel/Hybrid Electric,,,,,,,,,"","Allison, Voith, ZF",,,,41,Cummins ISL 9L|Cummins ISB6.7|Allison Transmission hybrid drive|BAE Systems HybriDrive®,"",
+Transit Bus,E-Z RIDER II 35',,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"","Allison, Voith, ZF",,,,41,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,XHF 29',,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"","",,,,29,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,XHF 33',,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"","",,,,32,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,XHF 35',,ENC,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"","",,,,41,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,XHF 40',,ENC,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"","",,,,47,Cummins Westport L9N 8.9L Near Zero,"",
+Vocational/Cab Chassis,"E350, E450 Cutaway",,Ford,Propane - Bi-fuel|CNG - Bi-fuel|Propane|CNG - Compressed Natural Gas|Ethanol (E85),,,,,,,,,"","",,,,"",Ford 7.3L V8,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on CNG or propane for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,"E350, E450 Cutaway",,Ford,Hybrid Electric,,,,,,,,,"","",,,,"",Ford 7.3L V8,"This vehicle is available with a hybrid electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,"E350, E450 Stripped Chassis",,Ford,Propane - Bi-fuel|Propane|CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"",Ford 7.3L V8,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on CNG or propane for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,"E350, E450 Stripped Chassis",,Ford,Hybrid Electric,,,,,,,,,"","",,,,"",Ford 7.3L V8,"This vehicle is available with a hybrid electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,E-450 Box Truck,,Ford,Electric,,,,,,,,,"","",,,,"","","Based on the Ford E-450 Cutaway Chassis. This vehicle is available with an electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,E450 Cutaway,,Ford,Electric,,,,,,,,,"","",,,,"","","This vehicle is available with an electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+School Bus,E-450 School Bus,,Ford,Electric,,,,,,,,,"","",,,,"","","Based on the Ford E-450 Cutaway Chassis. This vehicle is available with an electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Passenger Van/Shuttle Bus,E-450 Shuttle,,Ford,Electric,,,,,,,,,"","",,,,"","","Based on the Ford E-450 Cutaway Chassis. This vehicle is available with an electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Step Van,E-450 Step Van,,Ford,Electric,,,,,,,,,"","",,,,"","","Based on the Ford E-450 Cutaway Chassis. This vehicle is available with an electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,E450 Stripped Chassis,,Ford,Electric,,,,,,,,,"","",,,,"","","This vehicle is available with an electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,E-450 Work Truck,,Ford,Electric,,,,,,,,,"","",,,,"","","Based on the Ford E-450 Cutaway Chassis. This vehicle is available with an electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Van,E-Transit Cargo Van,,Ford,Electric,,,,,,,,,Automatic,"",,,,"",Ford 198 kW / 266 HP motor,According to Manufacturer: 68 kWh battery; 115 kW DCFC speed; 126 miles range,
+Vocational/Cab Chassis,E-Transit Cutaway/Chassis Cab,,Ford,Electric,,,,,,,,,Automatic,"",,,,"",Ford 198 kW / 266 HP motor,According to Manufacturer: 68 kWh battery; 115 kW DCFC speed; 126 miles range,
+Passenger Van/Shuttle Bus,F-550 Bus,,Ford,Electric,,,,,,,,,"","",,,,"","","Based on the Ford F-550 Cutaway Chassis. This vehicle is available with an electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+School Bus,F-59 School Bus,,Ford,Electric,,,,,,,,,"","",,,,"","","Based on the Ford F-59 stripped chassis. This vehicle is available with an electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Passenger Van/Shuttle Bus,F-59 Shuttle Bus,,Ford,Electric,,,,,,,,,"","",,,,"","","Based on the Ford F-59 stripped chassis. This vehicle is available with an electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Step Van,F-59 Step Van,,Ford,Electric,,,,,,,,,"","",,,,"","","Based on the Ford F-59 stripped chassis. This vehicle is available with an electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,F-59 Stripped Chassis,,Ford,CNG - Compressed Natural Gas|Propane - Bi-fuel|E85/Hybrid Electric|CNG - Bi-fuel|Propane,,,,,,,,,"","",,,,"",Ford 7.3L V8,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on CNG or propane for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,F-59 Stripped Chassis,,Ford,Electric,,,,,,,,,"","",,,,"","","This vehicle is available with an electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,F-59 Stripped Chassis,,Ford,Hybrid Electric,,,,,,,,,"","",,,,"",Ford 7.3L V8,"This vehicle is available with a hybrid electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,F-650 Box Truck,,Ford,Electric,,,,,,,,,Automatic,"",,,,"","","Based on the Ford F-650 cab/chassis. This vehicle is available with an electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,"Medium Duty Chassis Cab F650, F750",,Ford,CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas|Propane|Propane - Bi-fuel,,,,,,,,,"","",,,,"",Ford 7.3L V8,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on CNG or propane for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,"Medium Duty Chassis Cab F650, F750",,Ford,Biodiesel (B20),,,,,,,,,"","",,,,"",Ford 6.7L V8,,
+Vocational/Cab Chassis,Super Duty Chassis Cab F350,,Ford,Ethanol (E85),,,,,,,,,"","",,,,"",Ford 6.2L V8|Ford 7.3L V8,"",
+Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",,Ford,Propane - Bi-fuel|Propane|CNG - Compressed Natural Gas|CNG - Bi-fuel,,,,,,,,,"","",,,,"",Ford 6.2L V8|Ford 7.3L V8,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on CNG or propane for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",,Ford,Biodiesel (B20),,,,,,,,,"","",,,,"",Ford 6.7L V8,,
+Vocational/Cab Chassis,"Super Duty Chassis Cab F350, F450, F550",,Ford,Hybrid Electric,,,,,,,,,"","",,,,"",Ford 7.3L V8,"This vehicle is available with a hybrid electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Pickup,"Super Duty F250, F350, F450",,Ford,CNG - Bi-fuel|Ethanol (E85)|CNG - Compressed Natural Gas|Propane|Propane - Bi-fuel,,,,,,,,,"","",,,,"",Ford 6.2L V8|Ford 7.3L V8,"Ford offers a “prep package” for this vehicle. An approved qualified vehicle modifier (QVM) can convert the vehicle to run on propane or CNG for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Pickup,"Super Duty F250, F350, F450",,Ford,Biodiesel (B20),,,,,,,,,"","",,,,"",Ford 6.7L V8,,
+Pickup,"Super Duty F250, F350, F450",,Ford,Hybrid Electric,,,,,,,,,"","",,,,"",Ford 7.3L V8,"This vehicle is available with a hybrid electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Pickup,"Super Duty F250, F350, F450",,Ford,Plug-in Hybrid Electric,,,,,,,,,"","",,,,"",Ford 7.3L V8,This vehicle is available with a plug-in hybrid electric power train developed and installed by a Ford-approved qualified vehicle modifier (QVM).,
+Van,Transit 250/350 Cargo Van,,Ford,Ethanol (E85),,,,,,,,,"","",,,,"",Ford 3.5L V6,For government order only,
+Van,Transit 250/350 Cargo Van,,Ford,Electric,,,,,,,,,"","",,,,"","","This vehicle is available with an electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Van,Transit 250/350 Cargo Van,,Ford,Hybrid Electric,,,,,,,,,"","",,,,"",Ford 3.5L V6,"This vehicle is available with a hybrid electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,,Ford,Electric,,,,,,,,,"","",,,,"","","This vehicle is available with an electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,,Ford,Ethanol (E85),,,,,,,,,"","",,,,"",Ford 3.5L V6,For government order only,
+Passenger Van/Shuttle Bus,Transit 250/350 Passenger Van,,Ford,Hybrid Electric,,,,,,,,,"","",,,,"",Ford 3.5L V6,"This vehicle is available with a hybrid electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,"Transit CC-CA 250, 350",,Ford,Hybrid Electric,,,,,,,,,"","",,,,"",Ford 3.5L V6,"This vehicle is available with a hybrid electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,"Transit CC-CA 250, 350",,Ford,Electric,,,,,,,,,"","",,,,"","","This vehicle is available with an electric power train developed and installed by an approved qualified vehicle modifier (QVM). It is available for delivery through select Ford dealerships, without impacting OEM warranties or service agreements.",
+Vocational/Cab Chassis,Transit Cutaway/Chassis Cab,,Ford,Ethanol (E85),,,,,,,,,"","",,,,"",Ford 3.5L V6,"",
+Vocational/Cab Chassis,114SD NG - Class 8,,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"","Allison, Eaton",,,,"",Cummins Westport ISX12N 11.9L Near Zero|Cummins Westport L9N 8.9L Near Zero,"",
+Tractor,Cascadia Natural Gas,,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"",Eaton,,,,"",Cummins Westport ISX12N 11.9L Near Zero,"",
+TractorVocational/Cab Chassis,M2 112 NG,,Freightliner,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport L9N 8.9L Near Zero,"",
+Vocational/Cab Chassis,MT-45 G Chassis - Class 4,,Freightliner Custom Chassis,Propane|CNG - Compressed Natural Gas,,,,,,,,,Automatic,Allison,,,,"",Freightliner Custom Chassis DriveForce 6.0L V8,"",
+Vocational/Cab Chassis,MT-50e,,Freightliner Custom Chassis,Electric,,,,,,,,,Automatic,Dana,,,,"",Dana eS9000r eAxle|Proterra Electric Drive System,"According to manufacturer: 226 kWh lithium-ion battery; 150-170 miles range; full charge in 3.5 hours @ 60 kW or 1.8 hours @ 150 kW DC, compatible with SAE J1772 CCS DC fast charging.",
+Vocational/Cab Chassis,MT-55 G Chassis,,Freightliner Custom Chassis,Propane|CNG - Compressed Natural Gas,,,,,,,,,Automatic,Allison,,,,"",Freightliner Custom Chassis DriveForce 6.0L V8,"",
+Vocational/Cab Chassis,S2G Truck - Class 6,,Freightliner Custom Chassis,Propane,,,,,,,,,"",Allison,,,,"",Freightliner Custom Chassis DriveForce 8.0L V8|Freightliner Custom Chassis DriveForce 8.8L V8,"",
+Vocational/Cab Chassis,eCanter,,FUSO,Electric,,,,,,,,,Automatic,"",,,,"",FUSO 135 kW electric motor,According to manufacturer: 81 kW battery pack; over 62 miles range; fast charging in 105 minutes,
+Transit Bus,"BRT, BRT Plus, Commuter",,Gillig,CNG - Compressed Natural Gas,,,,,,,,,"","Voith, Allison, ZF",,,,"",Cummins Westport L9N 8.9L Near Zero,"According to manufacturer: Available in 29', 35', and 40' lengths.",
+Transit Bus,"BRT, BRT Plus, Commuter",,Gillig,Diesel/Hybrid Electric,,,,,,,,,"","Voith, Allison, ZF",,,,"",Cummins ISB6.7|Cummins ISL 9L,"According to manufacturer: Available in 29', 35', and 40' lengths.",
+Transit Bus,"Low Floor, Low Floor Plus",,Gillig,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"",Cummins Westport L9N 8.9L Near Zero,"According to manufacturer: Available in 29', 35', and 40' lengths.",
+Transit Bus,"Low Floor, Low Floor Plus",,Gillig,Diesel/Hybrid Electric,,,,,,,,,"","",,,,"","","According to manufacturer: Available in 29', 35', and 40' lengths.",
+Transit Bus,Low Floor Plus,,Gillig,Electric,,,,,,,,,"","",,,,"",Cummins PowerDrive 7000 EV,"According to manufacturer: Available in 29', 35', and 40' lengths. 444 kWh battery and estimated 150 miles range.",
+Transit Bus,Trolley,,Gillig,Diesel/Hybrid Electric,,,,,,,,,"","Voith, Allison, ZF",,,,"",Cummins ISB6.7|Cummins ISL 9L,"According to manufacturer: Available in 29', 35', and 40' lengths.",
+Transit Bus,Trolley,,Gillig,CNG - Compressed Natural Gas,,,,,,,,,"","Voith, Allison, ZF",,,,"",Cummins Westport L9N 8.9L Near Zero,"According to manufacturer: Available in 29', 35', and 40' lengths.",
+Street Sweeper,M3EV - Class 7,,Global,Electric,,,,,,,,,"",Global,,,,"",US Hybrid 160-kW electric motor,According to manufacturer: Available with 160-kW electric motor; 210 kWh battery for up to 12 hours operation per charge; J1772 Level II charging  will replenish the battery in 9-11 hours.,
+Street Sweeper,M4EV - Class 7,,Global,Electric,,,,,,,,,"",Global,,,,"",US Hybrid 160-kW electric motor,According to manufacturer: Available with 160-kW electric motor; 210 kWh battery for up to 10 hours operation per charge; J1772 Level II charging  will replenish the battery in 9-11 hours.,
+Street Sweeper,M4 Hybrid,,Global,Diesel/Hybrid Electric,,,,,,,,,"",Global,,,,"",Cummins ISB6.7,,
+Street Sweeper,M4/M4HSD CNG,,Global,CNG - Compressed Natural Gas,,,,,,,,,"",Global,,,,"",Cummins Westport L9N 8.9L Near Zero,"",
+Street Sweeper,M4ZE/M4HSDZE - Class 7,,Global,Hydrogen Fuel Cell,,,,,,,,,"",Global,,,,"","","",
+Van,Zevo 600,,GM BrightDrop,Electric,,,,,,,,,"","",,,,"",GM BrightDrop Electric motor,According to manufacturer: Up to 250 miles range; 120 kW DC Fast Charging (160 miles of range per hour) or Level 2 (11.5 kW) compatible,
+Passenger Van/Shuttle Bus,Savana 2500/3500,,GMC,Ethanol (E85),,,,,,,,,"","",,,,"",GMC 6.6L V8,"",
+Passenger Van/Shuttle Bus,Savana 2500/3500,,GMC,Biodiesel (B20),,,,,,,,,"","",,,,"",GMC 2.8L I4,"",
+Van,Savana 2500/3500,,GMC,Ethanol (E85),,,,,,,,,"","",,,,"",GMC 6.6L V8,"",
+Van,Savana 2500/3500,,GMC,Biodiesel (B20),,,,,,,,,"","",,,,"",GMC 2.8L I4,"",
+Vocational/Cab Chassis,Savana 3500/4500 Cutaway,,GMC,Ethanol (E85),,,,,,,,,"","",,,,"",GMC 6.6L V8,"",
+Pickup,Sierra 2500/3500 HD,,GMC,Biodiesel (B20),,,,,,,,,"",Allison,,,,"",GMC 6.6L V8,"",
+Vocational/Cab Chassis,Sierra 3500 HD Cab Chassis,,GMC,Biodiesel (B20),,,,,,,,,"",Allison,,,,"",GMC 6.6L V8,"",
+Vocational/Cab Chassis,"G1, G2",,Greenkraft,Propane|CNG - Compressed Natural Gas,,,,,,,,,"","GM, Allison",,,,"",GMC 6.0L V8,"",
+Vocational/Cab Chassis,"G3, G4",,Greenkraft,Propane|CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,"",GMC 8.0L V8,"",
+Passenger Van/Shuttle Bus,AV Star,,GreenPower Motor Company,Electric,,,,,,,,,"","",,,,Up to 21,Dana TM4 150kW,According to manufacturer: ADA wheelchair lift; 118kWh battery; up to 150 miles range,
+School Bus,BEAST,,GreenPower Motor Company,Electric,,,,,,,,,"","",,,,90,Dana TM4 150kW,According to manufacturer: 194kWh battery; up to 140 miles range,
+Transit Bus,EV250,,GreenPower Motor Company,Electric,,,,,,,,,"","",,,,21 + 2 wheelchair,Prestolite 160kW electric motor,According to manufacturer: 260kWh battery; 163 miles range,
+Transit Bus,EV350,,GreenPower Motor Company,Electric,,,,,,,,,"","",,,,40 + 2 wheelchair,Prestolite 350kW electric motor,According to manufacturer: Up to 400kWh battery;  up to 212 miles range,
+Transit Bus,EV550,,GreenPower Motor Company,Electric,,,,,,,,,"","",,,,Up to 99,Siemens electric motor,According to manufacturer: Up to 600kWh battery;  175+ miles range,
+Passenger Van/Shuttle Bus,EV Star,,GreenPower Motor Company,Electric,,,,,,,,,"","",,,,Up to 21,Dana TM4 150kW,According to manufacturer: 118kWh battery; up to 150 miles range,
+Passenger Van/Shuttle Bus,EV Star+,,GreenPower Motor Company,Electric,,,,,,,,,"","",,,,24,Dana TM4 150kW,According to manufacturer: 118kWh battery; up to 150 miles range,
+Van,EV Star Cargo,,GreenPower Motor Company,Electric,,,,,,,,,"","",,,,"",Dana TM4 150kW,"According to manufacturer: GVWR 14,330 lbs; 118kWh battery; up to 150 miles range",
+Vocational/Cab ChassisVan,EV Star Cargo+,,GreenPower Motor Company,Electric,,,,,,,,,"","",,,,"",Dana TM4 150kW,"Box van based on chassis/cab. According to manufacturer: GVWR 14,330 lbs; 118kWh battery; up to 150 miles range",
+Vocational/Cab Chassis,EV Star CC,,GreenPower Motor Company,Electric,,,,,,,,,"","",,,,"",Dana TM4 150kW,"According to manufacturer: GVWR 14,330 lbs; 118kWh battery; up to 150 miles range",
+Refuse,"Front Loader: Half/Pack (including Automated), Half/Pack Freedom, Half/Pack Sierra, Half/Pack Low Rider (including Automated)",,Heil Environmental,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"",Cummins Westport L9N 8.9L Near Zero,Half/Pack models available with CNrG tailgate fuel-delivery system.,
+Refuse,"Rear Loader: PowerTrak, PowerTrak Commercial, DuraPack 4060 and 5000, PT 1000, Under CDL Mini Rear Loader",,Heil Environmental,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"",Cummins Westport L9N 8.9L Near Zero,"",
+Refuse,"Side Loader: Command-SST, DuraPack Python and Rapid Rail, Liberty and MultiPack Automated",,Heil Environmental,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"",Cummins Westport L9N 8.9L Near Zero,Command SST model available with CNrG tailgate fuel-delivery system.,
+Vocational/Cab Chassis,L6 Conventional,,Hino,Biodiesel (B20),,,,,,,,,"",Allison,,,,"",Cummins ISB6.7,"According to manufacturer: 23,000-25,900 GVWR; available in Day Cab, Extended Cab, or Crew Cab",
+Vocational/Cab Chassis,L7 Conventional,,Hino,Biodiesel (B20),,,,,,,,,"",Allison,,,,"",Cummins ISB6.7,"According to manufacturer: 33,000 GVWR; available in Day Cab, Extended Cab, or Crew Cab",
+TractorVocational/Cab Chassis,XL7 Conventional,,Hino,Biodiesel (B20),,,,,,,,,"",Allison,,,,"",Cummins ISL 9L,"According to manufacturer: 33,000 GVWR; available in Day Cab, Extended Cab, or Crew Cab
+",
+TractorVocational/Cab Chassis,XL8 Conventional,,Hino,Biodiesel (B20),,,,,,,,,"",Allison,,,,"",Cummins ISL 9L,"According to manufacturer: 34,200-66,000 GVWR; available in Day Cab, Extended Cab, or Crew Cab",
+Passenger Van/Shuttle Bus,Carriage ,,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,,,,,,,,,"",MYD 6-speed automatic,,,,24,Ford 7.3L V8,"",
+Passenger Van/Shuttle Bus,Commuter,,Hometown Manufacturing,CNG - Compressed Natural Gas,,,,,,,,,"",Allison B400,,,,40,Cummins Westport L9N 8.9L Near Zero,"",
+Passenger Van/Shuttle Bus,Commuter,,Hometown Manufacturing,Electric,,,,,,,,,"","",,,,42,"",According to manufacturer: 120-200 miles range.,
+Transit Bus,Mainstreet,,Hometown Manufacturing,CNG - Compressed Natural Gas,,,,,,,,,"","Allison 2100, B300",,,,40,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,Mainstreet,,Hometown Manufacturing,Electric,,,,,,,,,"","",,,,40,"",According to manufacturer: 120-200 miles range.,
+Transit Bus,Streetcar,,Hometown Manufacturing,Electric,,,,,,,,,"","",,,,40,"",According to manufacturer: 220 kW / 295 hp motor;  BMW i3 Lithium-ion 320 kWh battery; Level 2 charging (50 kW); 5.5-hours for 100% charge.,
+Passenger Van/Shuttle Bus,Streetcar,,Hometown Manufacturing,Diesel/Hybrid Electric,,,,,,,,,"",Allison B300,,,,48,Cummins ISB6.7,,
+Transit Bus,Streetcar,,Hometown Manufacturing,CNG - Compressed Natural Gas,,,,,,,,,"","Allison B300, B400",,,,40,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,Urban,,Hometown Manufacturing,Electric,,,,,,,,,"","",,,,40,"",According to manufacturer: 2-hour charge time at fast charge rate.,
+Transit Bus,Urban,,Hometown Manufacturing,CNG - Compressed Natural Gas,,,,,,,,,"",Allison B400,,,,40,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,View,,Hometown Manufacturing,Electric,,,,,,,,,"","",,,,Max 42,Dana eS9000r eAxle|Proterra Electric Drive System,"Based on FCC MT50e chassis, available in 32'-36' length. According to manufacturer: 226 kWh lithium-ion battery; 150-170 miles range; full charge in 3.5 hours @ 60 kW or 1.8 hours @ 150 kW DC, compatible with SAE J1772 CCS DC fast charging.",
+Transit Bus,View,,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,,,,,,,,,"",Allison PTS 2200 or Ford 5-speed OD,,,,42,Ford 7.3L V8,"According to manufacturer: Based on Ford 550 chassis, available in 32' and 36' lengths; 24,000 GVWR",
+Passenger Van/Shuttle Bus,Villager,,Hometown Manufacturing,Electric,,,,,,,,,"","",,,,45,Proterra Electric Drive System|Dana eS9000r eAxle,"Based on FCC MT50e chassis, available in 32'-36' length. According to manufacturer: 226 kWh lithium-ion battery; 150-170 miles range; full charge in 3.5 hours @ 60 kW or 1.8 hours @ 150 kW DC, compatible with SAE J1772 CCS DC fast charging.",
+Passenger Van/Shuttle Bus,Villager,,Hometown Manufacturing,CNG - Compressed Natural Gas|Propane,,,,,,,,,"",Allison PTS 2200 or Ford Torque Shift 6-speed automatic,,,,45,Ford 7.3L V8,"",
+School Bus,CE Series,,IC Bus,Propane,,,,,,,,,"","Allison, Eaton",,,,78,Powertrain Solutions International (PSI) 8.8L,,
+School Bus,Electric CE Series,,IC Bus,Electric,,,,,,,,,Automatic,"",,,,Max 77,"International 650 V, Permanent Magnet, 255 kW (342 hp) Electric Motor ","According to manufacturer: 31,000 up to 35,000 lbs GVWR; 210 kWh or 315 kWh battery for up to 200+ miles range; DC fast charging allows full charge in as little as 70 minutes",
+Vocational/Cab Chassis,eMV,,International,Electric,,,,,,,,,Automatic,"",,,,"","International Direct Drive Electric Motor (1,700 ft-lb)","According to manufacturer: 25,999 and 33,000 lb GVWR; 210 kWh battery; 608 V operating system; 125 kW/hour DC fast charging capable; 135 miles range",
+Vocational/Cab Chassis,"FTR, FVR",,Isuzu,Biodiesel (B20),,,,,,,,,"",Allison 2500 RDS,,,,"",Cummins ISB6.7,"According to manufacturer: Up to 33,000 GVWR; available in Standard Cab only",
+Vocational/Cab Chassis,"NPR-HD, NPR-XD, NQR, NRR",,Isuzu,Biodiesel (B20),,,,,,,,,"",Aisin,,,,"",Isuzu 5.2L,"According to manufacturer: Up to 19,500 GVWR; available in Standard or Crew Cab",
+Tractor,Ottawa T2E+,,Kalmar,Electric,,,,,,,,,"","",,,,"",Cummins 170-kW Electric Drive Motor,According to manufacturer: available with charging capacities of 24kW-180kW; 152 kWh or 184 kWh battery storage,
+Vocational/Cab Chassis,K270/K370,,Kenworth,Electric,,,,,,,,,"","",,,,"",Kenworth HV3500|Kenworth HV2600,According to manufacturer: Available in Class 6 or Class 7; 141 kW or 282 kW battery pack for 100 or 200 miles range; DC Fast Charging for 1 hr charge time,
+Vocational/Cab Chassis,T180/T280,,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"",PACCAR,,,,"",Cummins Westport L9N 8.9L Near Zero,"According to manufacturer: Up to 26,000 lb rating",
+Tractor,T680,,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"",Eaton,,,,"",Cummins Westport ISX12N 11.9L Near Zero|Cummins Westport L9N 8.9L Near Zero,,
+Tractor,T680E,,Kenworth,Electric,,,,,,,,,"","",,,,"",Meritor 14Xe e-axles,"According to manufacturer: Available in 54,000 lb. and 82,000 lb GVWR; 396 kWh battery for 150 miles range; DC Fast Charging via J1772 CCS with 120 kW maximum rate and 3.3-hr charge time",
+Tractor,T880,,Kenworth,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"","Eaton, Allison",,,,"",Cummins Westport ISX12N 11.9L Near Zero,"",
+Vocational/Cab Chassis,T880,,Kenworth,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"","Eaton, Allison",,,,"",Cummins Westport ISX12N 11.9L Near Zero,"",
+Vocational/Cab Chassis,LION6,,Lion Electric,Electric,,,,,,,,,Automatic,"",,,,"",Dana TM4 SUMO MD 250 kW (335 HP),"According to manufacturer: Class 6, 26,000 GVWR; up to 252 kWh battery and 200  miles range",
+Vocational/Cab Chassis,LION8 - Class 8,,Lion Electric,Electric,,,,,,,,,Automatic,"",,,,"",Dana TM4 SUMO HD 800 VDC 9-Phase 350 kW (470 HP),"According to manufacturer: Class 8, 60,000 GVWR; up  to 252 kWh battery and 170 miles range. Also available as a bucket truck with 130 miles range.",
+Refuse,LION8 Refuse ASL and REL - Class 8,,Lion Electric,Electric,,,,,,,,,Automatic,"",,,,"",Dana TM4 SUMO HD 800 VDC 9-Phase 350 kW (470 HP),"According to manufacturer: Class 8, 60,000 GVWR; up  to 336 kWh battery and 170 miles range. Available in side- and rear-load configurations.",
+Tractor,LION8T - Class 8,,Lion Electric,Electric,,,,,,,,,Automatic,"",,,,"",Meritor 2-Speed e-axle,"According to manufacturer: Class 8, 82,000 GVWR; up  to 653 kWh battery and 260 miles range",
+School Bus,LIONA,,Lion Electric,Electric,,,,,,,,,Automatic,"",,,,24,Dana TM4 SUMO LD1200 160 kW (215 HP),According to manufacturer: 84 kWh or 168 kWh battery for up to 150 miles range,
+School Bus,LIONC,,Lion Electric,Electric,,,,,,,,,Automatic,"",,,,77,Dana TM4 SUMO MD 250 kW (335 HP),"According to manufacturer: Available with 126, 168, or 210 kWh battery for up to 155 miles range ",
+School Bus,LIOND,,Lion Electric,Electric,,,,,,,,,Automatic,"",,,,83,Dana TM4 SUMO MD 250 kW (335 HP),"According to manufacturer: Available with 126, 168, or 210 kWh battery for up to 155 miles range",
+Passenger Van/Shuttle Bus,LIONM,,Lion Electric,Electric,,,,,,,,,Automatic,"",,,,24,Dana TM4 SUMO LD1200 160 kW (215 HP),According to manufacturer: 80 kWh or 160 kWh battery for up to 150 miles range,
+Tractor,Anthem - Class 8,,Mack,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"",Eaton,,,,"",Cummins Westport ISX12N 11.9L Near Zero,"",
+Refuse,LR,,Mack,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,"",Cummins Westport L9N 8.9L Near Zero,"According to manufacturer: Available in Front-, Side-, and Rear-Loader models",
+Refuse,LR,,Mack,Electric,,,,,,,,,"",Mack Powershift 2-speed ,,,,"","","According to manufacturer: 66,000 GVWR; 2 AC motors with 400kW (536 hp) total peak power; 4 NMC lithium-ion batteries, 600V and 376 kWh total battery capacity, with up to 150-kW fast charge capability
+",
+Vocational/Cab Chassis,TerraPro Cab Over,,Mack,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"","Allison, Eaton, mDRIVE HD/XHD, Maxitorque ES",,,,"",Cummins Westport L9N 8.9L Near Zero,"",
+Refuse,TerraPro Cab Over,,Mack,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,"","Allison, Eaton, mDRIVE HD/XHD, Maxitorque ES",,,,"",Cummins Westport L9N 8.9L Near Zero,According to manufacturer: Available in Front- and Rear-Loader models,
+Transit Bus,D4000 Commuter Coach,,MCI,CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,49,Cummins Westport ISX12N 11.9L Near Zero,"",
+Transit Bus,D4000 Hybrid Commuter Coach - Class 8,,MCI,Diesel/Hybrid Electric,,,,,,,,,Automatic,Allision,,,,49,Cummins ISL 9L|Allison Transmission Ep50 Electric Drive Propulsion System|Allison Transmission hybrid drive,"",
+Transit Bus,D4500 Commuter Coach,,MCI,CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,57,Cummins Westport ISX12N 11.9L Near Zero,"",
+Transit Bus,D4500 Hybrid Commuter Coach - Class 8,,MCI,Diesel/Hybrid Electric,,,,,,,,,Automatic,Allision,,,,57,Cummins ISL 9L|Allison Transmission hybrid drive|Allison Transmission Ep50 Electric Drive Propulsion System,"",
+Transit Bus,D45 CRT LE CHARGE - Class 8,,MCI,Electric,,,,,,,,,Automatic,"",,,,54,Siemens 260kW electric motor,According to manufacturer: Siemens 260kW electric motor and 63Ah (up to 389kWh) NMC battery; up to 170 miles range,
+Transit Bus,J4500e CHARGE - Class 8,,MCI,Electric,,,,,,,,,Automatic,"",,,,56,Siemens 260kW electric motor,According to manufacturer: 63Ah (up to 544kWh) NMC battery; 170 to 230+ miles range,
+Refuse,"Front Loaders: Meridian, Atlantic, Contendor - Class 8",,McNeilus,CNG - Compressed Natural Gas,,,,,,,,,"","Eaton, Allison",,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport ISX12N 11.9L Near Zero,"",
+Refuse,"Rear Loader: Standard, Heavy Duty, Extra Compaction,Tag Axle, Split Body, M2 - Class 8",,McNeilus,CNG - Compressed Natural Gas,,,,,,,,,"","Eaton, Allison",,,,"",Cummins Westport ISX12N 11.9L Near Zero|Cummins Westport L9N 8.9L Near Zero,"",
+Refuse,"Side Loader: AutoReach, Manual/Automated, Zero Radius - Class 8",,McNeilus,CNG - Compressed Natural Gas,,,,,,,,,"","Eaton, Allison",,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport ISX12N 11.9L Near Zero,"",
+Vocational/Cab Chassis,"Standard, Bridgemaster, Oshkosh S-Series - Class 8",,McNeilus,CNG - Compressed Natural Gas,,,,,,,,,"","Eaton, Allison",,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport ISX12N 11.9L Near Zero,"",
+Step Van,(various models),,Morgan-Olson,Electric,,,,,,,,,Automatic,"",,,,"","",According to manufacturer: Various platforms available; contact Morgan-Olson,
+Transit Bus,Xcelsior 35',,New Flyer,CNG - Compressed Natural Gas,,,,,,,,,"","Allison, Voith, ZF",,,,33,Cummins ISB6.7|BAE Systems HybriDrive®|Allison Transmission hybrid drive,"",
+Transit Bus,Xcelsior 35',,New Flyer,CNG - Compressed Natural Gas,,,,,,,,,"","Allison, Voith, ZF",,,,32,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,Xcelsior 40',,New Flyer,Diesel/Hybrid Electric,,,,,,,,,"","Allison, Voith, ZF",,,,43,Cummins ISB6.7|Allison Transmission hybrid drive|BAE Systems HybriDrive®,"",
+Transit Bus,Xcelsior 40',,New Flyer,CNG - Compressed Natural Gas,,,,,,,,,"","Allison, Voith, ZF",,,,40,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,Xcelsior 60',,New Flyer,Diesel/Hybrid Electric,,,,,,,,,"","Allison, Voith, ZF",,,,62,Cummins ISL 9L|BAE Systems HybriDrive®|Allison Transmission hybrid drive,"",
+Transit Bus,Xcelsior 60',,New Flyer,CNG - Compressed Natural Gas,,,,,,,,,"","Allison, Voith, ZF",,,,62,Cummins Westport L9N 8.9L Near Zero,"",
+Transit Bus,Xcelsior CHARGE 35',,New Flyer,Electric,,,,,,,,,"",Siemens,,,,32,Siemens  ELFA3 Electric Drive System 160kW,"According to manufacturer: 350kWh or 440kWh battery storage; 179-220 miles range
+",
+Transit Bus,Xcelsior CHARGE 40',,New Flyer,Electric,,,,,,,,,"","",,,,40,Siemens  ELFA3 Electric Drive System 180kW,"According to manufacturer: 350-525kWh battery  storage; 174-251 miles range
+",
+Transit Bus,Xcelsior CHARGE 60',,New Flyer,Electric,,,,,,,,,"","",,,,61,Siemens  ELFA3 Electric Drive System 320kW,"According to manufacturer: Available with ZF AVE130 In-wheel motor center drive axle; 525kWh battery storage; 153 miles range
+",
+Transit Bus,Xcelsior CHARGE H2 40',,New Flyer,Hydrogen Fuel Cell,,,,,,,,,"","",,,,40,Siemens  ELFA2 Electric Drive System 160kW,"",
+Transit Bus,Xcelsior CHARGE H2 60',,New Flyer,Hydrogen Fuel Cell,,,,,,,,,"","",,,,52,Siemens  ELFA2 Electric Drive System 320kW,Also available with the ZF AVE130 In-Wheel Motor Center Drive Axle,
+Street Sweeper,Osprey II sweeper,,Nitehawk,Propane - Bi-fuel,,,,,,,,,"","",,,,"",GMC 6.0L V8,This is a bifuel vehicle based on the GMC 2500HD chassis.,
+Street Sweeper,Osprey II sweeper,,Nitehawk,Ethanol (E85),,,,,,,,,"","",,,,"",Ford 6.2L V8,This is a flex fuel vehicle based on the Ford F-250 chassis,
+Street Sweeper,Raptor II sweeper,,Nitehawk,CNG - Compressed Natural Gas|Propane - Bi-fuel,,,,,,,,,"","",,,,"",GMC 6.0L V8,"Based on the Isuzu NPR chassis. The propane version is bifuel, whereas the CNG version is dedicated.",
+Transit Bus,LFS Artic HEV - Class 8,,Nova Bus,Diesel/Hybrid Electric,,,,,,,,,"","Allison, BAE",,,,62,Cummins ISL 9L|BAE Systems HDS300|Allison Transmission H 50 EP,Total capacity 112 passengers.,
+Transit Bus,LFS CNG - Class 8,,Nova Bus,CNG - Compressed Natural Gas,,,,,,,,,"","ZF, Allison, Voith",,,,41,Cummins Westport L9N 8.9L Near Zero,Total capacity 75 passengers.,
+Transit Bus,LFSe,,Nova Bus,Electric,,,,,,,,,"","",,,,41,Dana TM4 SUMO HD electric powertrain 230 kW / 2700 Nm,Total capacity 71 passengers.,
+Transit Bus,LFSe+,,Nova Bus,Electric,,,,,,,,,"","",,,,41,BAE Systems HDS200,According to manufacturer: Up to 564 kWh battery storage; total capacity 68 passengers.,
+Transit Bus,LFS HEV - Class 8,,Nova Bus,Diesel/Hybrid Electric,,,,,,,,,"","Allison, BAE",,,,41,Cummins ISB6.7,Total capacity 80 passengers.,
+Vocational/Cab Chassis,E1 Cutaway Chassis,,Optimal-EV,Electric,,,,,,,,,Automatic,"",,,,"",Optimal-EV 280 kW rear-mounted motor,"According to manufacturer: Ford E450 platform; 113kW, 326 V, liquid-cooled Proterra battery; <8 hr Level 2 charge, <2 hr fast charge; 125+ miles range",
+Passenger Van/Shuttle Bus,S1 LF Low Floor,,Optimal-EV,Electric,,,,,,,,,Automatic,"",,,,Up to 22,Optimal-EV 280 kW rear-mounted motor,"According to manufacturer: Ford E450 platform; 113kW, 326 V, liquid-cooled Proterra battery; <8 hr Level 2 charge, <2 hr fast charge; 125+ miles range",
+Tractor,T Series terminal,,Orange EV,Electric,,,,,,,,,"","",,,,"","","According to manufacturer: On or off road; 81,000 GCWR; regenerative braking; up to 25mph and 24 hrs w/o charge; off- and on-board charging ",
+Vocational/Cab Chassis,220EV - Class 6,,Peterbilt,Electric,,,,,,,,,Automatic,"",,,,"",Dana TM4 SUMO MD HV2600 250kW,"According to manufacturer: 154kW (207hp) continuous power rating with 265kW peak power. 141 kWh battery storage capacity with estimated 100 mile range, or 282 kWh battery storage capacity with 200 mile estimated range. ",
+Vocational/Cab Chassis,220EV - Class 7,,Peterbilt,Electric,,,,,,,,,Automatic,"",,,,"",Dana TM4 SUMO MD HV3500 350kW,"According to manufacturer: 259kW (347hp) continuous power rating with 350kW peak power. 141 kWh battery storage capacity with estimated 100 mile range, or 282 kWh battery storage capacity with 200 mile estimated range. ",
+Vocational/Cab Chassis,520,,Peterbilt,CNG - Compressed Natural Gas,,,,,,,,,"","Allison, Eaton Manual",,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport ISX12N 11.9L Near Zero,"",
+Refuse,520EV - Class 8,,Peterbilt,Electric,,,,,,,,,Automatic,"",,,,"",Meritor 14Xe e-axles,"According to manufacturer: Meritor 14Xe e-axles available in 400kW (536hp) power rating; 400kWh battery storage capacity; Range of 80-100 miles including 1,100 bin cycles when used with an automated side loader or 130 compactor cycles with a rear loader refuse body. AC and DC fast charging. ",
+Vocational/Cab Chassis,535 - Class 5,,Peterbilt,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,Automatic|Manual,"Allison, Eaton Manual",,,,"",Cummins Westport B6.7N Near Zero,"",
+Vocational/Cab Chassis,536 - Class 6,,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,Automatic|Manual,"Allison, Eaton Manual",,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport B6.7N Near Zero,"",
+Vocational/Cab Chassis,537 - Class 7,,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,Manual|Automatic,"Allison, Eaton Manual",,,,"",Cummins Westport B6.7N Near Zero|Cummins Westport L9N 8.9L Near Zero,"",
+Vocational/Cab Chassis,548 - Class 8,,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,Manual|Automatic,"Allison, Eaton Manual",,,,"",Cummins Westport B6.7N Near Zero|Cummins Westport L9N 8.9L Near Zero,"",
+TractorVocational/Cab Chassis,567 - Class 8,,Peterbilt,LNG - Liquified Natural Gas|CNG - Compressed Natural Gas,,,,,,,,,Automatic|Manual,"Eaton Automated, Allison, Eaton Manual",,,,"",Cummins Westport L9N 8.9L Near Zero|Cummins Westport ISX12N 11.9L Near Zero,"",
+Vocational/Cab ChassisTractor,579,,Peterbilt,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,Automatic|Manual,"Eaton Automated, Allison, Eaton Manual",,,,"",Cummins Westport ISX12N 11.9L Near Zero,"",
+Tractor,579EV - Class 8,,Peterbilt,Electric,,,,,,,,,Automatic,"",,,,"",Meritor 14Xe e-axles,According to manufacturer: Meritor 14Xe e-axles available in 400kW (536hp) continuous power rating with 500kW (670hp) peak power; 400kWh battery storage capacity; estimated 150 miles range.,
+Transit Bus,ZX5 35-Foot Bus - Class 8,,Proterra,Electric,,,,,,,,,"","",,,,29,Proterra ProDrive™ 250kW permanent magnet motor|Proterra Dual independent 205kW motors,According to manufacturer: 338HP peak; 220 kWh battery storage; up to 125 miles range,
+Transit Bus,ZX5+ 35-Foot Bus - Class 8,,Proterra,Electric,,,,,,,,,"","",,,,29,Proterra ProDrive™ 250kW permanent magnet motor|Proterra Dual independent 205kW motors,According to manufacturer: 550HP peak; 440 kWh battery storage; up to 240 miles range,
+Transit Bus,ZX5 40-Foot Bus - Class 8,,Proterra,Electric,,,,,,,,,"","",,,,40,Proterra Dual independent 205kW motors|Proterra ProDrive™ 250kW permanent magnet motor,According to manufacturer: 338HP peak; 220 kWh battery storage; up to 120 miles range,
+Transit Bus,ZX5+ 40-Foot Bus - Class 8,,Proterra,Electric,,,,,,,,,"","",,,,40,Proterra ProDrive™ 250kW permanent magnet motor|Proterra Dual independent 205kW motors,According to manufacturer: 550HP peak; 440 kWh battery storage; up to 232 miles range,
+Transit Bus,ZX5MAX 40-Foot Bus - Class 8,,Proterra,Electric,,,,,,,,,"","",,,,40,Proterra Dual independent 205kW motors|Proterra ProDrive™ 250kW permanent magnet motor,According to manufacturer: 550HP peak; 660 kWh battery storage; up to 329 miles range,
+Pickup,2500/3500 HD,,RAM,Biodiesel (B20),,,,,,,,,"","",,,,"",Cummins ISB6.7,,
+Vocational/Cab Chassis,3500/4500/5500,,RAM,Biodiesel (B20),,,,,,,,,"","",,,,"",Cummins ISB6.7,,
+Street Sweeper,A7 Tornado sweeper - Class 6,,Schwarze Industries,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"","","",
+Street Sweeper,A7 Zephyr sweeper - Class 6,,Schwarze Industries,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"","","",
+Street Sweeper,M6 Avalanche,,Schwarze Industries,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"","","",
+Passenger Van/Shuttle Bus,Allstar 22,,Starcraft,Electric,,,,,,,,,"","",,,,23,Phoenix Motorcars E200 (TM4) 240kW electric motor,According to manufacturer: Equipped with Phoenix Motorcars Phoenix E200 (TM4) 240kW electric motor; up to 90 miles range,
+School Bus,E-Quest,,Starcraft,Electric,,,,,,,,,"","",,,,23,Phoenix Motorcars E200 (TM4) 240kW electric motor,According to manufacturer: Equipped with Phoenix Motorcars Phoenix E200 (TM4) 240kW electric motor; up to 150 miles range,
+School Bus,E-Quest XL,,Starcraft,Electric,,,,,,,,,"","",,,,47 or 8 wheelchairs,"Motiv Power Systems EPIC 5, EPIC 6 250kW electric motor",According to manufacturer: 127 kWh battery; 100 miles range,
+School Bus,Minotour - Class 4,,Thomas Built,CNG - Compressed Natural Gas|Propane,,,,,,,,,"","",,,,30,Freightliner Custom Chassis DriveForce 6.0L V8|GMC 6.0L V8,"",
+Passenger Van/Shuttle Bus,Minotour Activity - Class 4,,Thomas Built,CNG - Compressed Natural Gas|Propane,,,,,,,,,"","",,,,30,GMC 6.0L V8|Freightliner Custom Chassis DriveForce 6.0L V8,"",
+Passenger Van/Shuttle Bus,Saf-T-Liner C2 Activity,,Thomas Built,CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,81,Cummins Westport B6.7N Near Zero,"",
+School Bus,Saf-T-Liner C2 Jouley,,Thomas Built,Electric,,,,,,,,,Automatic,"",,,,81,"",According to manufacturer: 155 kWh battery; up to 120 miles range,
+School Bus,Saf-T-Liner HDX - Class 8,,Thomas Built,CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,90,Cummins Westport L9N 8.9L Near Zero,,
+Passenger Van/Shuttle Bus,Saf-T-Liner HDX Activity - Class 8,,Thomas Built,CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,90,Cummins Westport L9N 8.9L Near Zero,,
+Passenger Van/Shuttle Bus,Transit-Liner C2,,Thomas Built,CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,52,Cummins Westport B6.7N Near Zero,"",
+Passenger Van/Shuttle Bus,Transit-Liner HDX,,Thomas Built,CNG - Compressed Natural Gas,,,,,,,,,"",Allison,,,,54,Cummins Westport L9N 8.9L Near Zero,"",
+Tractor,Pro Spotter,,TICO,CNG - Compressed Natural Gas|LNG - Liquified Natural Gas,,,,,,,,,"","",,,,"",Cummins Westport B6.7N Near Zero,"",
+Passenger Van/Shuttle Bus,Ford - Odyssey,,Turtle Top,Propane|CNG - Compressed Natural Gas,,,,,,,,,"","",,,,25,Ford 7.3L V8,"",
+Passenger Van/Shuttle Bus,Ford - Odyssey XL,,Turtle Top,CNG - Compressed Natural Gas|Propane,,,,,,,,,"","",,,,36-49,Ford 7.3L V8,"",
+Passenger Van/Shuttle Bus,Ford - Terra Transit,,Turtle Top,Electric,,,,,,,,,"","",,,,Up to 34,Motiv Power Systems 150kW electric motor,"",
+Passenger Van/Shuttle Bus,Ford - Van Terra,,Turtle Top,CNG - Compressed Natural Gas|Propane,,,,,,,,,"","",,,,15-18,Ford 7.3L V8,"",
+Passenger Van/Shuttle Bus,Ford - VT3,,Turtle Top,Propane|CNG - Compressed Natural Gas,,,,,,,,,"","",,,,17,"","",
+Street Sweeper,500x,,TYMCO,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"",Cummins Westport L9N 8.9L Near Zero,,
+Street Sweeper,600,,TYMCO,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"",Cummins Westport L9N 8.9L Near Zero,,
+Street Sweeper,HSP,,TYMCO,CNG - Compressed Natural Gas,,,,,,,,,"","",,,,"",Cummins Westport L9N 8.9L Near Zero,"",
+Step Van,(various models),,Utilimaster,Electric,,,,,,,,,Automatic,"",,,,"","",According to manufacturer: Various platforms available; contact Utilimaster,
+Transit Bus,CX45E,,Van Hool,Electric,,,,,,,,,"","",,,,Up to 56,Siemens  ELFA2 Electric Drive System 360kW,According to manufacturer: 676 kWh battery storage; up to 195 miles range,
+Tractor,VNR Electric - Class 8,,Volvo,Electric,,,,,,,,,"","",,,,"","","According to manufacturer: 340kW; 455hp; 4,051 lb-ft torgue; 264 kwh battery; Straight truck up to 150 mi; 4x2 Tractor up to 120 mi; 6x2 up to 120 mi; 80% Charging in 70 mins.
+",
+Step Van,C-Series,,Workhorse,Electric,,,,,,,,,Automatic,"",,,,"",Workhorse Dual Axial Flux Interior Permanent Magnet Motors,According to manufacturer: Up to 105 kWh battery and 150 miles range. ,
