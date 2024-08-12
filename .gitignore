@@ -1,5 +1,6 @@
 env/
 
-producto/app.py
+**/__pycache__/
 
+.streamlit/secrets.toml
 
