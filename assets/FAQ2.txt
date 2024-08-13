@@ -1,74 +1,239 @@
-pregunta: ¿Cuál es el objetivo general del proyecto?
-respuesta: El objetivo general del proyecto es maximizar la efectividad de la información disponible para que el cliente pueda obtener un marco de referencia y tomar decisiones bien fundamentadas.
+pregunta: ¿Cual es el objetivo general del proyecto?
+respuesta: El objetivo general del proyecto es maximizar la efectividad de la informacion disponible para que el cliente pueda obtener un marco de referencia y tomar decisiones bien fundamentadas.
     
     
-pregunta: ¿Cuál es la situación actual en el proyecto?
-respuesta: La situación actual es que la startup NYC GreenCab busca reducir la contaminación de CO2 y promover el uso de autos eléctricos o de menor consumo de combustibles fósiles en la ciudad de Nueva York.
+pregunta: ¿Cual es la situacion actual en el proyecto?
+respuesta: La situacion actual es que la startup NYC GreenCab busca reducir la contaminacion de CO2 y promover el uso de autos electricos o de menor consumo de combustibles fosiles en la ciudad de Nueva York.
     
     
-pregunta: ¿Qué es NYC GreenCab?
-respuesta: NYC GreenCab es una empresa de transporte de pasajeros ecológico que pretende ingresar al mercado de taxis en Nueva York con el objetivo de reducir la contaminación y fomentar el uso de vehículos eléctricos o híbridos.
+pregunta: ¿Que es NYC GreenCab?
+respuesta: NYC GreenCab es una empresa de transporte de pasajeros ecologico que pretende ingresar al mercado de taxis en Nueva York con el objetivo de reducir la contaminacion y fomentar el uso de vehiculos electricos o hibridos.
     
     
-pregunta: ¿Qué datos se están utilizando para el análisis?
-respuesta: Se están utilizando datos de los últimos 6 meses sobre la contaminación de CO2 y los viajes en taxis verdes y amarillos en la ciudad de Nueva York.
+pregunta: ¿Que datos se estan utilizando para el analisis?
+respuesta: Se estan utilizando datos de los ultimos 6 meses sobre la contaminacion de CO2 y los viajes en taxis verdes y amarillos en la ciudad de Nueva York.
     
     
-pregunta: ¿Qué herramientas y tecnologías se utilizan en el proyecto?
-respuesta: Se utilizan herramientas como Visual Studio Code Python pandas matplotlib seaborn scikit-learn skforecast Google Cloud Platform BigQuery Cloud SQL Power BI y Streamlit para el desarrollo análisis almacenamiento y visualización de datos.
+pregunta: ¿Que herramientas y tecnologias se utilizan en el proyecto?
+respuesta: Se utilizan herramientas como Visual Studio Code Python pandas matplotlib seaborn scikit-learn skforecast Google Cloud Platform BigQuery Cloud SQL Power BI y Streamlit para el desarrollo analisis almacenamiento y visualizacion de datos.
     
     
-pregunta: ¿Cómo se almacena y utiliza la información en el proyecto?
-respuesta: Los datos se almacenan en un Data Warehouse en la nube y se utilizan para crear y entrenar modelos de machine learning así como para visualizar los resultados en herramientas de BI.
+pregunta: ¿Como se almacena y utiliza la informacion en el proyecto?
+respuesta: Los datos se almacenan en un Data Warehouse en la nube y se utilizan para crear y entrenar modelos de machine learning asi como para visualizar los resultados en herramientas de BI.
     
     
-pregunta: ¿Cuáles son los objetivos específicos del proyecto?
-respuesta: Los objetivos específicos son elaborar un estudio de la situación actual del sector de transporte en NYC crear modelos de ML para analizar el mercado de autos eléctricos/híbridos informar sobre la contaminación de CO2 diseñar un dashboard informativo y desarrollar un Data Warehouse para análisis futuros.
+pregunta: ¿Cuales son los objetivos especificos del proyecto?
+respuesta: Los objetivos especificos son elaborar un estudio de la situacion actual del sector de transporte en NYC crear modelos de ML para analizar el mercado de autos electricos/hibridos informar sobre la contaminacion de CO2 diseñar un dashboard informativo y desarrollar un Data Warehouse para analisis futuros.
     
     
-pregunta: ¿Cómo se definen los KPIs en el proyecto?
-respuesta: Los KPIs incluyen el incremento de CO2 el ratio de taxis verdes el ROI y los viajes intra-borough. Cada KPI tiene una definición específica y una meta que se debe alcanzar para evaluar el éxito del proyecto.
+pregunta: ¿Como se definen los KPIs en el proyecto?
+respuesta: Los KPIs incluyen el incremento de CO2 el ratio de taxis verdes el ROI y los viajes intra-borough. Cada KPI tiene una definicion especifica y una meta que se debe alcanzar para evaluar el exito del proyecto.
     
     
-pregunta: ¿Qué es un ciclo de vida del dato?
-respuesta: El ciclo de vida del dato incluye la recopilación depuración procesamiento almacenamiento utilización y análisis de los datos para asegurar su calidad y utilidad en el proyecto.
+pregunta: ¿Que es un ciclo de vida del dato?
+respuesta: El ciclo de vida del dato incluye la recopilacion depuracion procesamiento almacenamiento utilizacion y analisis de los datos para asegurar su calidad y utilidad en el proyecto.
     
     
-pregunta: ¿Qué es un Data Warehouse y cómo se utiliza en el proyecto?
-respuesta: Un Data Warehouse es un sistema de almacenamiento de datos que permite consolidar información de diferentes fuentes para su análisis. En el proyecto se utiliza para almacenar todos los datos y automatizar su ciclo de vida para futuros análisis.
+pregunta: ¿Que es un Data Warehouse y como se utiliza en el proyecto?
+respuesta: Un Data Warehouse es un sistema de almacenamiento de datos que permite consolidar informacion de diferentes fuentes para su analisis. En el proyecto se utiliza para almacenar todos los datos y automatizar su ciclo de vida para futuros analisis.
     
     
-pregunta: ¿Qué es BigQuery y cómo se utiliza en el proyecto?
-respuesta: BigQuery es un servicio de Google Cloud para manejar y almacenar grandes volúmenes de datos. Se utiliza para realizar consultas SQL y analizar datos extensos apoyando el desarrollo de modelos de machine learning.
+pregunta: ¿Que es BigQuery y como se utiliza en el proyecto?
+respuesta: BigQuery es un servicio de Google Cloud para manejar y almacenar grandes volumenes de datos. Se utiliza para realizar consultas SQL y analizar datos extensos apoyando el desarrollo de modelos de machine learning.
     
     
-pregunta: ¿Qué es Cloud SQL y cuál es su función en el proyecto?
-respuesta: Cloud SQL es un servicio de Google Cloud para manejar datos en la nube con modelos relacionales. Se utiliza para el análisis de datos creando relaciones entre tablas y extrayendo información cruzada para análisis detallados.
+pregunta: ¿Que es Cloud SQL y cual es su funcion en el proyecto?
+respuesta: Cloud SQL es un servicio de Google Cloud para manejar datos en la nube con modelos relacionales. Se utiliza para el analisis de datos creando relaciones entre tablas y extrayendo informacion cruzada para analisis detallados.
     
     
-pregunta: ¿Cómo se lleva a cabo el procesamiento de datos en el proyecto?
-respuesta: El procesamiento de datos se realiza a través de un ETL (extracción transformación y carga) para limpiar y preparar los datos para su análisis. Los datos se recogen mensualmente y se almacenan en el Data Warehouse para su uso en modelos de ML y visualizaciones.
+pregunta: ¿Como se lleva a cabo el procesamiento de datos en el proyecto?
+respuesta: El procesamiento de datos se realiza a traves de un ETL (extraccion transformacion y carga) para limpiar y preparar los datos para su analisis. Los datos se recogen mensualmente y se almacenan en el Data Warehouse para su uso en modelos de ML y visualizaciones.
     
     
-pregunta: ¿Qué es Streamlit y cómo se usa en el proyecto?
-respuesta: Streamlit es una biblioteca de Python que facilita la implementación de dashboards interactivos. Se utiliza para presentar los resultados de los modelos de machine learning de manera sencilla y visual en la aplicación.
+pregunta: ¿Que es Streamlit y como se usa en el proyecto?
+respuesta: Streamlit es una biblioteca de Python que facilita la implementacion de dashboards interactivos. Se utiliza para presentar los resultados de los modelos de machine learning de manera sencilla y visual en la aplicacion.
     
     
-pregunta: ¿Cuál es el objetivo principal del proyecto?
-respuesta: El objetivo principal es mejorar la efectividad de la información disponible para tomar decisiones bien fundamentadas.
+pregunta: ¿Cual es el objetivo principal del proyecto?
+respuesta: El objetivo principal es mejorar la efectividad de la informacion disponible para tomar decisiones bien fundamentadas.
     
     
-pregunta: ¿Qué está haciendo NYC GreenCab?
-respuesta: NYC GreenCab está introduciendo taxis ecológicos en Nueva York para reducir la contaminación de CO2 y fomentar el uso de vehículos eléctricos.
+pregunta: ¿Que esta haciendo NYC GreenCab?
+respuesta: NYC GreenCab esta introduciendo taxis ecologicos en Nueva York para reducir la contaminacion de CO2 y fomentar el uso de vehiculos electricos.
     
     
-pregunta: ¿Qué datos se están analizando?
-respuesta: Los datos analizados incluyen información sobre la contaminación de CO2 y los viajes en taxis en Nueva York.
+pregunta: ¿Que datos se estan analizando?
+respuesta: Los datos analizados incluyen informacion sobre la contaminacion de CO2 y los viajes en taxis en Nueva York.
     
     
-pregunta: ¿Qué herramientas se usan en el proyecto?
+pregunta: ¿Que herramientas se usan en el proyecto?
 respuesta: Se usan herramientas como VS Code Python pandas matplotlib seaborn scikit-learn entre otras.
     
     
-pregunta: ¿Qué es un Data Warehouse?
-respuesta: Un Data Warehouse es un sistema para almacenar datos de manera consolidada para análisis y consulta.
+pregunta: ¿Que es un Data Warehouse?
+respuesta: Un Data Warehouse es un sistema para almacenar datos de manera consolidada para analisis y consulta.
+
+pregunta: ¿Cual es el proposito de la empresa NYC GreenCab?
+respuesta: El proposito de NYC GreenCab es reducir la contaminacion de CO2 y promover el uso de autos electricos o de menor consumo de combustibles fosiles en la ciudad de Nueva York.
+
+pregunta: ¿Que se busca lograr con el analisis de datos del proyecto?
+respuesta: Se busca maximizar la efectividad de la informacion disponible para que el cliente pueda tomar decisiones bien fundamentadas sobre el negocio de taxis ecologicos en NYC.
+
+pregunta: ¿Que datos se estan utilizando para el analisis?
+respuesta: Se estan utilizando datos de los ultimos 6 meses sobre la contaminacion de CO2 y los viajes en taxis verdes y amarillos en la ciudad de Nueva York.
+
+pregunta: ¿Que es el ciclo de vida del dato en el proyecto?
+respuesta: El ciclo de vida del dato incluye la recopilacion, depuracion, procesamiento, almacenamiento, utilizacion y analisis de los datos para asegurar su calidad y utilidad en el proyecto.
+
+pregunta: ¿Cual es el objetivo general del proyecto?
+respuesta: El objetivo general del proyecto es maximizar la efectividad de la informacion disponible para que el cliente pueda obtener un marco de referencia y tomar decisiones bien fundamentadas.
+
+pregunta: ¿Cuales son los objetivos especificos del proyecto?
+respuesta: Los objetivos especificos incluyen estudiar la situacion actual del transporte en NYC, crear modelos de ML para analizar el mercado de autos electricos/hibridos, informar sobre la contaminacion de CO2, diseñar un dashboard informativo, y desarrollar un Data Warehouse para analisis futuros.
+
+pregunta: ¿Que es un Data Warehouse y como se utiliza en el proyecto?
+respuesta: Un Data Warehouse es un sistema de almacenamiento de datos que permite consolidar informacion de diferentes fuentes para su analisis. En el proyecto, se utiliza para almacenar todos los datos y automatizar su ciclo de vida para futuros analisis.
+
+pregunta: ¿Que herramientas se utilizan en el proyecto?
+respuesta: Se utilizan herramientas como Visual Studio Code, Python, pandas, matplotlib, seaborn, scikit-learn, skforecast, Google Cloud Platform, BigQuery, Cloud SQL, Power BI y Streamlit.
+
+pregunta: ¿Que es BigQuery y como se utiliza en el proyecto?
+respuesta: BigQuery es un servicio de Google Cloud para manejar y almacenar grandes volumenes de datos. Se utiliza para realizar consultas SQL y analizar datos extensos, apoyando el desarrollo de modelos de machine learning.
+
+pregunta: ¿Que es Cloud SQL y cual es su funcion en el proyecto?
+respuesta: Cloud SQL es un servicio de Google Cloud para manejar datos en la nube con modelos relacionales. Se utiliza para el analisis de datos creando relaciones entre tablas y extrayendo informacion cruzada para analisis detallados.
+
+pregunta: ¿Que es Streamlit y como se usa en el proyecto?
+respuesta: Streamlit es una biblioteca de Python que facilita la implementacion de dashboards interactivos. Se utiliza para presentar los resultados de los modelos de machine learning de manera sencilla y visual en la aplicacion.
+
+pregunta: ¿Que es un KPI y como se define en el proyecto?
+respuesta: Un KPI es un indicador clave de rendimiento que se utiliza para medir el exito de un proyecto. En el proyecto, los KPIs incluyen el incremento de CO2, el ratio de taxis verdes, el ROI y los viajes intra-borough, con metas especificas a alcanzar.
+
+pregunta: ¿Que es skforecast y por que se utiliza en el proyecto?
+respuesta: Skforecast es una biblioteca especializada en la adaptacion de modelos de regresion lineal para problemas de series temporales. Se utiliza en el proyecto para realizar pronosticos precisos basados en datos historicos.
+
+pregunta: ¿Que es un modelo de ML y como se aplica en el proyecto?
+respuesta: Un modelo de ML es un modelo de machine learning que se utiliza para hacer predicciones basadas en datos. En el proyecto, se crean modelos de ML para analizar el mercado de autos electricos/hibridos y la contaminacion de CO2 en NYC.
+
+pregunta: ¿Que es el ETL y cual es su rol en el proyecto?
+respuesta: ETL significa Extraccion, Transformacion y Carga, y es un proceso utilizado para limpiar y preparar datos para su analisis. En el proyecto, se utiliza ETL para mantener los datos limpios y listos para su uso en modelos de ML y visualizaciones.
+
+pregunta: ¿Cual es el rol de Visual Studio Code en el proyecto?
+respuesta: Visual Studio Code se utiliza en el proyecto por su interfaz intuitiva y su capacidad de integrar diversas herramientas y procesos de desarrollo, facilitando el trabajo con Python y otras tecnologias.
+
+pregunta: ¿Que tipos de datos se analizan en el proyecto?
+respuesta: Los tipos de datos analizados incluyen datos sobre la contaminacion de CO2, los viajes en taxis verdes y amarillos, y las zonas de operacion de taxis en la ciudad de Nueva York.
+
+pregunta: ¿Cual es el objetivo del KPI “Ratio de Taxis Verdes”?
+respuesta: El objetivo del KPI “Ratio de Taxis Verdes” es alcanzar un aumento del 2% en el uso de taxis verdes en NYC por mes.
+
+pregunta: ¿Que significa ROI en el contexto del proyecto?
+respuesta: ROI significa Retorno sobre la Inversion, y en el proyecto se utiliza para evaluar la ganancia neta por viajes por semana, con el objetivo de alcanzar un aumento del 1% en la ganancia neta respecto al mes anterior.
+
+pregunta: ¿Que se espera lograr con el KPI “Incremento de CO2”?
+respuesta: Se espera alcanzar una reduccion del 2% en la generacion de CO2 tras seis meses, evaluando la generacion de CO2 mes a mes.
+
+pregunta: ¿Que se analiza con el KPI “Viajes Intra-Borough”?
+respuesta: El KPI “Viajes Intra-Borough” se utiliza para evaluar la cantidad de viajes dentro de los boroughs de NYC mes a mes, con el objetivo de definir oportunidades de ubicacion para taxis.
+
+pregunta: ¿Que tecnologias de Google Cloud se utilizan en el proyecto?
+respuesta: Se utilizan tecnologias de Google Cloud como Google Cloud Platform, BigQuery, Cloud SQL y Cloud Functions para el almacenamiento, procesamiento y automatizacion de datos en el proyecto.
+
+pregunta: ¿Como se asegura la calidad de los datos en el proyecto?
+respuesta: La calidad de los datos se asegura a traves de un proceso de depuracion y procesamiento, que incluye la eliminacion de duplicados, la correccion de outliers y la validacion de datos antes de su almacenamiento en el Data Warehouse.
+
+pregunta: ¿Que visualizaciones se incluyen en el dashboard de BI?
+respuesta: El dashboard de BI incluye visualizaciones de la situacion actual del mercado de transporte en NYC, predicciones sobre la flota de autos hibridos/electricos, y el analisis de la contaminacion de CO2.
+
+pregunta: ¿Cual es el rol de Power BI en el proyecto?
+respuesta: Power BI se utiliza para crear y presentar el dashboard que muestra el analisis de los datos y las medidas recomendadas para la empresa, convirtiendo los datos en informacion util para el cliente.
+
+pregunta: ¿Como se automatizan los procesos en el proyecto?
+respuesta: Los procesos se automatizan utilizando Cloud Functions, que permite la extraccion, transformacion y carga de los datos (ETL) de manera automatizada.
+
+pregunta: ¿Que tipo de datos se incluyen en el analisis de la economia de combustible?
+respuesta: El analisis de la economia de combustible incluye datos sobre los diferentes tipos de taxis amarillos y sus caracteristicas tecnicas, como el consumo de combustible.
+
+pregunta: ¿Que analisis se realiza con los datos de taxis hibridos/electricos?
+respuesta: Se analiza la distribucion y el rendimiento de los taxis hibridos/electricos, incluyendo caracteristicas tecnicas y su impacto en la economia de combustible y la contaminacion de CO2.
+
+pregunta: ¿Como se utilizan los datos de la NYC Taxi and Limousine Commission en el proyecto?
+respuesta: Los datos de la NYC Taxi and Limousine Commission se utilizan para analizar los patrones de viaje de los taxis en NYC, incluyendo viajes realizados, zonas de operacion y tendencias de uso de taxis verdes y amarillos.
+
+pregunta: ¿Cual es el proposito del analisis de la contaminacion de CO2 en el proyecto?
+respuesta: El proposito del analisis de la contaminacion de CO2 es evaluar como varia la contaminacion en NYC y utilizar esta informacion para fundamentar la implementacion de taxis ecologicos.
+
+pregunta: ¿Que se busca con el analisis de las zonas de operacion de taxis en NYC?
+respuesta: Se busca identificar las zonas con mayor demanda y oportunidad de crecimiento para la operacion de taxis verdes, optimizando la distribucion y el rendimiento de la flota.
+
+pregunta: ¿Como se usa Python en el proyecto?
+respuesta: Python se utiliza para realizar analisis de datos, construir modelos de machine learning, y crear visualizaciones y dashboards, aprovechando su versatilidad y la disponibilidad de bibliotecas especializadas.
+
+pregunta: ¿Que analisis se realiza en la primera etapa del EDA?
+respuesta: En la primera etapa del EDA, se importan todas las librerias necesarias y se verifica la calidad de los datos, incluyendo la eliminacion de duplicados y la validacion de los tipos de datos.
+
+pregunta: ¿Que tipos de datos se incluyen en el analisis de “Taxi Zone Lookup Table”?
+respuesta: Se incluyen datos sobre la zona de operacion de los taxis en NYC, como el nombre de la zona, el borough correspondiente y la localizacion en coordenadas geograficas.
+
+pregunta: ¿Que medidas se implementan para maximizar la efectividad de la informacion?
+respuesta: Se implementan medidas como la creacion de un Data Warehouse para almacenar y analizar datos a largo plazo, la depuracion y procesamiento de datos, y la utilizacion de herramientas de visualizacion para facilitar la interpretacion de la informacion.
+
+pregunta: ¿Que es la NYC Taxi and Limousine Commission?
+respuesta: La NYC Taxi and Limousine Commission (TLC) es la agencia reguladora que supervisa la industria de taxis y vehiculos de alquiler en la ciudad de Nueva York, incluyendo taxis verdes y amarillos.
+
+pregunta: ¿Como se mide el exito de la implementacion de taxis verdes?
+respuesta: El exito se mide a traves de KPIs especificos como la reduccion de CO2, el incremento del ratio de taxis verdes, y el aumento del ROI y los viajes intra-borough.
+
+pregunta: ¿Que tipo de analisis se realiza para entender la contaminacion de CO2 en NYC?
+respuesta: Se realiza un analisis de series temporales y se comparan datos historicos para identificar tendencias en la generacion de CO2 y evaluar el impacto potencial de los taxis verdes.
+
+pregunta: ¿Cual es el rol de las predicciones en el proyecto?
+respuesta: Las predicciones se utilizan para estimar el futuro impacto de la implementacion de taxis verdes en el mercado de transporte de NYC y la reduccion de la contaminacion de CO2.
+
+pregunta: ¿Como se define la efectividad en el contexto del proyecto?
+respuesta: La efectividad se define como la capacidad del proyecto para proporcionar informacion valiosa que ayude al cliente a tomar decisiones bien fundamentadas, optimizando la operacion y el rendimiento de los taxis verdes en NYC.
+
+pregunta: ¿Que es un dashboard y como se utiliza en el proyecto?
+respuesta: Un dashboard es una interfaz visual que presenta datos e indicadores clave de rendimiento de manera clara y concisa. En el proyecto, se utiliza para mostrar los resultados del analisis de datos y los modelos de ML.
+
+pregunta: ¿Como se gestionan los datos historicos en el proyecto?
+respuesta: Los datos historicos se almacenan en un Data Warehouse y se utilizan para analizar tendencias y realizar predicciones sobre el mercado de taxis en NYC.
+
+pregunta: ¿Que es un outlier y como se trata en el proyecto?
+respuesta: Un outlier es un dato que se desvia significativamente del resto de los datos. En el proyecto, se identifican y se tratan los outliers para asegurar la precision del analisis.
+
+pregunta: ¿Que es la depuracion de datos y por que es importante?
+respuesta: La depuracion de datos es el proceso de limpiar y preparar los datos para su analisis, eliminando errores, duplicados y outliers. Es crucial para garantizar la calidad y la precision del analisis.
+
+pregunta: ¿Como se utiliza la API de Google Cloud en el proyecto?
+respuesta: La API de Google Cloud se utiliza para gestionar y procesar grandes volumenes de datos en la nube, facilitando el analisis y la automatizacion de procesos en el proyecto.
+
+pregunta: ¿Que son las funciones de Cloud y como benefician al proyecto?
+respuesta: Las funciones de Cloud son piezas de codigo que se ejecutan en la nube en respuesta a eventos especificos. En el proyecto, se utilizan para automatizar procesos de ETL y analisis de datos, mejorando la eficiencia.
+
+pregunta: ¿Que es un modelo de regresion lineal y como se utiliza en el proyecto?
+respuesta: Un modelo de regresion lineal es un tipo de modelo de machine learning que predice un valor numerico basandose en la relacion lineal entre variables. En el proyecto, se utiliza para analizar la relacion entre diferentes factores y la contaminacion de CO2.
+
+pregunta: ¿Que papel juega la visualizacion de datos en el proyecto?
+respuesta: La visualizacion de datos ayuda a convertir los resultados del analisis en informacion facilmente interpretable, permitiendo al cliente entender mejor las tendencias y tomar decisiones informadas.
+
+pregunta: ¿Como se asegura la automatizacion del ciclo de vida del dato?
+respuesta: La automatizacion del ciclo de vida del dato se asegura utilizando herramientas de ETL y funciones en la nube, que permiten la actualizacion y el procesamiento continuo de los datos sin intervencion manual.
+
+pregunta: ¿Como se utiliza la segmentacion de datos en el proyecto?
+respuesta: La segmentacion de datos se utiliza para dividir los datos en grupos mas pequeños y especificos, lo que permite un analisis mas detallado y dirigido a diferentes aspectos del mercado de taxis en NYC.
+
+pregunta: ¿Que es un analisis de series temporales y por que es relevante en el proyecto?
+respuesta: Un analisis de series temporales examina los datos a lo largo del tiempo para identificar tendencias y patrones. Es relevante en el proyecto para predecir el impacto futuro de los taxis verdes y la evolucion de la contaminacion de CO2.
+
+pregunta: ¿Como se implementa el aprendizaje automatico en el proyecto?
+respuesta: El aprendizaje automatico se implementa mediante la creacion de modelos que aprenden de los datos historicos para hacer predicciones y recomendaciones sobre el uso de taxis verdes y la reduccion de CO2.
+
+pregunta: ¿Cual es la importancia de la limpieza de datos antes del analisis?
+respuesta: La limpieza de datos es fundamental para eliminar errores y asegurar que los resultados del analisis sean precisos y confiables, evitando conclusiones incorrectas basadas en datos defectuosos.
+
+pregunta: ¿Que es un pronostico y como se aplica en el proyecto?
+respuesta: Un pronostico es una prediccion basada en datos historicos y modelos de machine learning. En el proyecto, se utiliza para estimar la futura evolucion del mercado de taxis verdes y la contaminacion en NYC.
+
+pregunta: ¿Que es una base de datos relacional y como se utiliza en el proyecto?
+respuesta: Una base de datos relacional es un sistema que organiza los datos en tablas interrelacionadas. En el proyecto, se utiliza para almacenar y gestionar los datos de manera estructurada, facilitando su analisis y consulta.

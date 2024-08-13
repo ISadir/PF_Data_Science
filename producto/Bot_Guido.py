@@ -1,90 +1,30 @@
-import streamlit as st
-from langchain_ollama import OllamaLLM
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import cosine_similarity
 #agentes: que divida archivo en base de dato de texto usar metodo de similaridad por coseno (Todo en langchain)
 #Y crear un documento con todos los datos a necesitar. Pipelines
 #Retrieval Augmented Generation (RAG)
+path = 'assets/FAQ2.txt'
+import streamlit as st
+from langchain_core.prompts import ChatPromptTemplate
+from langchain_ollama.llms import OllamaLLM
 
-def jaccard_similarity(query, document):
-    query = query.lower().split(" ")
-    document = document.lower().split(" ")
-    intersection = set(query).intersection(set(document))
-    union = set(query).union(set(document))
-    return len(intersection) / len(union)
+# Configurar Ollama
+llm = OllamaLLM(model='llama3.1:latest')
 
-def calcular_similaridad_jac(prompt, faq_data):
-    # Divide el FAQ en preguntas y respuestas
-    faqs = faq_data.split("\n\n")  # Asumiendo que las preguntas y respuestas están separadas por dos saltos de línea
+# Función para obtener la respuesta del modelo
+def respuesta(llm, pregunta):
+    with open(path,'r') as file:
+        contexto = file.read() # leer el archivo de texto
+    template = """{contexto} 
 
-    # Inicializa la mejor similitud
-    best_similarity = 0
+    Pregunta: {pregunta}
+    Respuesta:""" # plantilla para el prompt
 
-    # Recorre cada FAQ y calcula la similitud con el prompt
-    for faq in faqs:
-        if ':' in faq:  # Verifica que el texto contiene una pregunta y respuesta
-            pregunta, respuesta = faq.split(':', 1)
-            pregunta = pregunta.strip()
-            respuesta = respuesta.strip()
-            
-            # Calcula la similitud Jaccard para la pregunta
-            similarity = jaccard_similarity(prompt, pregunta)
-            if similarity > best_similarity:
-                best_similarity = similarity
-                best_response = respuesta
+    prompt = ChatPromptTemplate.from_template(template) # crear el prompt
 
-    return best_response if best_similarity > 0.2 else None  # Ajusta el umbral según sea necesario
+    chain = prompt | llm # concatenar el prompt con el modelo
 
-def respuesta_jac(llm, prompt):
-    # Leer el archivo FAQ.txt
-    with open("assets/FAQ2.txt", "r", encoding="utf-8") as file:
-        faq_data = file.read()
+    return chain.invoke({"contexto": contexto, "pregunta": pregunta}) # invocar el modelo
 
-    # Calcular la similitud entre el prompt y el contenido del FAQ
-    best_response = calcular_similaridad_jac(prompt, faq_data)
-
-    if best_response:
-        # Si se encuentra una respuesta adecuada en el FAQ
-        return best_response
-    else:
-        # Obtener la respuesta utilizando el conocimiento general del LLM
-        response = llm.generate(prompts=[f"Pregunta: {prompt}\n\nRespuesta:"])
-        return response.generations[0][0].text
-
-def calcular_similaridad_cos(prompt, faq_data):
-    # Combina el prompt y el contenido del FAQ para calcular la similaridad
-    textos = [prompt, faq_data]
-    
-    # Transforma los textos en vectores TF-IDF
-    vectorizer = TfidfVectorizer().fit_transform(textos)
-    
-    # Calcula la similaridad coseno
-    similarity_matrix = cosine_similarity(vectorizer[0:1], vectorizer)
-    
-    # Retorna la similaridad entre el prompt y el contenido del FAQ
-    return similarity_matrix[0][1]
-
-def respuesta_cos(llm, prompt):
-    # Leer el archivo FAQ.txt
-    with open("assets/FAQ2.txt", "r", encoding="utf-8") as file: #Archivo txt
-        faq_data = file.read()
-    
-    # Calcular la similitud entre el prompt y el contenido del FAQ
-    similarity_score = calcular_similaridad_cos(prompt)
-
-    # Calcular la similitud entre el prompt y el contenido del archivo FAQ.txt
-    similarity_score = calcular_similaridad_cos(prompt, faq_data) #Para archivo txt
-
-    # Si la similitud es mayor a un umbral determinado, seleccionar la respuesta correspondiente
-    if similarity_score > 0.8:
-        # Obtener la respuesta utilizando el modelo LLM y el contenido del archivo FAQ.txt
-        #response = llm.generate(prompts=[f"Basado en la siguiente información: {faq_data}\n\nPregunta: {prompt}\n\nRespuesta:"])
-        response = llm.generate(prompts=[f"Este es un extracto de un archivo FAQ que contiene información relevante para tu pregunta:\n\n{faq_data}\n\nPregunta: {prompt}\n\nPor favor, proporciona una respuesta basada en la información anterior."])
-    else:
-        # Obtener la respuesta utilizando el conocimiento general del LLM
-        response = llm.generate(prompts=[f"Pregunta: {prompt}\n\nRespuesta:"])
-
-    return response.generations[0][0].text
+#Streamlit
 
 st.title("Asistente virtual 🐱‍💻")
 
@@ -113,9 +53,8 @@ if prompt := st.chat_input("Tu consulta"):
     st.session_state.messages.append({"role":"user", "content":prompt}) #agregar al historial
 
 
-    response = respuesta_jac(llm, prompt) #Cambiar si desea usar la similaridad por coseno o jaccard
+    response = respuesta(llm, prompt) # obtener respuesta
 
     with st.chat_message("assistant"):
        st.markdown(response) #respuesta del bot
     st.session_state.messages.append({"role":"assistant", "content":response}) #agregar al historial
-
