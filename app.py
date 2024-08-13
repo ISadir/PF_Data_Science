@@ -19,7 +19,7 @@ pagina3 = st.Page(
     icon = ':material/finance:')
 
 pagina4 = st.Page(
-    page = 'producto/Bot.py',
+    page = 'producto/Bot_Guido.py',
     title = 'Asistente virtual',
     icon = ':material/smart_toy:')
 

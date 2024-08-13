@@ -1,0 +1,103 @@
+Puesta en marcha del proyecto y Trabajo con Datos
+En este documento se detalla de forma clara cada aspecto abordado en este primer sprint, donde se contestan preguntas como: ¿Cuál es la situación actual? ¿Cuál es nuestro Data Product? ¿Cuáles son nuestros roles y responsabilidades? ¿Qué herramientas vamos a utilizar?
+
+Situación actual
+Cliente:
+“El impacto del desarrollo energético en el ambiente y los consumos generados, atraen a las compañías a tomar acción en cómo intervenir en estas problemáticas. Esto lleva a mediciones de consumo y generación para intervenir o mejorar dicha generación/consumo.”
+
+Bajo esta idea, planteamos la startup NYC GreenCab, una empresa de transporte de pasajeros ecológico que quiere ingresar al mercado de los taxis en la ciudad de Nueva York, reducir la contaminación de CO2 y promover el uso de autos eléctricos o de menor consumo de combustibles fósiles.
+
+Datos y problemática
+Objetivo General
+Al término del tercer sprint, maximizar la efectividad de la información disponible para que el cliente pueda obtener un marco de referencia y tomar decisiones bien fundamentadas.
+
+Objetivos específicos
+Elaborar un estudio de la situación actual (2019) del sector de transporte de pasajeros en NYC para definir la factibilidad del negocio.
+Crear un modelo de ML que permita analizar cómo se desarrollará el mercado de autos eléctricos/híbridos para transporte de pasajeros en NYC.
+Crear un modelo de ML que informe cómo varía la contaminación de CO2 en NYC y que permita dar fundamentos a la puesta en marcha de la empresa taxis con energías verdes.
+Diseñar un dashboard que muestre de forma clara y directa la información relevante generada en las etapas previas.
+Desarrollar un Data Warehouse en la nube para almacenar todos los datos y automatizar su ciclo de vida para futuros análisis del cliente.
+Alcance
+Se plantea el panorama en el mes de diciembre de 2019 y se utilizarán datos de los últimos 6 meses, principalmente sobre la contaminación de CO2 y los viajes en taxis verdes y amarillos en la ciudad de Nueva York. Los productos a entregar son:
+
+Estudiar la situación actual (año 2019) del sector de transporte de pasajeros en NYC para definir la factibilidad del negocio.
+Disponibilizar predicciones obtenidas mediante modelos de ML para responder consultas respecto a la flota de autos híbridos/eléctricos y la contaminación de CO2.
+Presentar visualizaciones en un dashboard de BI del estudio de la situación actual del mercado.
+KPIs
+Incremento de CO2
+Definición: Evaluar la generación de CO2 mes a mes.
+Meta: Alcanzar una reducción del 2% en la generación de CO2 tras seis meses.
+
+Ratio de Taxis Verdes
+Definición: Evaluar el total de taxis verdes mes a mes.
+Meta: Alcanzar un aumento del 2% en el uso de taxis verdes en NYC por mes.
+
+ROI
+Definición: Evaluar la ganancia neta por viajes por semana.
+Objetivo: Alcanzar un aumento del 1% en la ganancia neta por viajes respecto al mes anterior.
+
+Viajes Intra-Borough
+Definición: Evaluar la cantidad de viajes intra-borough mes a mes.
+Objetivo: Definir oportunidades de ubicación.
+
+Ciclo de vida del dato
+Recopilación: Los datos se obtienen de la NYC Taxi and Limousine Commission y otros organismos de NYC, de todos los taxis amarillos y verdes que hacen un viaje en NYC.
+
+Depuración: Se recogen los datos de forma mensual, teniéndolos separados en amarillos y verdes.
+
+Procesamiento: Se realiza un ETL para mantener los datos limpios y verificar que no haya irregularidades que compliquen su uso posterior.
+
+Almacenamiento: Los datos se guardan en el Data Warehouse.
+
+Utilización: Los datos se usan para crear/entrenar los modelos de ML y visualizar los resultados en la herramienta de BI.
+
+Análisis: Con los datos y los modelos se corrobora el cumplimiento (o no) de los KPIs propuestos.
+
+Stack tecnológico
+Visual Studio Code: Usamos VS Code por su interfaz intuitiva y la gran variedad de extensiones disponibles, como aquellas para desarrollo en Python, manejo de datos, y despliegue en la nube, lo que facilita integrar todas las herramientas y procesos de nuestro flujo de trabajo.
+
+Python: Elegimos Python por su versatilidad, extensa comunidad y soporte para bibliotecas especializadas en ETL, análisis de datos y modelado de machine learning.
+
+Pandas: Utilizamos pandas por su capacidad para manejar grandes volúmenes de datos de manera eficiente, su flexibilidad en la manipulación de datos y su compatibilidad con otras librerías de análisis y visualización de datos.
+
+Matplotlib: Usamos matplotlib para la generación de gráficos básicos y personalizados, ya que nos permite realizar visualizaciones detalladas que facilitan la interpretación y comunicación de los resultados del análisis de datos.
+
+Seaborn: Usamos seaborn por su capacidad de crear visualizaciones estadísticas atractivas y complejas de manera sencilla, lo que complementa y mejora las capacidades de visualización de matplotlib, facilitando el análisis exploratorio.
+
+Scikit-Learn: Utilizaremos scikit-learn por su amplia gama de algoritmos de machine learning, su integración con otras bibliotecas de Python y su facilidad de uso, lo que nos permitirá desarrollar, evaluar y mejorar modelos predictivos.
+
+Skforecast: Usamos skforecast debido a su especialización en la adaptación de modelos de regresión lineal para problemas de series temporales, lo que complementa scikit-learn y nos permite realizar pronósticos precisos basados en datos históricos.
+
+Google Cloud Platform: Es la nube de la compañía Google, la cual se utiliza para el almacenamiento de datos actuales o nuevos en un caso futuro. Además, se lleva a cabo el procesamiento del código de Machine Learning en la nube. La nube nos proporcionará los recursos computacionales necesarios para trabajar con grandes cantidades de datos. Cabe destacar que los mismos ya han sido limpiados y puestos en condiciones antes de su eventual carga en la nube.
+
+Cloud Functions: Es la herramienta de la nube que nos permitirá automatizar los procesos, tales como la extracción, transformación y carga de los datos (ETL). Esto en caso de que se desee agregar nuevos datos con el correr del tiempo.
+
+BigQuery: Para realizar el manejo y almacenamiento de los datos en la nube, Google desarrolló BigQuery. Este servicio permite realizar consultas en lenguaje SQL con volúmenes de datos muy grandes y pesados para el entorno local. Esto será útil al momento de buscar datos específicos, desarrollar nuevos en base a los ya existentes, o hacer cálculos y tomar medidas, promedios, etc. BigQuery está enfocado específicamente en el uso e implementación de los datos para modelos de Machine Learning.
+
+Cloud SQL: Se usa para el manejo y almacenamiento de datos en la nube, parecido a BigQuery, pero su uso está más enfocado a la parte de análisis de datos. Se pueden establecer modelos relacionales y extraer la información cruzada de varias tablas, sacar promedios, calcular columnas, etc., para su posterior análisis definitivo y exposición en el dashboard.
+
+Power BI: Es la herramienta de visualización elegida para crear y presentar el dashboard, con el que se explicará el análisis de los datos y las medidas que se sugieren tomar por parte de la empresa. Pero antes, contaremos la historia de los datos, lo que se puede observar o destacar, y cómo llegamos a las conclusiones que nos permitieron sugerir las medidas que recomendamos tomar. De esta manera, el ciclo del dato estaría terminando, convirtiendo el dato en información útil para el cliente.
+
+Streamlit: Es una biblioteca esencial de Python para implementar dashboards con líneas de código simples y rápidas. Es útil para disponibilizar, de forma sencilla, los resultados obtenidos por el modelo de Machine Learning, y posee una alta versatilidad para combinar gráficos, videos, mapas, imágenes, etc.
+
+EDA
+Metadata:
+https://docs.google.com/document/d/1WU4Cc1BmUX1JfEbaL8L961OcTe770rHi/edit
+
+Primera etapa:
+Primero importamos todas las librerías que vamos a usar para este EDA.
+
+Coches Eléctricos:
+Cargamos el archivo con los datos limpios de los coches eléctricos. Verificamos que no existan duplicados y conocemos los diferentes tipos de datos que este contiene. Aplicamos las transformaciones necesarias para que las columnas presentes sean correctas. Revisamos los outliers y verificamos con datos reales que no son valores erróneos.
+
+Taxi zone lookup:
+Cargamos el archivo con las diferentes zonas donde los taxis pueden trabajar. Revisamos por duplicados, nulos y faltantes y eliminamos los valores nulos ya que no afectarán a nuestro análisis.
+
+Taxi zones:
+Cargamos el archivo de todas las zonas de NYC, pero en este no fue necesario hacer ninguna transformación.
+
+Fuel Economy:
+Tomamos ahora el archivo con los diferentes tipos de taxis amarillos y sus características técnicas. Nos quedamos con unas pocas columnas que nos servirán para nuestro análisis, reduciendo el tamaño del archivo.
+
+Alternative Fuel:
+Cargamos el archivo con los diferentes tipos de coches híbridos y/o eléctricos. Aquí también tomamos solamente las columnas que consideramos importantes para nuestro análisis.

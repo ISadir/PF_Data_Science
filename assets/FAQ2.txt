@@ -1,0 +1,74 @@
+pregunta: ¿Cuál es el objetivo general del proyecto?
+respuesta: El objetivo general del proyecto es maximizar la efectividad de la información disponible para que el cliente pueda obtener un marco de referencia y tomar decisiones bien fundamentadas.
+    
+    
+pregunta: ¿Cuál es la situación actual en el proyecto?
+respuesta: La situación actual es que la startup NYC GreenCab busca reducir la contaminación de CO2 y promover el uso de autos eléctricos o de menor consumo de combustibles fósiles en la ciudad de Nueva York.
+    
+    
+pregunta: ¿Qué es NYC GreenCab?
+respuesta: NYC GreenCab es una empresa de transporte de pasajeros ecológico que pretende ingresar al mercado de taxis en Nueva York con el objetivo de reducir la contaminación y fomentar el uso de vehículos eléctricos o híbridos.
+    
+    
+pregunta: ¿Qué datos se están utilizando para el análisis?
+respuesta: Se están utilizando datos de los últimos 6 meses sobre la contaminación de CO2 y los viajes en taxis verdes y amarillos en la ciudad de Nueva York.
+    
+    
+pregunta: ¿Qué herramientas y tecnologías se utilizan en el proyecto?
+respuesta: Se utilizan herramientas como Visual Studio Code Python pandas matplotlib seaborn scikit-learn skforecast Google Cloud Platform BigQuery Cloud SQL Power BI y Streamlit para el desarrollo análisis almacenamiento y visualización de datos.
+    
+    
+pregunta: ¿Cómo se almacena y utiliza la información en el proyecto?
+respuesta: Los datos se almacenan en un Data Warehouse en la nube y se utilizan para crear y entrenar modelos de machine learning así como para visualizar los resultados en herramientas de BI.
+    
+    
+pregunta: ¿Cuáles son los objetivos específicos del proyecto?
+respuesta: Los objetivos específicos son elaborar un estudio de la situación actual del sector de transporte en NYC crear modelos de ML para analizar el mercado de autos eléctricos/híbridos informar sobre la contaminación de CO2 diseñar un dashboard informativo y desarrollar un Data Warehouse para análisis futuros.
+    
+    
+pregunta: ¿Cómo se definen los KPIs en el proyecto?
+respuesta: Los KPIs incluyen el incremento de CO2 el ratio de taxis verdes el ROI y los viajes intra-borough. Cada KPI tiene una definición específica y una meta que se debe alcanzar para evaluar el éxito del proyecto.
+    
+    
+pregunta: ¿Qué es un ciclo de vida del dato?
+respuesta: El ciclo de vida del dato incluye la recopilación depuración procesamiento almacenamiento utilización y análisis de los datos para asegurar su calidad y utilidad en el proyecto.
+    
+    
+pregunta: ¿Qué es un Data Warehouse y cómo se utiliza en el proyecto?
+respuesta: Un Data Warehouse es un sistema de almacenamiento de datos que permite consolidar información de diferentes fuentes para su análisis. En el proyecto se utiliza para almacenar todos los datos y automatizar su ciclo de vida para futuros análisis.
+    
+    
+pregunta: ¿Qué es BigQuery y cómo se utiliza en el proyecto?
+respuesta: BigQuery es un servicio de Google Cloud para manejar y almacenar grandes volúmenes de datos. Se utiliza para realizar consultas SQL y analizar datos extensos apoyando el desarrollo de modelos de machine learning.
+    
+    
+pregunta: ¿Qué es Cloud SQL y cuál es su función en el proyecto?
+respuesta: Cloud SQL es un servicio de Google Cloud para manejar datos en la nube con modelos relacionales. Se utiliza para el análisis de datos creando relaciones entre tablas y extrayendo información cruzada para análisis detallados.
+    
+    
+pregunta: ¿Cómo se lleva a cabo el procesamiento de datos en el proyecto?
+respuesta: El procesamiento de datos se realiza a través de un ETL (extracción transformación y carga) para limpiar y preparar los datos para su análisis. Los datos se recogen mensualmente y se almacenan en el Data Warehouse para su uso en modelos de ML y visualizaciones.
+    
+    
+pregunta: ¿Qué es Streamlit y cómo se usa en el proyecto?
+respuesta: Streamlit es una biblioteca de Python que facilita la implementación de dashboards interactivos. Se utiliza para presentar los resultados de los modelos de machine learning de manera sencilla y visual en la aplicación.
+    
+    
+pregunta: ¿Cuál es el objetivo principal del proyecto?
+respuesta: El objetivo principal es mejorar la efectividad de la información disponible para tomar decisiones bien fundamentadas.
+    
+    
+pregunta: ¿Qué está haciendo NYC GreenCab?
+respuesta: NYC GreenCab está introduciendo taxis ecológicos en Nueva York para reducir la contaminación de CO2 y fomentar el uso de vehículos eléctricos.
+    
+    
+pregunta: ¿Qué datos se están analizando?
+respuesta: Los datos analizados incluyen información sobre la contaminación de CO2 y los viajes en taxis en Nueva York.
+    
+    
+pregunta: ¿Qué herramientas se usan en el proyecto?
+respuesta: Se usan herramientas como VS Code Python pandas matplotlib seaborn scikit-learn entre otras.
+    
+    
+pregunta: ¿Qué es un Data Warehouse?
+respuesta: Un Data Warehouse es un sistema para almacenar datos de manera consolidada para análisis y consulta.
