@@ -5,43 +5,48 @@ from datetime import date
 from prophet import Prophet
 from prophet.plot import plot_plotly
 from plotly import graph_objs as go
+import matplotlib.dates as mdates
+
 
 # creditos: https://www.youtube.com/watch?v=0E_31WqVzCY
-
-# start = "2019-01-01"
-# today = date.today().strftime("%Y-%m-%d")
-
 st.title("Forecast")
 
 st.subheader("En esta sección se presentan las graficas orientadas al análisis BI")
+
+# Cargar y guardar en cache y mostrar la data
 
 @st.cache_data
 def cargar(csv):
     df = pd.read_csv(csv)
     return df
 
-df = cargar("original data/auxiliar.csv")
+df = cargar("data/auxiliar_diario.csv")
 
 st.subheader('Tabla de datos')
 st.write(df.head())
 
+# listas para selecionar las predicciones
 tipos1 = ("green", "yellow")
 selec1 = st.selectbox("Selecciones la predicción que desea calcular", tipos1)
 
 tipos2 = ("tarifa_prom", "distancia_prom", "distancia_total", "viajes_totales")
 selec2 = st.selectbox("Selecciones la predicción que desea calcular", tipos2)
 
+
+# creado de la tabla para prophet
 def data_lista(df, tipo_taxi, columna):
     df_filtrado = df[df['taxi'] == tipo_taxi]
-    df_prophet = df_filtrado[['mes', columna]].copy()
-    df_prophet.rename(columns={'mes': 'ds', columna: 'y'}, inplace=True)
-    df_prophet['ds'] = df_prophet['ds'].astype(str) + '-2019'
-    df_prophet['ds'] = pd.to_datetime(df_prophet['ds'], format='%m-%Y')
+    df_prophet = df_filtrado[['mes', 'dia', columna]].copy()
+    df_prophet['dias'] = df_prophet['mes'].astype(str) + '-' + df_prophet['dia'].astype(str) + '-2019'
+    df_prophet.rename(columns={'dias': 'ds', columna: 'y'}, inplace=True)
+    df_prophet['ds'] = pd.to_datetime(df_prophet['ds'], format='%m-%d-%Y')
 
     return df_prophet
+    
 
 df_prophet = data_lista(df, selec1, selec2)
 
+#grafica de la data original
 def graficar_original(df_prophet, selec2):
     fig = go.Figure()
     fig.add_trace(go.Scatter(x=df_prophet["ds"], y=df_prophet["y"], marker=dict(symbol='circle', color='royalblue')))
@@ -50,12 +55,12 @@ def graficar_original(df_prophet, selec2):
 
 graficar_original(df_prophet, selec2)
 
-periodos = st.slider("Seleccione la cantidad de periodos:", 1, 5 )
+periodos = st.slider("Seleccione la cantidad de periodos:", 1, 60 )
 
 def predecir_columna(df_prophet, periodos, selec1, selec2):
     model = Prophet()
     model.fit(df_prophet)
-    future = model.make_future_dataframe(periods=periodos, freq='M')
+    future = model.make_future_dataframe(periods=periodos)
     forecast = model.predict(future)
 
     fig = go.Figure()
@@ -70,7 +75,11 @@ def predecir_columna(df_prophet, periodos, selec1, selec2):
 
 model, forecast = predecir_columna(df_prophet, periodos, selec1, selec2)
 
-st.text(forecast.head())
 
-# fig1 = model.plot_components(forecast)
-# st.write(fig1)
+plt.style.use('dark_background')
+fig1 = model.plot_components(forecast)
+            
+for ax in fig1.axes:
+    for line in ax.get_lines():
+        line.set_color('white')
+st.write(fig1)
