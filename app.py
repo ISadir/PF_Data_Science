@@ -3,7 +3,7 @@ import streamlit as st
 # Páginas
 
 pagina1 = st.Page(
-    page = 'producto/Home.py',
+    page = 'producto/Bot.py',
     title = 'Home',
     icon = '🚕', 
     default= True,)

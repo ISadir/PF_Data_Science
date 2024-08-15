@@ -7,6 +7,29 @@ from langchain.chains import LLMChain
 from langchain_community.vectorstores import FAISS
 from langchain_google_vertexai import VertexAIEmbeddings
 
+from forms.contacto import contactar
+
+st.title("🚕 Bienvenido")
+st.text('Explicación de uso')
+
+@st.dialog('¿Tiene alguna duda?')
+def mostrar_contacto():
+    contactar()
+
+
+col1, col2 = st.columns(2, gap='small', vertical_alignment='center')
+
+with col1:
+    st.image('assets\logo.png', width= 300)
+
+with col2:
+    st.title('Contacte con nosotros', anchor=False)
+    st.write('Por cualquier pregunta, no dude en contactar con nosotros, pero no olvide consultar a nuestro asistente virtual :material/smart_toy:')
+    if st.button(':material/contact_mail: Contactenos'):
+        mostrar_contacto()
+
+
+
 embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
 
 path = 'assets/FAQ.txt'  # Ruta al archivo de texto con preguntas y respuestas
@@ -59,7 +82,7 @@ def get_response(path, query, k=2):
     return response
 
 # Configurar la interfaz de Streamlit
-st.title("Asistente virtual 🐱‍💻")
+st.title("Asistente virtual ':material/smart_toy:'")
 
 # Inicializar el historial de mensajes si no existe
 if "messages" not in st.session_state:
