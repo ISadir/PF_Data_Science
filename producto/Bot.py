@@ -20,7 +20,7 @@ def mostrar_contacto():
 col1, col2 = st.columns(2, gap='small', vertical_alignment='center')
 
 with col1:
-    st.image('assets\logo.png', width= 300)
+    st.image('assets/logo.png', width= 300)
 
 with col2:
     st.title('Contacte con nosotros', anchor=False)
