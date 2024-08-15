@@ -29,6 +29,10 @@ with col2:
         mostrar_contacto()
 
 
+st.title("")
+
+st.title("Asistente virtual :material/smart_toy:")
+
 
 embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
 
