@@ -6,6 +6,8 @@ from langchain import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_community.vectorstores import FAISS
 from langchain_google_vertexai import VertexAIEmbeddings
+import vertexai
+
 
 from forms.contacto import contactar
 
@@ -33,6 +35,7 @@ st.title("")
 
 st.title("Asistente virtual :material/smart_toy:")
 
+vertexai.init(project='GOOGLE_CLOUD_PROJECT', location="us-central1")
 
 embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
 
