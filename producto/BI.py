@@ -22,7 +22,7 @@ st.header("Dashboard relativo a CO2, estaciones de carga eléctrica y eficiencia
 
 # Incluir el iframe con el dashboard de Power BI
 st.components.v1.iframe(
-    src="https://app.powerbi.com/groups/me/reports/a526bff2-981c-4e64-b3a3-484ae40898e1/4fac95764ee9b89ab887",
+    src="https://app.powerbi.com/view?r=eyJrIjoiOTUzYTNhN2QtYmI2NC00ZmNjLThjMTktMmUwNGE2OGU4NWY5IiwidCI6IjcxOWU4ZTRkLWZkZDMtNDQxZC05NDcyLTM0MDAxNGJiMTM1NyIsImMiOjR9",
     width=800,  # Ancho del iframe
     height=600,  # Alto del iframe
     scrolling=True  # Habilitar el scrolling si el contenido es grande

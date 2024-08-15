@@ -22,5 +22,5 @@ pagina3 = st.Page(
 pg = st.navigation(pages=[pagina1, pagina2, pagina3])
 pg.run()
 
-st.logo('assets\logo3.png')
+st.logo('assets/logo3.png')
 st.sidebar.text('Urban Data. 2024')
