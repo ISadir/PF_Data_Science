@@ -53,7 +53,9 @@ graficar_original(df_prophet, selec2)
 periodos = st.slider("Seleccione la cantidad de periodos:", 1, 5 )
 
 def predecir_columna(df_prophet, periodos, selec1, selec2):
-    model = Prophet()
+    model = Prophet(changepoint_prior_scale=0.1, seasonality_prior_scale=20.0, seasonality_mode='additive')
+    model.add_seasonality(name='weekly', period=7, fourier_order=5)
+
     model.fit(df_prophet)
     future = model.make_future_dataframe(periods=periodos, freq='M')
     forecast = model.predict(future)

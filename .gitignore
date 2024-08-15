@@ -5,3 +5,5 @@ env/
 .streamlit/secrets.toml
 
 assets/kaggle.json
+
+producto/.env
