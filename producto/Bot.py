@@ -8,7 +8,7 @@ from langchain_community.vectorstores import FAISS
 from langchain_google_vertexai import VertexAIEmbeddings
 import vertexai
 from forms.contacto import contactar
-
+from google.oauth2 import service_account
 
 st.title("🚕 ¡Bienvenido!")
 
@@ -44,7 +44,11 @@ st.title("")
 
 st.title("Asistente virtual :material/smart_toy:")
 
-vertexai.init(project='PROJECT_ID', location="us-central1", credentials = 'VERTEX_KEY')
+credentials = service_account.Credentials.from_service_account_info(
+    st.secrets["VERTEX_KEY"]
+)
+
+vertexai.init(project='PROJECT_ID', location="us-central1", credentials = credentials)
 
 embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
 
