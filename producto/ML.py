@@ -9,11 +9,25 @@ import matplotlib.dates as mdates
 
 
 # creditos: https://www.youtube.com/watch?v=0E_31WqVzCY
-st.title("Forecast")
-
-st.subheader("En esta sección se presentan las graficas orientadas al análisis BI")
+st.title("Forecasting :material/timeline:")
 
 # Cargar y guardar en cache y mostrar la data
+
+import streamlit as st
+
+st.markdown("""
+### ¡Bienvenido a la Sección de Predicciones Avanzadas!
+
+En esta página, se puede explorar las proyecciones futuras de las principales métricas relacionadas con el mercado de taxis en Nueva York. Utilizando técnicas de machine learning, hemos creado modelos que predicen:
+
+- **Tarifa Promedio (tarifa_prom)**: Estimación de la tarifa media que los pasajeros pagarán.
+- **Distancia Promedio (distancia_prom)**: Predicción de la distancia media recorrida por viaje.
+- **Distancia Total (distancia_total)**: Proyección de la distancia total por día que cubrirán todos los viajes.
+- **Viajes Totales (viajes_totales)**: Pronóstico del número total de viajes realizados por día.
+
+Estas predicciones ayudarán a anticipar tendencias tanto para taxis verdes como amarillos y tomar decisiones informadas.
+""")
+
 
 @st.cache_data
 def cargar(csv):
@@ -76,6 +90,7 @@ def predecir_columna(df_prophet, periodos, selec1, selec2):
 
 model, forecast = predecir_columna(df_prophet, periodos, selec1, selec2)
 
+st.subheader("Tendencia anual y semanal")
 
 plt.style.use('dark_background')
 fig1 = model.plot_components(forecast)
