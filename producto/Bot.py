@@ -9,6 +9,7 @@ from langchain_google_vertexai import VertexAIEmbeddings
 import vertexai
 from forms.contacto import contactar
 from google.oauth2 import service_account
+import json 
 
 st.title("🚕 ¡Bienvenido!")
 
@@ -47,6 +48,8 @@ st.title("Asistente virtual :material/smart_toy:")
 credentials = service_account.Credentials.from_service_account_info(
     st.secrets["VERTEX_KEY"]
 )
+
+credentials = json.loads(credentials)
 
 vertexai.init(project='PROJECT_ID', location="us-central1", credentials = credentials)
 
