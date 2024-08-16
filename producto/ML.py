@@ -21,6 +21,7 @@ st.markdown("""
 En esta página, se puede explorar las proyecciones futuras de las principales métricas relacionadas con el mercado de taxis en Nueva York. Utilizando técnicas de machine learning, hemos creado modelos que predicen:
 
 - **Tarifa Promedio (tarifa_prom)**: Estimación de la tarifa media que los pasajeros pagarán.
+- **Tarifa Total (tarifa_total)**: Estimación de la tarifa total del día.      
 - **Distancia Promedio (distancia_prom)**: Predicción de la distancia media recorrida por viaje.
 - **Distancia Total (distancia_total)**: Proyección de la distancia total por día que cubrirán todos los viajes.
 - **Viajes Totales (viajes_totales)**: Pronóstico del número total de viajes realizados por día.
@@ -43,7 +44,7 @@ st.write(df.head())
 tipos1 = ("green", "yellow")
 selec1 = st.selectbox("Selecciones la predicción que desea calcular", tipos1)
 
-tipos2 = ("tarifa_prom", "distancia_prom", "distancia_total", "viajes_totales")
+tipos2 = ("tarifa_prom", "tarifa_total", "distancia_prom", "distancia_total", "viajes_totales")
 selec2 = st.selectbox("Selecciones la predicción que desea calcular", tipos2)
 
 

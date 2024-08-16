@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("Dashboards BI")
-st.text("En esta sección se presentan las graficas orientadas al análisis BI")
+
 st.header("Dashboard relativo al mercado de taxis en NY")
 
 
