@@ -10,7 +10,7 @@ import vertexai
 from forms.contacto import contactar
 
 
-st.title("🚕 Bienvenido")
+st.title("🚕 ¡Bienvenido!")
 
 st.markdown(
     """
