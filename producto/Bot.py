@@ -40,110 +40,111 @@ with col2:
     if st.button(':material/contact_mail: Contactenos'):
         mostrar_contacto()
 
-
-st.title("")
-
-# st.title("Asistente virtual :material/smart_toy:")
-
-# credentials = service_account.Credentials.from_service_account_info(
-#     st.secrets["VERTEX_KEY"]
+# CREDENTIALS = service_account.credentials.from_service_account_info(
+# st.secrets["VERTEX_KEY"]
 # )
 
-# credentials = json.loads(credentials)
+CREDENTIALS = json.loads('assets/vertex.json')
 
-# vertexai.init(project='PROJECT_ID', location="us-central1", credentials = credentials)
+print('\n\n')
+print(CREDENTIALS)
+print('\n\n')
 
-# embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
+PROJECT_ID = st.secrets["PROJECT_ID"]
 
-# path = 'assets/FAQ.txt'  # Ruta al archivo de texto con preguntas y respuestas
+vertexai.init(project= PROJECT_ID, location="us-central1", credentials = CREDENTIALS)
 
-# # Configuro el modelo Ollama
-# llm = OllamaLLM(model='llama3.1:latest')
+embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
 
-# def carga_chunks_db(path):
-#     # Leo el archivo completo
-#     with open(path, 'r', encoding='utf-8') as file:
-#         texto = file.read()
-#     # Divido el texto en partes más pequeñas de tamaño chunk_size con un overlap en caso de ser necesario
-#     text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
-#     split_text = text_splitter.split_text(texto)
-#     # Creo la base de datos FAISS
-#     db = FAISS.from_texts(split_text, embeddings)
-#     return db
+path = 'assets/faq.txt'  # ruta al archivo de texto con preguntas y respuestas
 
-# def get_response(path, query, k=2):
-#     db = carga_chunks_db(path)
-#     # Realizo la búsqueda de documentos similares
-#     docs = db.similarity_search(query, k=k)
-#     # Obtengo el contenido de los documentos
-#     docs_page_content = " ".join([d.page_content for d in docs])
-#     # Creo el prompt para el modelo
-#     prompt = PromptTemplate(
-#         input_variables=["question", "docs"],
-#         template="""
-#         You are a helpful assistant that that can answer questions about a company project 
-#         based on the documents of this project. Also you're talking to the user of the project so don't forget to be polite and 
-#         don't talk about the documents where you're getting the information.
-        
-#         Answer the following question: {question}
-#         By searching the following document: {docs}
-        
-#         Only use the factual information from the document to answer the question.
-        
-#         If you feel like you don't have enough information to answer the question, say "Lo siento no tengo informacion sobre eso.
-#         Para saber mas por favor pongase en contacto con el equipo de Urban Data.".
-        
-#         Your answers shouldn't be too verbose, should be detailed, fast and always in spanish.
-#         """,
-#     )
-#     # Creo la cadena de procesamiento
-#     chain = LLMChain(llm=llm, prompt=prompt)
-#     # Obtengo la respuesta del modelo
-#     response = chain.run(question=query, docs=docs_page_content)
-#     # Elimino el salto de línea final
-#     response = response.replace("\n", "")
-#     return response
+# configuro el modelo ollama
+llm = OllamaLLM(model='llama3.1:latest')
 
-# # Configurar la interfaz de Streamlit
-# st.title("Asistente virtual ':material/smart_toy:'")
+def carga_chunks_db(path):
+    # leo el archivo completo
+    with open(path, 'r', encoding='utf-8') as file:
+        texto = file.read()
+    # divido el texto en partes más pequeñas de tamaño chunk_size con un overlap en caso de ser necesario
+    text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=100)
+    split_text = text_splitter.split_text(texto)
+    # creo la base de datos faiss
+    db = FAISS.from_texts(split_text, embeddings)
+    return db
 
-# # Inicializar el historial de mensajes si no existe
-# if "messages" not in st.session_state:
-#     st.session_state.messages = []
+def get_response(path, query, k=2):
+    db = carga_chunks_db(path)
+    # realizo la búsqueda de documentos similares
+    docs = db.similarity_search(query, k=k)
+    # obtengo el contenido de los documentos
+    docs_page_content = " ".join([d.page_content for d in docs])
+    # creo el prompt para el modelo
+    prompt = PromptTemplate(
+        input_variables=["question", "docs"],
+        template="""
+        you are a helpful assistant that that can answer questions about a company project 
+        based on the documents of this project. also you're talking to the user of the project so don't forget to be polite and 
+        don't talk about the documents where you're getting the information.
+            
+        answer the following question: {question}
+        by searching the following document: {docs}
+            
+        only use the factual information from the document to answer the question.
+            
+        if you feel like you don't have enough information to answer the question, say "lo siento no tengo informacion sobre eso.
+        para saber mas por favor pongase en contacto con el equipo de urban data.".
+            
+        your answers shouldn't be too verbose, should be detailed, fast and always in spanish.
+        """,
+    )
+    # creo la cadena de procesamiento
+    chain = LLMChain(llm=llm, prompt=prompt)
+    # obtengo la respuesta del modelo
+    response = chain.run(question=query, docs=docs_page_content)
+    # elimino el salto de línea final
+    response = response.replace("\n", "")
+    return response
 
-# # Mostrar el mensaje de bienvenida si es la primera vez
-# if "first_message" not in st.session_state:
-#     st.session_state.first_message = True
-#     st.session_state.messages.append({"role": "assistant", "content": "Hola, ¿cómo puedo ayudarte hoy?"})
+# configurar la interfaz de streamlit
+st.title("asistente virtual ':material/smart_toy:'")
 
-# # Mostrar mensajes anteriores en el chat
-# for message in st.session_state.messages:
-#     with st.chat_message(message["role"]):
-#         st.markdown(message["content"])
+# inicializar el historial de mensajes si no existe
+if "messages" not in st.session_state:
+    st.session_state.messages = []
 
-# # Capturar la entrada del usuario y generar la respuesta
-# if prompt := st.chat_input("Tu consulta"):
-#     with st.chat_message("user"):
-#         st.markdown(prompt)
-#     st.session_state.messages.append({"role": "user", "content": prompt})
+# mostrar el mensaje de bienvenida si es la primera vez
+if "first_message" not in st.session_state:
+    st.session_state.first_message = True
+    st.session_state.messages.append({"role": "assistant", "content": "hola, ¿cómo puedo ayudarte hoy?"})
 
-#     # Obtener la respuesta completa
-#     start_time = time.time()
-#     respuesta_obtenida = get_response(path, prompt)
-#     end_time = time.time()
-#     elapsed_time = end_time - start_time
-#     print(f"Tiempo de respuesta: {elapsed_time} segundos")
+# mostrar mensajes anteriores en el chat
+for message in st.session_state.messages:
+    with st.chat_message(message["role"]):
+        st.markdown(message["content"])
 
-#     # Mostrar la respuesta gradualmente, letra por letra
-#     with st.chat_message("assistant") as response_message:
-#         response_placeholder = st.empty()
-#         partial_response = ""
-#         for i, char in enumerate(respuesta_obtenida):
-#             partial_response += char
-#             if i % 10 == 0:  # Actualiza cada 10 caracteres
-#                 response_placeholder.markdown(partial_response)
-#                 time.sleep(0.05)  # Añade un pequeño retraso para simular la velocidad de escritura
-#         response_placeholder.markdown(partial_response)  # Muestra el mensaje completo al final
+# capturar la entrada del usuario y generar la respuesta
+if prompt := st.chat_input("tu consulta"):
+    with st.chat_message("user"):
+        st.markdown(prompt)
+    st.session_state.messages.append({"role": "user", "content": prompt})
 
-#     # Actualizar el historial de mensajes
-#     st.session_state.messages.append({"role": "assistant", "content": respuesta_obtenida})
+# obtener la respuesta completa
+start_time = time.time()
+respuesta_obtenida = get_response(path, prompt)
+end_time = time.time()
+elapsed_time = end_time - start_time
+print(f"tiempo de respuesta: {elapsed_time} segundos")
+
+# mostrar la respuesta gradualmente, letra por letra
+with st.chat_message("assistant") as response_message:
+    response_placeholder = st.empty()
+    partial_response = ""
+    for i, char in enumerate(respuesta_obtenida):
+        partial_response += char
+        if i % 10 == 0:  # actualiza cada 10 caracteres
+            response_placeholder.markdown(partial_response)
+            time.sleep(0.05)  # añade un pequeño retraso para simular la velocidad de escritura
+    response_placeholder.markdown(partial_response)  # muestra el mensaje completo al final
+
+# actualizar el historial de mensajes
+st.session_state.messages.append({"role": "assistant", "content": respuesta_obtenida})
