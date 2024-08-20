@@ -2,14 +2,13 @@ import streamlit as st
 from langchain_ollama.llms import OllamaLLM
 import time
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_community.vectorstores import FAISS
 from langchain_google_vertexai import VertexAIEmbeddings
 import vertexai
 from forms.contacto import contactar
 from google.oauth2 import service_account
-import json 
 
 st.title("🚕 ¡Bienvenido!")
 
@@ -40,17 +39,10 @@ with col2:
     if st.button(':material/contact_mail: Contactenos'):
         mostrar_contacto()
 
-# CREDENTIALS = service_account.credentials.from_service_account_info(
-# st.secrets["VERTEX_KEY"]
-# )
+PROJECT_ID = st.secrets['PROJECT_ID']
+CREDENTIALS_ST = st.secrets['vertex']
 
-CREDENTIALS = json.loads('assets/vertex.json')
-
-print('\n\n')
-print(CREDENTIALS)
-print('\n\n')
-
-PROJECT_ID = st.secrets["PROJECT_ID"]
+CREDENTIALS = service_account.Credentials.from_service_account_info(CREDENTIALS_ST)
 
 vertexai.init(project= PROJECT_ID, location="us-central1", credentials = CREDENTIALS)
 
@@ -82,19 +74,19 @@ def get_response(path, query, k=2):
     prompt = PromptTemplate(
         input_variables=["question", "docs"],
         template="""
-        you are a helpful assistant that that can answer questions about a company project 
-        based on the documents of this project. also you're talking to the user of the project so don't forget to be polite and 
+        You are a helpful assistant that that can answer questions about a company project 
+        based on the documents of this project. Also you're talking to the user of the project so don't forget to be polite and 
         don't talk about the documents where you're getting the information.
             
-        answer the following question: {question}
-        by searching the following document: {docs}
+        Answer the following question: {question}
+        By searching the following document: {docs}
             
-        only use the factual information from the document to answer the question.
+        Only use the factual information from the document to answer the question.
             
-        if you feel like you don't have enough information to answer the question, say "lo siento no tengo informacion sobre eso.
+        If you feel like you don't have enough information to answer the question, say "lo siento no tengo informacion sobre eso.
         para saber mas por favor pongase en contacto con el equipo de urban data.".
             
-        your answers shouldn't be too verbose, should be detailed, fast and always in spanish.
+        Your answers shouldn't be too verbose, should be detailed, fast and always in spanish.
         """,
     )
     # creo la cadena de procesamiento
@@ -106,7 +98,7 @@ def get_response(path, query, k=2):
     return response
 
 # configurar la interfaz de streamlit
-st.title("asistente virtual ':material/smart_toy:'")
+st.title("Asistente virtual ':material/smart_toy:'")
 
 # inicializar el historial de mensajes si no existe
 if "messages" not in st.session_state:
@@ -115,7 +107,7 @@ if "messages" not in st.session_state:
 # mostrar el mensaje de bienvenida si es la primera vez
 if "first_message" not in st.session_state:
     st.session_state.first_message = True
-    st.session_state.messages.append({"role": "assistant", "content": "hola, ¿cómo puedo ayudarte hoy?"})
+    st.session_state.messages.append({"role": "assistant", "content": "Hola, ¿cómo puedo ayudarte hoy?"})
 
 # mostrar mensajes anteriores en el chat
 for message in st.session_state.messages:
@@ -123,7 +115,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # capturar la entrada del usuario y generar la respuesta
-if prompt := st.chat_input("tu consulta"):
+if prompt := st.chat_input("Tu Consulta"):
     with st.chat_message("user"):
         st.markdown(prompt)
     st.session_state.messages.append({"role": "user", "content": prompt})
@@ -133,7 +125,7 @@ start_time = time.time()
 respuesta_obtenida = get_response(path, prompt)
 end_time = time.time()
 elapsed_time = end_time - start_time
-print(f"tiempo de respuesta: {elapsed_time} segundos")
+print(f"Tiempo de respuesta: {elapsed_time} segundos")
 
 # mostrar la respuesta gradualmente, letra por letra
 with st.chat_message("assistant") as response_message:
