@@ -70,6 +70,12 @@ def carga_chunks_db(path):
 
 def get_response(path, query, k=5):
     db = carga_chunks_db(path)
+    print('\n\n')
+    print('Base de datos: ', db)
+    print('\n\n')
+    print('\n\n')
+    print('Query: ', query)
+    print('\n\n')
     # realizo la búsqueda de documentos similares
     docs = db.similarity_search(query, k=k)
     # obtengo el contenido de los documentos
