@@ -46,7 +46,11 @@ CREDENTIALS = service_account.Credentials.from_service_account_info(CREDENTIALS_
 
 vertexai.init(project= PROJECT_ID, location="us-central1", credentials = CREDENTIALS)
 
-embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
+#embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
+embeddings = VertexAIEmbeddings(
+    model_name="textembedding-gecko-multilingual@001",
+    batch_size=4  # Ajusta según tus necesidades
+)
 
 path = 'assets/FAQ.txt'  # ruta al archivo de texto con preguntas y respuestas
 
