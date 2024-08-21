@@ -132,7 +132,8 @@ if prompt := st.chat_input("Tu Consulta"):
 
 # obtener la respuesta completa
 start_time = time.time()
-respuesta_obtenida = get_response(path, prompt)
+if prompt!= None:
+    respuesta_obtenida = get_response(path, prompt)
 end_time = time.time()
 elapsed_time = end_time - start_time
 print(f"Tiempo de respuesta: {elapsed_time} segundos")
