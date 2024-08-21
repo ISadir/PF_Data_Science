@@ -54,7 +54,7 @@ vertexai.init(project= PROJECT_ID, location="us-central1", credentials = CREDENT
 
 embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
 
-path = 'assets/faq.txt'  # ruta al archivo de texto con preguntas y respuestas
+path = 'assets/FAQ.txt'  # ruta al archivo de texto con preguntas y respuestas
 
 # configuro el modelo ollama
 llm = OllamaLLM(model='llama3.1:latest')
