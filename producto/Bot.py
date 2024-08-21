@@ -148,5 +148,5 @@ if prompt := st.chat_input("Tu Consulta"):
                 time.sleep(0.05)  # añade un pequeño retraso para simular la velocidad de escritura
         response_placeholder.markdown(partial_response)  # muestra el mensaje completo al final
 
-# actualizar el historial de mensajes
-st.session_state.messages.append({"role": "assistant", "content": respuesta_obtenida})
+    # actualizar el historial de mensajes
+    st.session_state.messages.append({"role": "assistant", "content": respuesta_obtenida})
