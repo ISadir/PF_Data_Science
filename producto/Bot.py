@@ -10,7 +10,7 @@ import vertexai
 from forms.contacto import contactar
 from google.oauth2 import service_account
 
-st.title("🚕 ¡Bienvenido! 🚖")
+st.title("🚕 ¡Bienvenido!")
 
 st.markdown(
     """
@@ -38,11 +38,6 @@ with col2:
     st.write('Por cualquier pregunta de uso o sobre los datos, no dude en contactar con nosotros. \n\n Pero primero, no olvide consultar a nuestro asistente virtual :material/smart_toy:')
     if st.button(':material/contact_mail: Contactenos'):
         mostrar_contacto()
-
-
-st.title("")
-
-st.title("Asistente virtual :material/smart_toy:")
 
 PROJECT_ID = st.secrets['PROJECT_ID']
 CREDENTIALS_ST = st.secrets['vertex']
