@@ -130,24 +130,23 @@ if prompt := st.chat_input("Tu Consulta"):
         st.markdown(prompt)
     st.session_state.messages.append({"role": "user", "content": prompt})
 
-# obtener la respuesta completa
-start_time = time.time()
-if prompt!= None:
+    # obtener la respuesta completa
+    start_time = time.time()
     respuesta_obtenida = get_response(path, prompt)
-end_time = time.time()
-elapsed_time = end_time - start_time
-print(f"Tiempo de respuesta: {elapsed_time} segundos")
-
-# mostrar la respuesta gradualmente, letra por letra
-with st.chat_message("assistant") as response_message:
-    response_placeholder = st.empty()
-    partial_response = ""
-    for i, char in enumerate(respuesta_obtenida):
-        partial_response += char
-        if i % 10 == 0:  # actualiza cada 10 caracteres
-            response_placeholder.markdown(partial_response)
-            time.sleep(0.05)  # añade un pequeño retraso para simular la velocidad de escritura
-    response_placeholder.markdown(partial_response)  # muestra el mensaje completo al final
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    print(f"Tiempo de respuesta: {elapsed_time} segundos")
+    
+    # mostrar la respuesta gradualmente, letra por letra
+    with st.chat_message("assistant") as response_message:
+        response_placeholder = st.empty()
+        partial_response = ""
+        for i, char in enumerate(respuesta_obtenida):
+            partial_response += char
+            if i % 10 == 0:  # actualiza cada 10 caracteres
+                response_placeholder.markdown(partial_response)
+                time.sleep(0.05)  # añade un pequeño retraso para simular la velocidad de escritura
+        response_placeholder.markdown(partial_response)  # muestra el mensaje completo al final
 
 # actualizar el historial de mensajes
 st.session_state.messages.append({"role": "assistant", "content": respuesta_obtenida})
