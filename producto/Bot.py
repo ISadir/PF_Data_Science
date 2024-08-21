@@ -64,7 +64,7 @@ def carga_chunks_db(path):
     db = FAISS.from_texts(split_text, embeddings)
     return db
 
-def get_response(path, query, k=2):
+def get_response(path, query, k=5):
     db = carga_chunks_db(path)
     # realizo la búsqueda de documentos similares
     docs = db.similarity_search(query, k=k)
