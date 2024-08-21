@@ -2,14 +2,13 @@ import streamlit as st
 from langchain_ollama.llms import OllamaLLM
 import time
 from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain import PromptTemplate
+from langchain_core.prompts import PromptTemplate
 from langchain.chains import LLMChain
 from langchain_community.vectorstores import FAISS
 from langchain_google_vertexai import VertexAIEmbeddings
 import vertexai
 from forms.contacto import contactar
 from google.oauth2 import service_account
-import json 
 
 st.title("🚕 ¡Bienvenido! 🚖")
 
