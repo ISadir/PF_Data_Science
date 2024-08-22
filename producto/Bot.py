@@ -56,7 +56,9 @@ embeddings = VertexAIEmbeddings(
 path = 'assets/FAQ.txt'  # ruta al archivo de texto con preguntas y respuestas
 
 # configuro el modelo ollama
+
 llm = VertexAI(model_name= "text-bison") #Contesta hay que configurar el prompt para que responda preguntas basicas
+
 
 def carga_chunks_db(path):
     # leo el archivo completo
@@ -71,6 +73,7 @@ def carga_chunks_db(path):
 
 def get_response(path, query, k=5):
     db = carga_chunks_db(path)
+
     # realizo la búsqueda de documentos similares
     docs = db.similarity_search(query, k=k)
     # obtengo el contenido de los documentos
@@ -104,7 +107,9 @@ def get_response(path, query, k=5):
     return response
 
 # configurar la interfaz de streamlit
+
 st.title("Asistente virtual :material/smart_toy:")
+
 
 # inicializar el historial de mensajes si no existe
 if "messages" not in st.session_state:
