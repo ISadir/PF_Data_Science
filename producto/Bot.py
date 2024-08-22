@@ -7,6 +7,7 @@ from langchain.chains import LLMChain
 from langchain_community.vectorstores import FAISS
 from langchain_google_vertexai import VertexAIEmbeddings
 import vertexai
+from langchain_google_vertexai import VertexAI
 from forms.contacto import contactar
 from google.oauth2 import service_account
 
@@ -46,12 +47,16 @@ CREDENTIALS = service_account.Credentials.from_service_account_info(CREDENTIALS_
 
 vertexai.init(project= PROJECT_ID, location="us-central1", credentials = CREDENTIALS)
 
-embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
+#embeddings = VertexAIEmbeddings(model_name="textembedding-gecko-multilingual@001")
+embeddings = VertexAIEmbeddings(
+    model_name="textembedding-gecko-multilingual@001",
+    batch_size=4  # Ajusta según tus necesidades
+)
 
-path = 'assets/faq.txt'  # ruta al archivo de texto con preguntas y respuestas
+path = 'assets/FAQ.txt'  # ruta al archivo de texto con preguntas y respuestas
 
 # configuro el modelo ollama
-llm = OllamaLLM(model='llama3.1:latest')
+llm = VertexAI(model_name= "text-bison") #Contesta hay que configurar el prompt para que responda preguntas basicas
 
 def carga_chunks_db(path):
     # leo el archivo completo
@@ -64,7 +69,7 @@ def carga_chunks_db(path):
     db = FAISS.from_texts(split_text, embeddings)
     return db
 
-def get_response(path, query, k=2):
+def get_response(path, query, k=5):
     db = carga_chunks_db(path)
     # realizo la búsqueda de documentos similares
     docs = db.similarity_search(query, k=k)
@@ -84,7 +89,8 @@ def get_response(path, query, k=2):
         Only use the factual information from the document to answer the question.
             
         If you feel like you don't have enough information to answer the question, say "lo siento no tengo informacion sobre eso.
-        para saber mas por favor pongase en contacto con el equipo de urban data.".
+        para saber mas por favor pongase en contacto con el equipo de urban data.". Although, because you're an assistant, you should try to answer the common questions
+        like 'hello', 'how are you', etc.
             
         Your answers shouldn't be too verbose, should be detailed, fast and always in spanish.
         """,
@@ -98,7 +104,7 @@ def get_response(path, query, k=2):
     return response
 
 # configurar la interfaz de streamlit
-st.title("Asistente virtual ':material/smart_toy:'")
+st.title("Asistente virtual :material/smart_toy:")
 
 # inicializar el historial de mensajes si no existe
 if "messages" not in st.session_state:
@@ -120,23 +126,23 @@ if prompt := st.chat_input("Tu Consulta"):
         st.markdown(prompt)
     st.session_state.messages.append({"role": "user", "content": prompt})
 
-# obtener la respuesta completa
-start_time = time.time()
-respuesta_obtenida = get_response(path, prompt)
-end_time = time.time()
-elapsed_time = end_time - start_time
-print(f"Tiempo de respuesta: {elapsed_time} segundos")
+    # obtener la respuesta completa
+    start_time = time.time()
+    respuesta_obtenida = get_response(path, prompt)
+    end_time = time.time()
+    elapsed_time = end_time - start_time
+    print(f"Tiempo de respuesta: {elapsed_time} segundos")
 
-# mostrar la respuesta gradualmente, letra por letra
-with st.chat_message("assistant") as response_message:
-    response_placeholder = st.empty()
-    partial_response = ""
-    for i, char in enumerate(respuesta_obtenida):
-        partial_response += char
-        if i % 10 == 0:  # actualiza cada 10 caracteres
-            response_placeholder.markdown(partial_response)
-            time.sleep(0.05)  # añade un pequeño retraso para simular la velocidad de escritura
-    response_placeholder.markdown(partial_response)  # muestra el mensaje completo al final
+    # mostrar la respuesta gradualmente, letra por letra
+    with st.chat_message("assistant") as response_message:
+        response_placeholder = st.empty()
+        partial_response = ""
+        for i, char in enumerate(respuesta_obtenida):
+            partial_response += char
+            if i % 10 == 0:  # actualiza cada 10 caracteres
+                response_placeholder.markdown(partial_response)
+                time.sleep(0.05)  # añade un pequeño retraso para simular la velocidad de escritura
+        response_placeholder.markdown(partial_response)  # muestra el mensaje completo al final
 
-# actualizar el historial de mensajes
-st.session_state.messages.append({"role": "assistant", "content": respuesta_obtenida})
+    # actualizar el historial de mensajes
+    st.session_state.messages.append({"role": "assistant", "content": respuesta_obtenida})
