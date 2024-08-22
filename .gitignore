@@ -1,7 +1,12 @@
 env/
 
+venv/
+
 **/__pycache__/
 
 .streamlit/secrets.toml
 
 producto/Bot (1).py
+
+assets/vertex.json
+producto/Bot.py

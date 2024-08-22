@@ -7,6 +7,7 @@ from langchain.chains import LLMChain
 from langchain_community.vectorstores import FAISS
 from langchain_google_vertexai import VertexAIEmbeddings
 import vertexai
+from langchain_google_vertexai import VertexAI
 from forms.contacto import contactar
 from google.oauth2 import service_account
 
@@ -55,7 +56,9 @@ embeddings = VertexAIEmbeddings(
 path = 'assets/FAQ.txt'  # ruta al archivo de texto con preguntas y respuestas
 
 # configuro el modelo ollama
-llm = OllamaLLM(model='llama3.1:latest')
+
+llm = VertexAI(model_name= "text-bison") #Contesta hay que configurar el prompt para que responda preguntas basicas
+
 
 def carga_chunks_db(path):
     # leo el archivo completo
@@ -70,12 +73,7 @@ def carga_chunks_db(path):
 
 def get_response(path, query, k=5):
     db = carga_chunks_db(path)
-    print('\n\n')
-    print('Base de datos: ', db)
-    print('\n\n')
-    print('\n\n')
-    print('Query: ', query)
-    print('\n\n')
+
     # realizo la búsqueda de documentos similares
     docs = db.similarity_search(query, k=k)
     # obtengo el contenido de los documentos
@@ -94,7 +92,8 @@ def get_response(path, query, k=5):
         Only use the factual information from the document to answer the question.
             
         If you feel like you don't have enough information to answer the question, say "lo siento no tengo informacion sobre eso.
-        para saber mas por favor pongase en contacto con el equipo de urban data.".
+        para saber mas por favor pongase en contacto con el equipo de urban data.". Although, because you're an assistant, you should try to answer the common questions
+        like 'hello', 'how are you', etc.
             
         Your answers shouldn't be too verbose, should be detailed, fast and always in spanish.
         """,
@@ -108,7 +107,9 @@ def get_response(path, query, k=5):
     return response
 
 # configurar la interfaz de streamlit
-st.title("Asistente virtual ':material/smart_toy:'")
+
+st.title("Asistente virtual :material/smart_toy:")
+
 
 # inicializar el historial de mensajes si no existe
 if "messages" not in st.session_state:
@@ -136,7 +137,7 @@ if prompt := st.chat_input("Tu Consulta"):
     end_time = time.time()
     elapsed_time = end_time - start_time
     print(f"Tiempo de respuesta: {elapsed_time} segundos")
-    
+
     # mostrar la respuesta gradualmente, letra por letra
     with st.chat_message("assistant") as response_message:
         response_placeholder = st.empty()
