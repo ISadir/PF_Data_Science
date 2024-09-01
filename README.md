@@ -99,7 +99,7 @@ $$ROI=((Ingresos\ totales\ mensual - Costos\ totales\ mensual) / inversión)*100
 </p>
 
 <p align="center">
-<img src="https://i.postimg.cc/hPHpPgJb/pipelina.gif" alt="Proyecto-final-Henry" width="800">
+<img src="https://i.postimg.cc/9Qm8d624/Proyecto-final-Henry.gif" alt="Proyecto-final-Henry" width="800">
 </p>
 
 # Metodología de trabajo
