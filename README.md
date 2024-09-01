@@ -117,7 +117,7 @@ En el equipo no hay subequipos ni jerarquías,  es una unidad cohesionada de pro
 </div>
 
 <p align="center">
-<img src="https://i.postimg.cc/T3mrkgCS/Proyecto-final-Henry-4.png" alt="Proyecto-final-Henry" width="800">
+<img src="https://i.postimg.cc/3JpnQK80/scrum.png" alt="Proyecto-final-Henry" width="800">
 </p>
 
 # Producto
@@ -153,5 +153,5 @@ En el equipo no hay subequipos ni jerarquías,  es una unidad cohesionada de pro
 
 #
 <p align="center">
-<img src="https://i.postimg.cc/T3mrkgCS/Proyecto-final-Henry-4.png" alt="Proyecto-final-Henry" width="400">
+<img src="https://i.postimg.cc/zvPZmq8c/gracias.png" alt="Proyecto-final-Henry" width="400">
 </p>
