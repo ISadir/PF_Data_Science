@@ -25,7 +25,7 @@ st.components.v1.iframe(
     scrolling=True  # Habilitar el scrolling si el contenido es grande
 )
 
-st.subheader("Algunas concluciones a tener en cuenta")
+st.subheader("Algunas conclusiones a tener en cuenta")
 
 st.markdown("""
 Con una flota inicial de 5 autos, cada uno realizando un promedio de 20 viajes diarios, se pueden destacar varios puntos clave:
@@ -48,7 +48,7 @@ st.components.v1.iframe(
     scrolling=True  # Habilitar el scrolling si el contenido es grande
 )
 
-st.subheader("Algunas concluciones a tener en cuenta")
+st.subheader("Algunas conclusiones a tener en cuenta")
 
 st.markdown("""
 Considerando los autos eléctricos disponibles en el mercado y la infraestructura de carga, podemos concluir lo siguiente:
