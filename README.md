@@ -23,7 +23,7 @@
 >Somos una consultora que transforma los datos en información. Buscamos ser un aliado estratégico para su empresa, centrados en ayudarle a alcanzar sus objetivos a través del correcto aprovechamiento de sus datos. Nuestro propósito es  transformar positivamente el entorno a través del uso inteligente de la información.
 
 <p align="center">
-<img src="https://i.postimg.cc/mZ0jVX8B/Proyecto-final-Henry-2.png" alt="Proyecto-final-Henry" width="650">
+<img src="https://i.postimg.cc/xCMSbwGk/equipo.png" alt="Proyecto-final-Henry" width="650">
 </p>
 
 # Nuestro cliente
@@ -99,7 +99,7 @@ $$ROI=((Ingresos\ totales\ mensual - Costos\ totales\ mensual) / inversión)*100
 </p>
 
 <p align="center">
-<img src="https://i.postimg.cc/NMpdgHT5/Proyecto-final-Henry-5.png" alt="Proyecto-final-Henry" width="800">
+<img src="https://i.postimg.cc/hPHpPgJb/pipelina.gif" alt="Proyecto-final-Henry" width="800">
 </p>
 
 # Metodología de trabajo
@@ -117,7 +117,7 @@ En el equipo no hay subequipos ni jerarquías,  es una unidad cohesionada de pro
 </div>
 
 <p align="center">
-<img src="https://i.postimg.cc/zf8qsYFN/Proyecto-final-Henry-3.png" alt="Proyecto-final-Henry" width="800">
+<img src="https://i.postimg.cc/T3mrkgCS/Proyecto-final-Henry-4.png" alt="Proyecto-final-Henry" width="800">
 </p>
 
 # Producto
