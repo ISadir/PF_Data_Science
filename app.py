@@ -10,7 +10,7 @@ pagina1 = st.Page(
 
 pagina2 = st.Page(
     page = 'producto/ML.py',
-    title = 'Forescasting',
+    title = 'Forecasting',
     icon = ':material/timeline:')
 
 pagina3 = st.Page(
