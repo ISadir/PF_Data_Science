@@ -168,7 +168,6 @@ Observamos que luego de la busqueda,testeo y modificacion de hyperparametros apl
 Con estas mejoras, concluimos que el Modelo desarrollado, aunque imperfecto, otorga un buen pronostico de las columnas de interes, y esta listo para desplegarse en StreamLit para su uso por el cliente, con posibilidades de mejora futura en la implementacion de hyperparametros especificamente adecuados a cada prediccion deseada y mejorar aun mas el rendimiento del Modelo.
 
 Navegacion en la pagina:
-En 'Home' podras ver un poco quienes somos.
+En 'Home' podras ver un poco quienes somos y podras ingresar a hablar con nuestro Asistente Virtual para resolver dudas.
 En 'Forecasting' podras ver nuestro modelo de Machine Learning con el cual predecimos que pasara con los taxis de NYC en un futuro cercano.
-En 'Dashboards BI' podras ver los dashboards que hicimos y que conclusiones obtuvimos con los datos que teníamos.
-Y en 'Asistente Virtual' podras ingresar a hablar con un bot para resolver dudas.
+Y en 'Dashboards BI' podras ver los dashboards que hicimos y que conclusiones obtuvimos con los datos que teníamos.
